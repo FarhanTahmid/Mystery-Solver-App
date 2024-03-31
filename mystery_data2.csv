@@ -1,0 +1,1001 @@
+Case ID,Suspect,Variable,Value,Description,Solution
+C7345,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C5897,Mary,Weapon,Gun,Murder weapon,Alice
+C5892,John,Location,Living Room,Location of the crime,Peter
+C3751,Mary,Motive,Revenge,Suspect's motive for the crime,Mary
+C8232,John,Location,Living Room,Location of the crime,Mary
+C8390,Mary,Motive,None,Suspect's motive for the crime,Mary
+C5806,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C6535,Mary,Location,Living Room,Location of the crime,Mary
+C5288,Peter,Opportunity,High,Suspect's opportunity to commit the crime,John
+C5375,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5866,John,Motive,None,Suspect's motive for the crime,Peter
+C2334,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C9323,John,Weapon,Poison,Murder weapon,Alice
+C7397,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9326,Alice,Weapon,Gun,Murder weapon,Mary
+C9461,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C8183,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C4940,Mary,Motive,None,Suspect's motive for the crime,Mary
+C7852,Alice,Weapon,Fists,Murder weapon,Peter
+C7278,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C8217,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C6451,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C7882,Mary,Location,Living Room,Location of the crime,Peter
+C8225,John,Motive,Jealousy,Suspect's motive for the crime,Mary
+C6224,John,Motive,Jealousy,Suspect's motive for the crime,Peter
+C4571,John,Weapon,Poison,Murder weapon,John
+C6711,Peter,Weapon,Poison,Murder weapon,Peter
+C8865,Peter,Location,Living Room,Location of the crime,Mary
+C4650,John,Weapon,Gun,Murder weapon,Peter
+C9172,John,Motive,None,Suspect's motive for the crime,John
+C1826,John,Weapon,Knife,Murder weapon,Mary
+C6679,Peter,Weapon,Knife,Murder weapon,Alice
+C1710,Peter,Motive,Greed,Suspect's motive for the crime,Peter
+C6814,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C8701,Peter,Motive,Revenge,Suspect's motive for the crime,Alice
+C2572,Peter,Location,Kitchen,Location of the crime,Alice
+C7766,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C2654,Peter,Location,Living Room,Location of the crime,Mary
+C7223,Mary,Motive,Jealousy,Suspect's motive for the crime,Mary
+C3948,Alice,Weapon,Fists,Murder weapon,Mary
+C1130,John,Weapon,Knife,Murder weapon,John
+C7267,Mary,Location,Garden,Location of the crime,Mary
+C1889,Alice,Weapon,Fists,Murder weapon,Peter
+C8448,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C1922,Alice,Location,Kitchen,Location of the crime,Mary
+C5999,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C9184,John,Motive,Jealousy,Suspect's motive for the crime,John
+C3975,John,Weapon,Fists,Murder weapon,Peter
+C5495,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C7918,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C2414,Peter,Weapon,Poison,Murder weapon,Alice
+C1261,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C9661,John,Weapon,Gun,Murder weapon,John
+C8911,John,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C1423,Mary,Motive,None,Suspect's motive for the crime,John
+C3096,Alice,Motive,None,Suspect's motive for the crime,Mary
+C2751,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C4781,Peter,Motive,Jealousy,Suspect's motive for the crime,Alice
+C2191,Mary,Motive,None,Suspect's motive for the crime,Alice
+C7366,Peter,Location,Garden,Location of the crime,Alice
+C2094,Alice,Location,Kitchen,Location of the crime,Peter
+C3290,John,Location,Garden,Location of the crime,Mary
+C9474,Alice,Location,Living Room,Location of the crime,Peter
+C3304,Peter,Motive,Revenge,Suspect's motive for the crime,Peter
+C1166,Mary,Weapon,Gun,Murder weapon,John
+C1088,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C5441,John,Weapon,Poison,Murder weapon,Alice
+C7893,Mary,Weapon,Fists,Murder weapon,Alice
+C9329,Mary,Motive,Revenge,Suspect's motive for the crime,Mary
+C5623,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C6064,Mary,Weapon,Gun,Murder weapon,Peter
+C7037,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C9088,John,Weapon,Gun,Murder weapon,Alice
+C1250,Peter,Motive,Jealousy,Suspect's motive for the crime,Mary
+C6354,Peter,Weapon,Knife,Murder weapon,Mary
+C3332,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5189,Peter,Location,Garden,Location of the crime,Mary
+C2945,Alice,Motive,None,Suspect's motive for the crime,Peter
+C6454,Peter,Location,Garden,Location of the crime,John
+C9379,Alice,Motive,Greed,Suspect's motive for the crime,John
+C7934,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C9718,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C6800,John,Weapon,Knife,Murder weapon,John
+C5863,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C9692,John,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C3361,John,Weapon,Poison,Murder weapon,Mary
+C5671,Peter,Motive,Revenge,Suspect's motive for the crime,Alice
+C5091,Alice,Location,Garden,Location of the crime,Mary
+C6560,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C7716,Peter,Weapon,Knife,Murder weapon,John
+C1988,Peter,Motive,None,Suspect's motive for the crime,Mary
+C8265,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C8425,Mary,Motive,Revenge,Suspect's motive for the crime,Mary
+C3338,John,Motive,None,Suspect's motive for the crime,Mary
+C2890,John,Motive,None,Suspect's motive for the crime,Mary
+C4487,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C2190,Mary,Location,Living Room,Location of the crime,Alice
+C9535,John,Location,Bedroom,Location of the crime,Peter
+C1159,Alice,Motive,Revenge,Suspect's motive for the crime,Mary
+C7880,Mary,Motive,Jealousy,Suspect's motive for the crime,Mary
+C2670,Mary,Motive,None,Suspect's motive for the crime,Alice
+C3548,Alice,Weapon,Fists,Murder weapon,Mary
+C7751,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C2375,John,Location,Kitchen,Location of the crime,John
+C5284,John,Location,Kitchen,Location of the crime,Peter
+C4997,Mary,Motive,Greed,Suspect's motive for the crime,Alice
+C1374,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C3683,John,Motive,None,Suspect's motive for the crime,Mary
+C2784,Alice,Motive,None,Suspect's motive for the crime,John
+C3428,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C5179,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C9263,Peter,Weapon,Gun,Murder weapon,Alice
+C7457,Mary,Motive,Greed,Suspect's motive for the crime,Peter
+C6949,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C9009,Mary,Weapon,Fists,Murder weapon,John
+C7251,Mary,Motive,Greed,Suspect's motive for the crime,Mary
+C2366,Mary,Location,Kitchen,Location of the crime,John
+C3855,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C3033,Mary,Location,Kitchen,Location of the crime,John
+C8105,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C2093,Peter,Weapon,Gun,Murder weapon,John
+C3845,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C9381,Alice,Weapon,Poison,Murder weapon,Mary
+C8176,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C5375,Alice,Weapon,Fists,Murder weapon,Alice
+C7509,Alice,Location,Bedroom,Location of the crime,John
+C3430,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C7126,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9988,Alice,Motive,Revenge,Suspect's motive for the crime,Mary
+C3779,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C7902,Peter,Weapon,Gun,Murder weapon,Alice
+C9769,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C7964,Peter,Location,Garden,Location of the crime,Peter
+C4947,Peter,Location,Garden,Location of the crime,Mary
+C7474,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C1095,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C5057,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5525,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C8390,Mary,Weapon,Knife,Murder weapon,John
+C7855,Peter,Weapon,Gun,Murder weapon,John
+C8693,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4131,John,Location,Living Room,Location of the crime,Mary
+C9453,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C7515,Peter,Weapon,Poison,Murder weapon,John
+C5559,Alice,Weapon,Poison,Murder weapon,Peter
+C2083,John,Location,Living Room,Location of the crime,John
+C1969,Alice,Location,Garden,Location of the crime,Mary
+C4610,Mary,Opportunity,High,Suspect's opportunity to commit the crime,John
+C2537,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C8038,Alice,Location,Kitchen,Location of the crime,John
+C1274,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C8958,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C4111,Mary,Weapon,Gun,Murder weapon,John
+C6044,Alice,Location,Garden,Location of the crime,Mary
+C1375,John,Location,Garden,Location of the crime,Alice
+C3363,Peter,Location,Kitchen,Location of the crime,John
+C3073,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C6826,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C9176,Alice,Motive,Revenge,Suspect's motive for the crime,Mary
+C6492,Peter,Location,Kitchen,Location of the crime,Mary
+C4737,Peter,Weapon,Poison,Murder weapon,Mary
+C8842,Peter,Motive,Jealousy,Suspect's motive for the crime,John
+C9792,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C9152,Alice,Motive,Greed,Suspect's motive for the crime,Mary
+C2240,Alice,Motive,None,Suspect's motive for the crime,Mary
+C3521,Alice,Weapon,Gun,Murder weapon,Mary
+C1799,Alice,Location,Garden,Location of the crime,Mary
+C8418,John,Location,Bedroom,Location of the crime,Mary
+C9517,Alice,Location,Bedroom,Location of the crime,Alice
+C3094,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5545,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C5478,John,Motive,Revenge,Suspect's motive for the crime,Alice
+C3898,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C1710,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C3056,Mary,Motive,None,Suspect's motive for the crime,John
+C2686,Peter,Motive,Revenge,Suspect's motive for the crime,Alice
+C4696,Mary,Location,Bedroom,Location of the crime,Alice
+C9561,Mary,Weapon,Gun,Murder weapon,John
+C2386,Mary,Location,Bedroom,Location of the crime,Mary
+C8327,Peter,Location,Bedroom,Location of the crime,Mary
+C9907,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C1414,Peter,Location,Living Room,Location of the crime,John
+C9553,Peter,Motive,Jealousy,Suspect's motive for the crime,John
+C3788,John,Location,Garden,Location of the crime,Peter
+C1016,John,Location,Bedroom,Location of the crime,Peter
+C2381,Alice,Weapon,Poison,Murder weapon,Alice
+C9840,Mary,Location,Kitchen,Location of the crime,Peter
+C2859,Alice,Motive,None,Suspect's motive for the crime,John
+C7231,Peter,Weapon,Poison,Murder weapon,Mary
+C8258,Peter,Location,Garden,Location of the crime,John
+C3586,Mary,Motive,None,Suspect's motive for the crime,Mary
+C2073,John,Opportunity,High,Suspect's opportunity to commit the crime,John
+C9405,Alice,Weapon,Knife,Murder weapon,John
+C8823,Alice,Location,Bedroom,Location of the crime,John
+C2288,John,Weapon,Knife,Murder weapon,Peter
+C9504,Mary,Weapon,Fists,Murder weapon,John
+C7301,John,Location,Bedroom,Location of the crime,Mary
+C6351,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C6781,Alice,Weapon,Poison,Murder weapon,Peter
+C4934,Mary,Motive,None,Suspect's motive for the crime,John
+C3110,John,Location,Kitchen,Location of the crime,Alice
+C9484,Peter,Motive,None,Suspect's motive for the crime,Alice
+C4788,Alice,Motive,Greed,Suspect's motive for the crime,John
+C7075,Alice,Location,Garden,Location of the crime,John
+C5690,John,Motive,None,Suspect's motive for the crime,Alice
+C5646,Peter,Weapon,Knife,Murder weapon,Peter
+C5598,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C9851,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9274,John,Motive,Revenge,Suspect's motive for the crime,John
+C8951,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C5427,Alice,Location,Kitchen,Location of the crime,Mary
+C7151,Peter,Motive,Greed,Suspect's motive for the crime,Alice
+C6365,John,Motive,None,Suspect's motive for the crime,Peter
+C6347,Alice,Motive,Jealousy,Suspect's motive for the crime,Mary
+C4114,Mary,Weapon,Gun,Murder weapon,John
+C8243,Alice,Opportunity,High,Suspect's opportunity to commit the crime,John
+C7865,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C6117,Alice,Motive,None,Suspect's motive for the crime,Peter
+C7950,Mary,Location,Kitchen,Location of the crime,Alice
+C3641,Mary,Location,Bedroom,Location of the crime,Alice
+C1002,John,Weapon,Gun,Murder weapon,John
+C5670,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C1386,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C4359,Mary,Location,Bedroom,Location of the crime,John
+C3786,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5173,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C9758,Alice,Location,Living Room,Location of the crime,Peter
+C7127,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C9815,John,Motive,None,Suspect's motive for the crime,Peter
+C3502,Alice,Motive,Jealousy,Suspect's motive for the crime,Mary
+C7412,Peter,Location,Garden,Location of the crime,Peter
+C4677,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C6583,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5006,Alice,Location,Living Room,Location of the crime,Mary
+C2712,Peter,Weapon,Fists,Murder weapon,Mary
+C6566,Peter,Motive,Greed,Suspect's motive for the crime,Peter
+C1497,Alice,Location,Garden,Location of the crime,Alice
+C3840,Alice,Location,Bedroom,Location of the crime,Mary
+C6715,Mary,Weapon,Fists,Murder weapon,Peter
+C8580,John,Location,Bedroom,Location of the crime,Mary
+C9533,Alice,Motive,None,Suspect's motive for the crime,Peter
+C8296,John,Motive,Jealousy,Suspect's motive for the crime,Mary
+C7567,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C7741,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C3269,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C2471,Alice,Location,Kitchen,Location of the crime,Peter
+C3317,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C5274,Peter,Motive,Revenge,Suspect's motive for the crime,Peter
+C5451,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C5750,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C3838,Peter,Weapon,Poison,Murder weapon,Alice
+C5197,John,Weapon,Gun,Murder weapon,Peter
+C4736,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C6569,Mary,Motive,Jealousy,Suspect's motive for the crime,Alice
+C2868,Alice,Location,Garden,Location of the crime,John
+C3788,Peter,Motive,Revenge,Suspect's motive for the crime,Mary
+C6920,John,Motive,Jealousy,Suspect's motive for the crime,Peter
+C7768,Alice,Location,Bedroom,Location of the crime,John
+C7196,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C1155,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C3120,John,Location,Garden,Location of the crime,Alice
+C2723,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C3567,John,Weapon,Poison,Murder weapon,Alice
+C8837,Mary,Weapon,Poison,Murder weapon,Alice
+C6445,John,Opportunity,High,Suspect's opportunity to commit the crime,John
+C9786,Peter,Location,Garden,Location of the crime,John
+C1774,John,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C7351,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C1048,Alice,Motive,Revenge,Suspect's motive for the crime,Mary
+C8852,Peter,Motive,Greed,Suspect's motive for the crime,John
+C4063,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C9165,Alice,Motive,Greed,Suspect's motive for the crime,Alice
+C6944,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C7566,Alice,Motive,Greed,Suspect's motive for the crime,Alice
+C7647,Peter,Location,Garden,Location of the crime,Mary
+C5289,Mary,Location,Garden,Location of the crime,Alice
+C3286,Peter,Location,Kitchen,Location of the crime,John
+C6617,Mary,Location,Living Room,Location of the crime,John
+C6479,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C5151,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C2970,John,Weapon,Poison,Murder weapon,Mary
+C8098,Peter,Location,Kitchen,Location of the crime,John
+C7719,Peter,Location,Bedroom,Location of the crime,Alice
+C2174,John,Weapon,Fists,Murder weapon,Alice
+C1276,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C7960,Peter,Motive,Greed,Suspect's motive for the crime,Peter
+C7619,Peter,Motive,Jealousy,Suspect's motive for the crime,Mary
+C5903,Alice,Motive,Revenge,Suspect's motive for the crime,Mary
+C3683,Peter,Weapon,Poison,Murder weapon,Mary
+C7614,Peter,Motive,None,Suspect's motive for the crime,Peter
+C8068,Mary,Location,Living Room,Location of the crime,Mary
+C5594,Alice,Weapon,Fists,Murder weapon,John
+C8767,Mary,Motive,None,Suspect's motive for the crime,Alice
+C1181,Mary,Motive,Revenge,Suspect's motive for the crime,John
+C3010,Peter,Motive,Greed,Suspect's motive for the crime,John
+C8839,John,Weapon,Gun,Murder weapon,John
+C9220,John,Location,Bedroom,Location of the crime,Mary
+C1760,John,Location,Living Room,Location of the crime,Peter
+C2978,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C2764,Peter,Location,Bedroom,Location of the crime,Alice
+C5035,Alice,Location,Garden,Location of the crime,Mary
+C2976,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5002,Mary,Motive,Greed,Suspect's motive for the crime,John
+C5494,John,Location,Garden,Location of the crime,Alice
+C3721,John,Weapon,Poison,Murder weapon,John
+C8794,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C3685,Alice,Location,Kitchen,Location of the crime,Alice
+C4564,Alice,Motive,None,Suspect's motive for the crime,Peter
+C1868,Peter,Motive,None,Suspect's motive for the crime,Mary
+C9924,Alice,Weapon,Knife,Murder weapon,John
+C3742,Mary,Location,Kitchen,Location of the crime,Peter
+C1484,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C5477,John,Motive,None,Suspect's motive for the crime,John
+C2325,Mary,Motive,Jealousy,Suspect's motive for the crime,Alice
+C1127,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C5627,Alice,Weapon,Gun,Murder weapon,John
+C2677,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C2683,John,Motive,Greed,Suspect's motive for the crime,Peter
+C6902,John,Weapon,Knife,Murder weapon,John
+C2788,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5916,Alice,Location,Bedroom,Location of the crime,John
+C8550,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C6966,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C7623,Alice,Weapon,Fists,Murder weapon,Alice
+C2967,John,Location,Bedroom,Location of the crime,John
+C2890,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C5798,Peter,Location,Garden,Location of the crime,John
+C1401,Peter,Location,Kitchen,Location of the crime,Mary
+C9555,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C4206,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4428,John,Location,Living Room,Location of the crime,Peter
+C4097,John,Weapon,Poison,Murder weapon,John
+C6041,Peter,Weapon,Knife,Murder weapon,Mary
+C4075,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C1920,John,Location,Garden,Location of the crime,Alice
+C1114,Mary,Opportunity,High,Suspect's opportunity to commit the crime,John
+C7759,John,Motive,None,Suspect's motive for the crime,Alice
+C5414,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C6210,John,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C8089,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C2272,Alice,Location,Garden,Location of the crime,Alice
+C1521,Mary,Motive,Greed,Suspect's motive for the crime,Alice
+C8415,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C3993,John,Location,Bedroom,Location of the crime,Peter
+C3902,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C4466,Alice,Weapon,Poison,Murder weapon,Mary
+C5934,Mary,Location,Bedroom,Location of the crime,John
+C2140,Alice,Location,Bedroom,Location of the crime,Peter
+C6262,Alice,Weapon,Fists,Murder weapon,Mary
+C8017,Peter,Location,Living Room,Location of the crime,Alice
+C4395,Alice,Weapon,Poison,Murder weapon,John
+C2168,Peter,Motive,None,Suspect's motive for the crime,Peter
+C9242,Mary,Weapon,Gun,Murder weapon,Alice
+C6725,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5366,Peter,Weapon,Knife,Murder weapon,John
+C2827,John,Location,Bedroom,Location of the crime,Alice
+C4511,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C6078,John,Location,Living Room,Location of the crime,Mary
+C1441,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C8241,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5194,Peter,Motive,None,Suspect's motive for the crime,Mary
+C7551,Peter,Location,Garden,Location of the crime,Mary
+C2521,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C5303,Mary,Opportunity,High,Suspect's opportunity to commit the crime,John
+C7321,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C8144,Peter,Weapon,Knife,Murder weapon,Peter
+C2107,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C7643,Alice,Weapon,Poison,Murder weapon,Alice
+C6196,Alice,Weapon,Knife,Murder weapon,Alice
+C3163,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5730,Alice,Location,Garden,Location of the crime,Alice
+C5189,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C2091,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C9595,Alice,Location,Living Room,Location of the crime,John
+C7047,John,Location,Living Room,Location of the crime,Mary
+C2463,John,Location,Garden,Location of the crime,Mary
+C9007,John,Motive,Greed,Suspect's motive for the crime,Alice
+C3662,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C9414,Peter,Location,Garden,Location of the crime,Alice
+C6062,Mary,Weapon,Knife,Murder weapon,Alice
+C7583,Peter,Weapon,Fists,Murder weapon,John
+C7933,Mary,Location,Living Room,Location of the crime,Peter
+C7105,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C3179,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C1279,John,Weapon,Knife,Murder weapon,Peter
+C1170,Alice,Weapon,Fists,Murder weapon,Alice
+C5973,Alice,Location,Garden,Location of the crime,John
+C6421,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C6015,Mary,Motive,Jealousy,Suspect's motive for the crime,John
+C8727,John,Weapon,Knife,Murder weapon,Alice
+C5322,Mary,Weapon,Fists,Murder weapon,Peter
+C9149,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C9212,Peter,Location,Bedroom,Location of the crime,Mary
+C4946,John,Location,Kitchen,Location of the crime,John
+C9784,John,Location,Kitchen,Location of the crime,Peter
+C8274,Alice,Weapon,Fists,Murder weapon,Mary
+C4731,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C6420,Alice,Weapon,Knife,Murder weapon,John
+C3974,Peter,Motive,Greed,Suspect's motive for the crime,Alice
+C8330,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C3040,Mary,Weapon,Fists,Murder weapon,Peter
+C9788,Mary,Location,Kitchen,Location of the crime,Peter
+C9332,Mary,Weapon,Fists,Murder weapon,John
+C8328,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C9029,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C2651,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C6119,Alice,Location,Kitchen,Location of the crime,Alice
+C9986,Alice,Motive,None,Suspect's motive for the crime,Alice
+C8815,Mary,Location,Bedroom,Location of the crime,Peter
+C4585,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5439,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C3894,Peter,Location,Kitchen,Location of the crime,John
+C3724,Mary,Location,Garden,Location of the crime,John
+C6998,Peter,Motive,None,Suspect's motive for the crime,Peter
+C4107,Peter,Weapon,Knife,Murder weapon,John
+C4912,Alice,Weapon,Gun,Murder weapon,Alice
+C1163,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C8901,Mary,Weapon,Gun,Murder weapon,John
+C2996,Peter,Weapon,Poison,Murder weapon,Mary
+C7614,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C8933,Peter,Motive,Jealousy,Suspect's motive for the crime,Alice
+C4158,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C9833,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9479,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C2183,John,Motive,Jealousy,Suspect's motive for the crime,Mary
+C7951,Mary,Weapon,Fists,Murder weapon,Alice
+C8656,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4404,John,Location,Garden,Location of the crime,Mary
+C7700,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C2773,Alice,Location,Bedroom,Location of the crime,Mary
+C1091,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C7751,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5538,Peter,Weapon,Knife,Murder weapon,John
+C4782,Mary,Weapon,Poison,Murder weapon,Peter
+C9848,Peter,Location,Garden,Location of the crime,John
+C4765,Alice,Location,Living Room,Location of the crime,John
+C8330,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C7319,Alice,Weapon,Poison,Murder weapon,Mary
+C6187,Peter,Opportunity,High,Suspect's opportunity to commit the crime,John
+C6907,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C4121,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C7163,Alice,Location,Garden,Location of the crime,Mary
+C8795,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C8149,Peter,Motive,None,Suspect's motive for the crime,Alice
+C4526,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C1859,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C5972,Alice,Weapon,Gun,Murder weapon,Peter
+C7970,Alice,Weapon,Knife,Murder weapon,John
+C4242,John,Location,Kitchen,Location of the crime,Alice
+C6658,Mary,Location,Living Room,Location of the crime,Peter
+C1979,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C4282,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C4849,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C8354,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C9487,John,Weapon,Fists,Murder weapon,Mary
+C8713,Peter,Location,Kitchen,Location of the crime,John
+C4939,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C8400,Mary,Motive,Revenge,Suspect's motive for the crime,Mary
+C1631,John,Weapon,Gun,Murder weapon,Mary
+C4121,John,Location,Garden,Location of the crime,Peter
+C6387,Alice,Location,Kitchen,Location of the crime,John
+C7359,Peter,Weapon,Gun,Murder weapon,John
+C5914,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C8487,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3079,Peter,Motive,Greed,Suspect's motive for the crime,John
+C4382,Alice,Location,Living Room,Location of the crime,Alice
+C6189,Peter,Location,Kitchen,Location of the crime,Mary
+C3811,Alice,Location,Bedroom,Location of the crime,John
+C1579,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C8819,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C6013,John,Motive,None,Suspect's motive for the crime,Mary
+C4728,Alice,Weapon,Gun,Murder weapon,Mary
+C3018,Peter,Motive,None,Suspect's motive for the crime,Mary
+C4911,Peter,Location,Kitchen,Location of the crime,Peter
+C2178,Alice,Weapon,Gun,Murder weapon,John
+C6189,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C3597,John,Location,Bedroom,Location of the crime,Alice
+C7778,John,Weapon,Knife,Murder weapon,Mary
+C7974,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C5350,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C2802,Peter,Weapon,Fists,Murder weapon,Alice
+C3689,Peter,Weapon,Fists,Murder weapon,John
+C6666,Mary,Location,Kitchen,Location of the crime,John
+C3955,John,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C9504,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C7843,John,Location,Kitchen,Location of the crime,John
+C6749,Mary,Location,Garden,Location of the crime,John
+C7700,Mary,Motive,None,Suspect's motive for the crime,Mary
+C9363,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C4815,John,Motive,None,Suspect's motive for the crime,Peter
+C8774,Alice,Weapon,Poison,Murder weapon,John
+C1243,Alice,Weapon,Fists,Murder weapon,John
+C5032,Mary,Motive,Jealousy,Suspect's motive for the crime,Peter
+C3723,Mary,Weapon,Knife,Murder weapon,Alice
+C2605,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C8886,Mary,Location,Living Room,Location of the crime,Mary
+C7305,John,Weapon,Fists,Murder weapon,Peter
+C4599,Mary,Weapon,Fists,Murder weapon,Alice
+C5371,Mary,Weapon,Poison,Murder weapon,Alice
+C9522,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C6614,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C4079,Alice,Motive,None,Suspect's motive for the crime,John
+C7547,Mary,Location,Garden,Location of the crime,John
+C1067,Mary,Location,Living Room,Location of the crime,Peter
+C4625,Peter,Motive,Greed,Suspect's motive for the crime,Mary
+C1515,Peter,Motive,Greed,Suspect's motive for the crime,Alice
+C6924,Mary,Location,Living Room,Location of the crime,Mary
+C2842,John,Motive,Greed,Suspect's motive for the crime,Mary
+C5666,Alice,Weapon,Fists,Murder weapon,Peter
+C7566,Alice,Motive,Jealousy,Suspect's motive for the crime,Alice
+C6140,Mary,Location,Living Room,Location of the crime,Alice
+C5320,Mary,Weapon,Knife,Murder weapon,John
+C8965,Peter,Motive,None,Suspect's motive for the crime,John
+C1962,Mary,Weapon,Knife,Murder weapon,Mary
+C1000,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C1871,Peter,Weapon,Knife,Murder weapon,Alice
+C2125,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C5400,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C8656,Alice,Motive,Jealousy,Suspect's motive for the crime,Alice
+C8435,Mary,Motive,None,Suspect's motive for the crime,Alice
+C9907,John,Motive,Greed,Suspect's motive for the crime,John
+C2851,Peter,Motive,Jealousy,Suspect's motive for the crime,Alice
+C8082,Alice,Motive,Jealousy,Suspect's motive for the crime,Peter
+C1314,Alice,Location,Kitchen,Location of the crime,Alice
+C7167,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9413,Mary,Weapon,Gun,Murder weapon,John
+C5617,Alice,Motive,Jealousy,Suspect's motive for the crime,John
+C2634,Mary,Location,Living Room,Location of the crime,Mary
+C5252,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C7246,Peter,Weapon,Poison,Murder weapon,Alice
+C5421,John,Location,Living Room,Location of the crime,John
+C7107,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C6595,Alice,Weapon,Fists,Murder weapon,Peter
+C5652,Alice,Location,Garden,Location of the crime,Peter
+C5971,Peter,Location,Garden,Location of the crime,John
+C8189,Peter,Location,Bedroom,Location of the crime,Alice
+C9108,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C8560,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3480,Mary,Weapon,Gun,Murder weapon,Mary
+C5221,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3537,Alice,Weapon,Gun,Murder weapon,Alice
+C9467,Peter,Motive,Greed,Suspect's motive for the crime,Peter
+C8551,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C9345,Mary,Motive,Jealousy,Suspect's motive for the crime,Peter
+C9943,Alice,Weapon,Poison,Murder weapon,Alice
+C1438,Peter,Location,Living Room,Location of the crime,Peter
+C8035,John,Motive,None,Suspect's motive for the crime,John
+C5128,Peter,Weapon,Gun,Murder weapon,Mary
+C6959,John,Location,Living Room,Location of the crime,Peter
+C5346,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C5317,Peter,Weapon,Fists,Murder weapon,Alice
+C2935,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C6727,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5956,Peter,Weapon,Knife,Murder weapon,Alice
+C4744,Peter,Weapon,Knife,Murder weapon,John
+C2867,Peter,Location,Bedroom,Location of the crime,Peter
+C5498,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C4254,Mary,Motive,Revenge,Suspect's motive for the crime,Peter
+C6460,John,Weapon,Gun,Murder weapon,Mary
+C4256,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C2668,Mary,Motive,Revenge,Suspect's motive for the crime,Peter
+C8942,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C3145,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C7954,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C2710,Alice,Motive,None,Suspect's motive for the crime,Peter
+C1270,Mary,Location,Garden,Location of the crime,John
+C2753,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C6348,Peter,Weapon,Knife,Murder weapon,John
+C4809,Alice,Weapon,Fists,Murder weapon,John
+C2132,Mary,Motive,Revenge,Suspect's motive for the crime,Peter
+C4080,Alice,Weapon,Fists,Murder weapon,Peter
+C5503,John,Opportunity,High,Suspect's opportunity to commit the crime,John
+C1677,Peter,Location,Garden,Location of the crime,Alice
+C4526,Peter,Location,Garden,Location of the crime,Peter
+C3828,Alice,Weapon,Gun,Murder weapon,Peter
+C4469,John,Location,Kitchen,Location of the crime,Alice
+C9495,Alice,Location,Kitchen,Location of the crime,Mary
+C7193,Mary,Weapon,Poison,Murder weapon,Mary
+C9708,Mary,Weapon,Gun,Murder weapon,Peter
+C3065,Alice,Weapon,Knife,Murder weapon,Peter
+C5267,Peter,Weapon,Gun,Murder weapon,Alice
+C8469,John,Location,Kitchen,Location of the crime,Alice
+C6362,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C3982,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C1899,Peter,Weapon,Poison,Murder weapon,Alice
+C3922,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C8102,John,Weapon,Poison,Murder weapon,Mary
+C1509,Mary,Weapon,Knife,Murder weapon,Alice
+C1916,Alice,Motive,Jealousy,Suspect's motive for the crime,Peter
+C8368,John,Weapon,Knife,Murder weapon,Alice
+C5822,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C3671,Mary,Opportunity,High,Suspect's opportunity to commit the crime,John
+C6738,Mary,Weapon,Poison,Murder weapon,Peter
+C7515,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C1626,Peter,Weapon,Fists,Murder weapon,Alice
+C8908,John,Location,Living Room,Location of the crime,Peter
+C8796,Peter,Motive,None,Suspect's motive for the crime,John
+C6009,Peter,Location,Living Room,Location of the crime,Peter
+C6631,John,Location,Kitchen,Location of the crime,John
+C1789,Alice,Location,Living Room,Location of the crime,Peter
+C1785,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C4079,Alice,Motive,Greed,Suspect's motive for the crime,Mary
+C7157,Alice,Weapon,Knife,Murder weapon,Mary
+C5979,Peter,Location,Living Room,Location of the crime,Peter
+C2956,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C1028,John,Location,Living Room,Location of the crime,John
+C1552,John,Motive,Greed,Suspect's motive for the crime,John
+C8914,Mary,Location,Garden,Location of the crime,Peter
+C4514,Alice,Motive,Revenge,Suspect's motive for the crime,Alice
+C4155,Mary,Location,Living Room,Location of the crime,John
+C9035,John,Motive,None,Suspect's motive for the crime,John
+C9777,Mary,Location,Garden,Location of the crime,Peter
+C8936,John,Motive,None,Suspect's motive for the crime,Alice
+C8618,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5736,Peter,Weapon,Fists,Murder weapon,Mary
+C4466,Alice,Motive,Jealousy,Suspect's motive for the crime,John
+C6192,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C8294,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C1788,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C8500,Peter,Location,Bedroom,Location of the crime,Mary
+C3479,Mary,Weapon,Poison,Murder weapon,Peter
+C8427,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C7984,Peter,Location,Garden,Location of the crime,Alice
+C4785,Mary,Opportunity,High,Suspect's opportunity to commit the crime,John
+C1704,Alice,Location,Garden,Location of the crime,Peter
+C7720,John,Location,Garden,Location of the crime,Peter
+C1498,John,Weapon,Knife,Murder weapon,Alice
+C6084,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C2478,Peter,Motive,None,Suspect's motive for the crime,John
+C7115,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C6905,John,Weapon,Fists,Murder weapon,Alice
+C3990,Mary,Motive,Jealousy,Suspect's motive for the crime,Peter
+C1974,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C9982,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C9439,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C6939,John,Location,Bedroom,Location of the crime,Alice
+C3091,John,Location,Bedroom,Location of the crime,Mary
+C3670,John,Location,Kitchen,Location of the crime,Alice
+C9923,John,Motive,Revenge,Suspect's motive for the crime,John
+C2141,John,Location,Kitchen,Location of the crime,John
+C5401,John,Motive,Greed,Suspect's motive for the crime,John
+C7338,Mary,Location,Living Room,Location of the crime,John
+C5196,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C6604,Mary,Location,Living Room,Location of the crime,John
+C8779,Alice,Weapon,Knife,Murder weapon,Mary
+C6487,Alice,Location,Garden,Location of the crime,Mary
+C8413,Peter,Location,Kitchen,Location of the crime,Peter
+C4643,John,Motive,Jealousy,Suspect's motive for the crime,Alice
+C5845,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C1422,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C2124,Mary,Location,Living Room,Location of the crime,John
+C4975,John,Motive,Jealousy,Suspect's motive for the crime,Peter
+C5673,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9732,Mary,Weapon,Poison,Murder weapon,Mary
+C1605,John,Location,Kitchen,Location of the crime,Peter
+C8218,Alice,Location,Bedroom,Location of the crime,Peter
+C9466,John,Motive,Greed,Suspect's motive for the crime,John
+C2408,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C6752,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C8363,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C5641,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C6141,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C3640,Alice,Location,Living Room,Location of the crime,Alice
+C4718,Alice,Motive,Jealousy,Suspect's motive for the crime,Mary
+C9405,Alice,Motive,Greed,Suspect's motive for the crime,John
+C4963,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C9088,Alice,Weapon,Gun,Murder weapon,Peter
+C5889,Alice,Motive,Revenge,Suspect's motive for the crime,John
+C3407,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C7532,Peter,Weapon,Fists,Murder weapon,Peter
+C7657,Peter,Weapon,Gun,Murder weapon,John
+C2403,Peter,Motive,Greed,Suspect's motive for the crime,Peter
+C2304,Peter,Location,Living Room,Location of the crime,Peter
+C2417,Peter,Location,Garden,Location of the crime,Mary
+C9363,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C9414,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C7028,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C3241,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C3516,Peter,Motive,None,Suspect's motive for the crime,John
+C2145,John,Motive,Jealousy,Suspect's motive for the crime,Mary
+C1649,John,Location,Bedroom,Location of the crime,Alice
+C2988,John,Weapon,Gun,Murder weapon,Alice
+C1404,John,Location,Living Room,Location of the crime,Alice
+C6415,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C8403,Alice,Weapon,Poison,Murder weapon,John
+C5855,Peter,Motive,Greed,Suspect's motive for the crime,John
+C2686,Alice,Opportunity,High,Suspect's opportunity to commit the crime,John
+C6793,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C2198,John,Location,Kitchen,Location of the crime,Mary
+C2377,Mary,Location,Bedroom,Location of the crime,Alice
+C3832,Peter,Weapon,Knife,Murder weapon,Alice
+C7875,John,Weapon,Poison,Murder weapon,Mary
+C6226,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C6314,John,Location,Living Room,Location of the crime,Mary
+C5992,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C3817,Alice,Weapon,Gun,Murder weapon,Peter
+C1642,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C8864,Mary,Weapon,Fists,Murder weapon,Peter
+C9187,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C4343,Peter,Weapon,Poison,Murder weapon,Alice
+C9045,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C3075,John,Motive,Greed,Suspect's motive for the crime,Peter
+C7301,John,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3428,Alice,Motive,Jealousy,Suspect's motive for the crime,Peter
+C3701,Mary,Weapon,Poison,Murder weapon,Peter
+C5260,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5963,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C5391,Alice,Location,Garden,Location of the crime,Mary
+C2788,John,Motive,Greed,Suspect's motive for the crime,Peter
+C5821,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C8385,Peter,Weapon,Knife,Murder weapon,Mary
+C4297,Peter,Location,Garden,Location of the crime,Mary
+C5752,John,Location,Bedroom,Location of the crime,Mary
+C2645,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C5753,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C2220,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Peter
+C1496,Peter,Motive,None,Suspect's motive for the crime,Mary
+C5731,Mary,Motive,None,Suspect's motive for the crime,Mary
+C7315,John,Location,Garden,Location of the crime,Alice
+C6404,Mary,Location,Living Room,Location of the crime,Alice
+C8133,Alice,Weapon,Knife,Murder weapon,Alice
+C6926,John,Motive,Jealousy,Suspect's motive for the crime,John
+C4235,Peter,Motive,Jealousy,Suspect's motive for the crime,John
+C8902,John,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C7311,Mary,Motive,Revenge,Suspect's motive for the crime,John
+C4549,John,Location,Living Room,Location of the crime,Peter
+C1562,Peter,Weapon,Fists,Murder weapon,Alice
+C9829,Peter,Weapon,Fists,Murder weapon,John
+C4908,John,Weapon,Fists,Murder weapon,Mary
+C7780,Alice,Weapon,Gun,Murder weapon,Peter
+C4839,Mary,Location,Bedroom,Location of the crime,John
+C1391,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C9593,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C1527,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C3388,Mary,Location,Bedroom,Location of the crime,Peter
+C2365,Peter,Weapon,Poison,Murder weapon,Alice
+C7366,Alice,Weapon,Knife,Murder weapon,John
+C1514,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C7444,John,Motive,None,Suspect's motive for the crime,Alice
+C5295,Mary,Location,Living Room,Location of the crime,John
+C6819,Alice,Weapon,Poison,Murder weapon,Mary
+C8835,Peter,Location,Living Room,Location of the crime,John
+C9813,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C2158,Peter,Location,Living Room,Location of the crime,John
+C7592,Mary,Location,Living Room,Location of the crime,Alice
+C7913,John,Location,Living Room,Location of the crime,Mary
+C3247,John,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C8314,Peter,Location,Living Room,Location of the crime,John
+C6480,Peter,Motive,Revenge,Suspect's motive for the crime,Alice
+C4316,Mary,Weapon,Knife,Murder weapon,Alice
+C8393,John,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C6343,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C5150,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C4436,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C5958,Alice,Location,Bedroom,Location of the crime,Peter
+C7114,Peter,Motive,None,Suspect's motive for the crime,Mary
+C1065,Peter,Weapon,Gun,Murder weapon,John
+C6483,Mary,Weapon,Poison,Murder weapon,Alice
+C7481,John,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C5567,Alice,Weapon,Knife,Murder weapon,Peter
+C5315,Peter,Weapon,Fists,Murder weapon,John
+C4730,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C3902,Alice,Motive,Jealousy,Suspect's motive for the crime,Peter
+C7481,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C1543,Alice,Location,Bedroom,Location of the crime,Mary
+C8735,Peter,Weapon,Fists,Murder weapon,Mary
+C4488,Peter,Motive,None,Suspect's motive for the crime,Mary
+C4764,Peter,Weapon,Gun,Murder weapon,Alice
+C7608,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C8306,Alice,Location,Living Room,Location of the crime,Peter
+C8957,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3803,John,Location,Living Room,Location of the crime,Alice
+C7886,Alice,Location,Bedroom,Location of the crime,Peter
+C7160,John,Weapon,Fists,Murder weapon,Peter
+C5289,Mary,Motive,Jealousy,Suspect's motive for the crime,Mary
+C4402,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C3190,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Mary
+C6588,Alice,Location,Garden,Location of the crime,Alice
+C7319,Peter,Motive,Revenge,Suspect's motive for the crime,Alice
+C8672,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C2697,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C4347,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C5434,Alice,Weapon,Poison,Murder weapon,Peter
+C9578,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C8560,Alice,Motive,Greed,Suspect's motive for the crime,John
+C1171,Peter,Motive,None,Suspect's motive for the crime,Mary
+C4286,John,Weapon,Gun,Murder weapon,Peter
+C7068,Peter,Location,Living Room,Location of the crime,John
+C8941,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C9834,Mary,Motive,Revenge,Suspect's motive for the crime,Alice
+C8525,Mary,Weapon,Fists,Murder weapon,John
+C4572,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C4342,Mary,Location,Living Room,Location of the crime,Alice
+C6124,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C5790,Alice,Weapon,Gun,Murder weapon,John
+C8006,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C4991,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C4603,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C1815,John,Location,Living Room,Location of the crime,Mary
+C2761,Mary,Location,Kitchen,Location of the crime,Alice
+C5776,Mary,Weapon,Knife,Murder weapon,Peter
+C2803,Alice,Motive,Jealousy,Suspect's motive for the crime,John
+C9062,Mary,Location,Bedroom,Location of the crime,John
+C4240,John,Motive,Greed,Suspect's motive for the crime,Peter
+C5061,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C7849,Peter,Location,Bedroom,Location of the crime,Peter
+C5909,John,Weapon,Fists,Murder weapon,Alice
+C6048,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C3804,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C1265,Alice,Opportunity,High,Suspect's opportunity to commit the crime,John
+C1915,Alice,Motive,None,Suspect's motive for the crime,Peter
+C7089,John,Location,Kitchen,Location of the crime,Alice
+C6121,Peter,Weapon,Poison,Murder weapon,John
+C7090,John,Location,Living Room,Location of the crime,Mary
+C5903,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4860,Alice,Location,Living Room,Location of the crime,Alice
+C2732,Peter,Weapon,Fists,Murder weapon,Mary
+C9232,Peter,Weapon,Fists,Murder weapon,John
+C1437,Mary,Weapon,Poison,Murder weapon,Peter
+C3833,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C3451,Alice,Motive,Greed,Suspect's motive for the crime,John
+C2461,Mary,Motive,Greed,Suspect's motive for the crime,Alice
+C8619,Peter,Weapon,Poison,Murder weapon,Mary
+C2966,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C5306,John,Weapon,Fists,Murder weapon,Mary
+C6014,Peter,Motive,Jealousy,Suspect's motive for the crime,Peter
+C9205,Mary,Location,Living Room,Location of the crime,Peter
+C2952,Alice,Motive,Revenge,Suspect's motive for the crime,Peter
+C3187,Alice,Location,Bedroom,Location of the crime,Alice
+C9094,Peter,Motive,Jealousy,Suspect's motive for the crime,John
+C7004,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C1208,Alice,Location,Garden,Location of the crime,Mary
+C1749,John,Location,Garden,Location of the crime,Peter
+C1738,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C8029,Mary,Weapon,Knife,Murder weapon,Peter
+C2979,John,Weapon,Gun,Murder weapon,John
+C6075,Peter,Location,Kitchen,Location of the crime,Alice
+C6677,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C9539,John,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C6490,Alice,Location,Bedroom,Location of the crime,John
+C5045,John,Weapon,Poison,Murder weapon,Peter
+C1255,John,Location,Kitchen,Location of the crime,Peter
+C2236,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C9249,Peter,Motive,Greed,Suspect's motive for the crime,Alice
+C4948,Peter,Weapon,Poison,Murder weapon,John
+C6831,Alice,Motive,None,Suspect's motive for the crime,Peter
+C1024,Mary,Location,Kitchen,Location of the crime,Mary
+C2960,Mary,Motive,None,Suspect's motive for the crime,Mary
+C6898,Peter,Weapon,Poison,Murder weapon,Peter
+C4636,Peter,Location,Bedroom,Location of the crime,Mary
+C7924,Peter,Weapon,Knife,Murder weapon,Peter
+C9520,Mary,Location,Bedroom,Location of the crime,Alice
+C6748,Mary,Motive,Greed,Suspect's motive for the crime,Mary
+C4282,John,Motive,Revenge,Suspect's motive for the crime,Mary
+C9293,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C1192,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C8016,Mary,Motive,Jealousy,Suspect's motive for the crime,Mary
+C7318,John,Weapon,Knife,Murder weapon,Peter
+C3751,John,Location,Garden,Location of the crime,Alice
+C4874,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C9197,Alice,Motive,Greed,Suspect's motive for the crime,Mary
+C6809,Peter,Motive,Jealousy,Suspect's motive for the crime,Peter
+C5076,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C8488,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C6208,Alice,Location,Kitchen,Location of the crime,Peter
+C1147,Peter,Weapon,Knife,Murder weapon,Peter
+C9516,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C7928,John,Weapon,Poison,Murder weapon,Alice
+C6453,Alice,Location,Kitchen,Location of the crime,Peter
+C7073,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C3118,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C4254,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C1020,Peter,Location,Living Room,Location of the crime,Alice
+C9884,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C6028,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C2759,Alice,Weapon,Poison,Murder weapon,Peter
+C3791,John,Weapon,Poison,Murder weapon,Mary
+C3539,Mary,Weapon,Poison,Murder weapon,John
+C5837,Alice,Motive,Greed,Suspect's motive for the crime,Mary
+C9560,Alice,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C2146,Peter,Motive,None,Suspect's motive for the crime,Mary
+C2043,Mary,Motive,None,Suspect's motive for the crime,Alice
+C9972,Mary,Location,Living Room,Location of the crime,John
+C4555,Peter,Weapon,Poison,Murder weapon,Alice
+C3291,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C7836,John,Motive,Revenge,Suspect's motive for the crime,Peter
+C4202,John,Location,Garden,Location of the crime,Mary
+C6756,John,Weapon,Knife,Murder weapon,Alice
+C4986,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C7627,Alice,Motive,Revenge,Suspect's motive for the crime,John
+C3945,John,Weapon,Fists,Murder weapon,Alice
+C1225,Peter,Motive,Jealousy,Suspect's motive for the crime,Peter
+C3946,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C1034,Alice,Location,Garden,Location of the crime,Alice
+C6322,John,Location,Bedroom,Location of the crime,John
+C8713,Mary,Location,Living Room,Location of the crime,Peter
+C2583,Mary,Motive,Jealousy,Suspect's motive for the crime,John
+C6003,Peter,Location,Garden,Location of the crime,Alice
+C7789,Mary,Motive,None,Suspect's motive for the crime,Alice
+C4026,John,Motive,Revenge,Suspect's motive for the crime,Alice
+C6621,Peter,Motive,Jealousy,Suspect's motive for the crime,Alice
+C6802,Mary,Motive,Revenge,Suspect's motive for the crime,John
+C1816,Peter,Motive,Greed,Suspect's motive for the crime,Mary
+C5541,Peter,Motive,Greed,Suspect's motive for the crime,Mary
+C4430,John,Motive,Jealousy,Suspect's motive for the crime,John
+C4508,Mary,Motive,Jealousy,Suspect's motive for the crime,Alice
+C9840,Mary,Motive,Revenge,Suspect's motive for the crime,John
+C4349,Alice,Motive,Jealousy,Suspect's motive for the crime,John
+C8374,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C2955,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C1177,Mary,Weapon,Knife,Murder weapon,Mary
+C2414,Peter,Weapon,Gun,Murder weapon,Alice
+C7126,John,Location,Living Room,Location of the crime,Mary
+C8261,Alice,Location,Bedroom,Location of the crime,John
+C4520,Alice,Location,Living Room,Location of the crime,John
+C8113,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C6593,Alice,Location,Bedroom,Location of the crime,John
+C4693,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Alice
+C2089,Peter,Motive,Revenge,Suspect's motive for the crime,John
+C3472,John,Motive,None,Suspect's motive for the crime,Mary
+C9582,Mary,Location,Kitchen,Location of the crime,John
+C5351,Alice,Location,Living Room,Location of the crime,Peter
+C1603,Peter,Weapon,Knife,Murder weapon,John
+C7165,Alice,Weapon,Gun,Murder weapon,John
+C3196,John,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C5266,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C9452,Peter,Weapon,Poison,Murder weapon,John
+C3244,Alice,Weapon,Poison,Murder weapon,John
+C1514,John,Weapon,Gun,Murder weapon,Mary
+C6268,John,Weapon,Knife,Murder weapon,John
+C8014,John,Location,Living Room,Location of the crime,John
+C7237,Alice,Motive,Greed,Suspect's motive for the crime,Mary
+C7740,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4789,Peter,Location,Kitchen,Location of the crime,Alice
+C1311,Alice,Weapon,Gun,Murder weapon,Peter
+C2665,Mary,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C3732,Peter,Location,Bedroom,Location of the crime,Mary
+C2734,John,Weapon,Fists,Murder weapon,Peter
+C6017,John,Location,Garden,Location of the crime,John
+C3133,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C2267,Mary,Location,Garden,Location of the crime,Alice
+C4316,Mary,Location,Kitchen,Location of the crime,Mary
+C6104,Alice,Weapon,Knife,Murder weapon,John
+C9932,Peter,Weapon,Fists,Murder weapon,John
+C4873,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C2478,Peter,Motive,Revenge,Suspect's motive for the crime,Mary
+C4673,John,Motive,Greed,Suspect's motive for the crime,Alice
+C4027,Alice,Motive,None,Suspect's motive for the crime,John
+C6248,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C6029,Peter,Motive,Jealousy,Suspect's motive for the crime,Alice
+C2296,Peter,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C9429,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Peter
+C9641,Alice,Weapon,Poison,Murder weapon,Peter
+C2345,Peter,Motive,Jealousy,Suspect's motive for the crime,Mary
+C9617,Peter,Motive,None,Suspect's motive for the crime,Peter
+C6937,Mary,Motive,Jealousy,Suspect's motive for the crime,John
+C2543,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,John
+C4336,Mary,Motive,None,Suspect's motive for the crime,Mary
+C7594,Mary,Motive,Jealousy,Suspect's motive for the crime,John
+C9650,Mary,Location,Living Room,Location of the crime,Alice
+C4947,Peter,Weapon,Knife,Murder weapon,Alice
+C7697,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C3729,Mary,Weapon,Fists,Murder weapon,John
+C1924,John,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C9837,Alice,Motive,None,Suspect's motive for the crime,John
+C1593,John,Location,Garden,Location of the crime,John
+C7123,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Mary
+C5647,Mary,Motive,Greed,Suspect's motive for the crime,Alice
+C9375,Alice,Location,Garden,Location of the crime,Mary
+C4418,Mary,Weapon,Fists,Murder weapon,Mary
+C9683,Peter,Weapon,Fists,Murder weapon,John
+C7572,John,Location,Kitchen,Location of the crime,Peter
+C3628,Alice,Opportunity,Low,Suspect's opportunity to commit the crime,Peter
+C3936,John,Motive,Greed,Suspect's motive for the crime,Mary
+C9382,John,Weapon,Poison,Murder weapon,Peter
+C9793,Mary,Opportunity,Low,Suspect's opportunity to commit the crime,Alice
+C4200,Alice,Motive,Greed,Suspect's motive for the crime,Peter
+C4948,Peter,Motive,Revenge,Suspect's motive for the crime,Peter
+C1980,Mary,Location,Garden,Location of the crime,Peter
+C7393,Alice,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C7508,Peter,Location,Garden,Location of the crime,John
+C6770,Alice,Weapon,Gun,Murder weapon,Peter
+C4833,Peter,Weapon,Poison,Murder weapon,Peter
+C7737,Mary,Motive,Greed,Suspect's motive for the crime,Alice
+C8035,Peter,Opportunity,High,Suspect's opportunity to commit the crime,John
+C9074,Peter,Opportunity,High,Suspect's opportunity to commit the crime,Mary
+C3695,John,Weapon,Gun,Murder weapon,Peter
+C1072,Alice,Weapon,Fists,Murder weapon,Mary
+C6790,Peter,Location,Kitchen,Location of the crime,John
+C5546,Mary,Weapon,Gun,Murder weapon,Mary
+C4973,Alice,Location,Bedroom,Location of the crime,John
+C2865,John,Location,Bedroom,Location of the crime,Alice
+C4510,Mary,Location,Kitchen,Location of the crime,Alice
+C9836,Peter,Motive,Greed,Suspect's motive for the crime,Alice
+C9886,Mary,Opportunity,Medium,Suspect's opportunity to commit the crime,Alice
+C7516,Mary,Location,Living Room,Location of the crime,John
+C2286,Alice,Location,Bedroom,Location of the crime,Mary
+C3082,Peter,Opportunity,Medium,Suspect's opportunity to commit the crime,John
+C8892,Mary,Location,Living Room,Location of the crime,Mary
+C9064,John,Location,Living Room,Location of the crime,Mary

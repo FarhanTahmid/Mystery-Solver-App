@@ -1,0 +1,1001 @@
+Case ID,Suspect,Variable,Value,Solution
+C2830,Mary,Location,Bedroom,Peter
+C2876,Alice,Weapon,Gun,Peter
+C1971,John,Motive,None,Alice
+C1302,Peter,Opportunity,High,Alice
+C9301,Alice,Weapon,Fists,Peter
+C9038,Mary,Location,Garden,Peter
+C1519,Alice,Opportunity,High,John
+C5572,Mary,Motive,Revenge,Peter
+C2557,John,Opportunity,High,John
+C6594,Peter,Weapon,Knife,Mary
+C5107,Peter,Location,Bedroom,Peter
+C3355,Mary,Opportunity,High,Mary
+C2636,Peter,Weapon,Gun,John
+C3098,Alice,Weapon,Gun,Alice
+C4429,Mary,Opportunity,Medium,Peter
+C2427,John,Opportunity,Medium,John
+C1365,Alice,Location,Bedroom,Mary
+C2186,Alice,Weapon,Gun,John
+C6050,John,Weapon,Poison,John
+C6213,Mary,Opportunity,High,Peter
+C5462,Alice,Location,Bedroom,Mary
+C8892,Mary,Motive,Financial Gain,Alice
+C9817,John,Motive,Jealousy,Alice
+C4795,John,Weapon,Fists,John
+C3856,Mary,Opportunity,Low,John
+C4386,Alice,Opportunity,Low,Alice
+C6575,Mary,Weapon,Poison,Peter
+C9151,Peter,Opportunity,Medium,Mary
+C9875,John,Weapon,Fists,John
+C8481,Peter,Location,Garden,Mary
+C7283,Peter,Location,Bedroom,Mary
+C3437,John,Opportunity,High,Mary
+C2593,Mary,Opportunity,High,Peter
+C5441,Alice,Weapon,Fists,Mary
+C2521,Alice,Weapon,Gun,Peter
+C6923,Mary,Weapon,Knife,John
+C3334,Alice,Opportunity,Low,Peter
+C2681,Alice,Motive,Jealousy,Mary
+C3829,Alice,Location,Living Room,Peter
+C6764,Alice,Motive,None,Alice
+C5953,Mary,Location,Garden,Alice
+C3289,John,Motive,None,Alice
+C7364,Alice,Motive,Jealousy,Alice
+C9153,Alice,Motive,Revenge,Mary
+C3619,Alice,Opportunity,High,Mary
+C6253,Peter,Opportunity,Low,Alice
+C4632,Peter,Location,Living Room,John
+C5887,Alice,Motive,Financial Gain,John
+C3110,Alice,Opportunity,High,Alice
+C8080,John,Location,Kitchen,Peter
+C7701,Alice,Motive,Financial Gain,John
+C9347,Mary,Opportunity,Medium,Mary
+C8680,Alice,Location,Garden,Peter
+C7111,John,Motive,Jealousy,Mary
+C7206,Alice,Opportunity,Low,Alice
+C7924,John,Location,Living Room,Peter
+C7136,Mary,Opportunity,Medium,John
+C7288,Alice,Weapon,Poison,Alice
+C3895,Mary,Weapon,Knife,Alice
+C5524,John,Location,Garden,John
+C9501,Alice,Opportunity,Medium,Alice
+C5829,Mary,Opportunity,Medium,Alice
+C5638,Alice,Weapon,Fists,Peter
+C3632,Mary,Location,Living Room,John
+C4501,Peter,Motive,Jealousy,John
+C2468,John,Location,Living Room,Mary
+C8650,Mary,Motive,Revenge,Alice
+C3071,John,Motive,Revenge,John
+C1065,John,Motive,None,Peter
+C8228,John,Motive,None,Peter
+C1772,Mary,Motive,Revenge,Peter
+C3635,Peter,Location,Bedroom,Alice
+C6523,Alice,Motive,Financial Gain,John
+C7267,Mary,Location,Bedroom,John
+C3135,Mary,Motive,None,Peter
+C9172,Alice,Motive,Financial Gain,Mary
+C3298,Peter,Weapon,Gun,John
+C4498,Mary,Weapon,Gun,John
+C5927,John,Weapon,Fists,John
+C7688,John,Weapon,Fists,Alice
+C9058,John,Location,Living Room,John
+C1097,Peter,Motive,None,Peter
+C5447,Mary,Weapon,Knife,John
+C5098,John,Opportunity,High,Mary
+C1641,Mary,Motive,Financial Gain,Peter
+C1427,John,Location,Garden,Mary
+C3719,Mary,Location,Garden,Mary
+C2086,Mary,Weapon,Fists,Alice
+C7228,John,Motive,Revenge,Peter
+C3893,Mary,Opportunity,Medium,Mary
+C6223,Mary,Opportunity,Medium,Mary
+C5239,Mary,Weapon,Gun,Peter
+C7325,John,Location,Bedroom,Mary
+C8860,John,Location,Kitchen,Alice
+C2595,Mary,Motive,Jealousy,John
+C2374,Peter,Motive,Revenge,Mary
+C9827,Peter,Weapon,Fists,Alice
+C6947,John,Weapon,Poison,Peter
+C5746,John,Location,Garden,Peter
+C9224,Alice,Location,Garden,Peter
+C1612,John,Opportunity,High,Mary
+C2439,Mary,Opportunity,Medium,Peter
+C1391,Peter,Opportunity,Medium,Mary
+C6632,Alice,Opportunity,Medium,Peter
+C7767,Alice,Motive,Financial Gain,Alice
+C2658,Alice,Motive,Jealousy,Peter
+C6222,Mary,Location,Bedroom,Peter
+C3940,Mary,Motive,Financial Gain,Mary
+C6612,Peter,Weapon,Fists,John
+C4469,Mary,Location,Garden,Alice
+C9603,Mary,Opportunity,Low,Mary
+C5547,Peter,Weapon,Gun,Peter
+C1301,Peter,Opportunity,High,Peter
+C5410,Alice,Weapon,Gun,Peter
+C3609,Peter,Weapon,Fists,Peter
+C5259,Mary,Motive,Financial Gain,Peter
+C5624,John,Motive,None,Alice
+C2469,Alice,Weapon,Poison,Mary
+C3238,Mary,Location,Garden,Alice
+C5810,Peter,Opportunity,High,Peter
+C4774,Alice,Opportunity,Low,Peter
+C6169,John,Weapon,Knife,Peter
+C1195,John,Weapon,Poison,Mary
+C9302,John,Motive,Financial Gain,Peter
+C5054,John,Opportunity,Medium,Peter
+C7794,Alice,Location,Bedroom,Mary
+C8685,John,Motive,Financial Gain,Mary
+C4792,Peter,Weapon,Fists,Alice
+C5096,Alice,Motive,Financial Gain,Alice
+C2737,John,Weapon,Knife,Mary
+C6611,Peter,Opportunity,Low,John
+C2611,Peter,Opportunity,Medium,Alice
+C1686,John,Weapon,Gun,Alice
+C8689,Mary,Motive,None,Alice
+C2554,John,Motive,None,Alice
+C3187,Alice,Weapon,Fists,Alice
+C8754,Peter,Opportunity,Medium,John
+C5271,John,Weapon,Poison,Alice
+C7244,John,Motive,Jealousy,Mary
+C4684,Alice,Opportunity,Low,Mary
+C7716,Mary,Motive,Financial Gain,Mary
+C1039,Alice,Location,Garden,Peter
+C5332,Alice,Motive,Revenge,Mary
+C3669,Mary,Motive,None,Peter
+C9755,John,Motive,Revenge,John
+C2182,Mary,Location,Garden,Mary
+C1877,Mary,Location,Living Room,Mary
+C9696,John,Opportunity,High,John
+C7255,Peter,Weapon,Knife,John
+C8730,Mary,Motive,Financial Gain,John
+C6843,Mary,Weapon,Poison,John
+C9325,Mary,Weapon,Fists,Mary
+C8728,Peter,Weapon,Poison,Alice
+C6820,Peter,Weapon,Knife,Peter
+C2384,Peter,Opportunity,Medium,John
+C1474,John,Location,Living Room,Mary
+C3178,Mary,Opportunity,High,John
+C8899,Mary,Opportunity,Medium,John
+C5595,Peter,Opportunity,Medium,John
+C5568,Mary,Opportunity,High,John
+C5096,Peter,Motive,Revenge,Mary
+C5641,Alice,Weapon,Knife,Alice
+C6974,Alice,Motive,Revenge,Alice
+C4817,John,Opportunity,High,Alice
+C1038,John,Motive,Jealousy,Mary
+C3306,Mary,Location,Kitchen,Alice
+C6971,Alice,Weapon,Gun,John
+C5634,Mary,Location,Garden,Alice
+C1821,Mary,Location,Kitchen,Alice
+C7086,Alice,Location,Living Room,Mary
+C5843,John,Motive,Jealousy,John
+C5484,Peter,Weapon,Knife,Mary
+C8862,John,Opportunity,High,John
+C2042,John,Weapon,Fists,Mary
+C6511,Alice,Opportunity,Low,Mary
+C8838,Mary,Motive,Financial Gain,John
+C6416,Alice,Opportunity,Medium,Alice
+C9874,Alice,Weapon,Poison,Mary
+C6699,Mary,Weapon,Gun,Alice
+C1328,Mary,Opportunity,High,Mary
+C6037,John,Opportunity,Medium,Alice
+C8275,Mary,Weapon,Fists,Alice
+C5644,Alice,Opportunity,Low,John
+C8081,Alice,Motive,Financial Gain,Mary
+C2647,Alice,Weapon,Gun,Mary
+C4305,Alice,Opportunity,Low,Mary
+C5566,Alice,Motive,Jealousy,Mary
+C2086,Peter,Opportunity,Low,John
+C5034,Alice,Location,Living Room,Alice
+C9358,Alice,Opportunity,Low,Alice
+C8244,Mary,Location,Kitchen,Alice
+C2584,Mary,Weapon,Knife,Mary
+C8916,Peter,Opportunity,Medium,Alice
+C1857,Alice,Weapon,Poison,Peter
+C3684,Peter,Location,Kitchen,John
+C4185,Peter,Motive,Revenge,Mary
+C9438,John,Location,Living Room,Peter
+C4349,Alice,Location,Living Room,Alice
+C4239,Alice,Opportunity,Low,Alice
+C6986,Alice,Motive,Revenge,Alice
+C6279,Alice,Weapon,Knife,Peter
+C5502,Mary,Opportunity,Low,Peter
+C8345,Peter,Motive,None,Alice
+C1374,John,Opportunity,High,Peter
+C2598,Mary,Location,Bedroom,Mary
+C7162,Peter,Opportunity,Low,Alice
+C1762,Peter,Location,Bedroom,Mary
+C3963,Mary,Motive,Revenge,Alice
+C1107,Alice,Motive,Revenge,Alice
+C5704,John,Opportunity,Low,Peter
+C5634,Mary,Location,Garden,Peter
+C9669,Alice,Opportunity,High,Peter
+C6077,Alice,Opportunity,High,John
+C7846,John,Motive,None,John
+C3058,Alice,Opportunity,Medium,John
+C2980,Alice,Weapon,Poison,Peter
+C7665,Alice,Weapon,Knife,John
+C5281,Peter,Motive,Revenge,Peter
+C8327,Peter,Weapon,Poison,John
+C5383,John,Location,Kitchen,John
+C5262,Peter,Location,Garden,Peter
+C1466,Mary,Location,Living Room,Alice
+C6544,Mary,Motive,Jealousy,Alice
+C6972,Mary,Location,Garden,Peter
+C1588,Alice,Motive,Jealousy,Mary
+C5948,John,Opportunity,High,Alice
+C4782,John,Location,Kitchen,John
+C6882,Alice,Motive,None,Mary
+C7605,Alice,Opportunity,High,John
+C7096,Mary,Motive,Financial Gain,Alice
+C4566,John,Motive,None,Peter
+C5548,Peter,Weapon,Knife,Alice
+C2028,Peter,Location,Bedroom,John
+C3862,Mary,Weapon,Poison,Mary
+C1206,Peter,Weapon,Knife,John
+C9887,Alice,Weapon,Poison,Mary
+C9762,Mary,Opportunity,High,Alice
+C8042,Peter,Location,Bedroom,John
+C6178,John,Motive,Jealousy,Peter
+C1647,Peter,Weapon,Poison,Mary
+C2445,Peter,Location,Living Room,Alice
+C9647,Mary,Opportunity,High,Alice
+C5272,Mary,Location,Kitchen,Alice
+C4161,Peter,Location,Living Room,John
+C4258,John,Location,Bedroom,Peter
+C2557,Alice,Location,Garden,Peter
+C8753,Alice,Weapon,Gun,Alice
+C4776,Alice,Motive,Financial Gain,Peter
+C7970,John,Weapon,Knife,John
+C9985,Mary,Weapon,Fists,John
+C9538,Alice,Weapon,Poison,Alice
+C9298,John,Location,Living Room,Alice
+C7155,Peter,Weapon,Gun,John
+C2922,Peter,Weapon,Poison,John
+C5394,Peter,Motive,None,Mary
+C9906,John,Weapon,Fists,John
+C6865,Peter,Opportunity,Medium,John
+C8091,Mary,Motive,None,John
+C5247,Peter,Opportunity,High,Alice
+C6235,John,Location,Bedroom,Peter
+C4329,Alice,Weapon,Poison,Alice
+C5367,Peter,Opportunity,Low,Peter
+C5154,Alice,Opportunity,Low,Mary
+C1802,John,Opportunity,Medium,John
+C9389,Mary,Motive,Jealousy,Alice
+C3319,Mary,Opportunity,Medium,Alice
+C6325,John,Opportunity,Medium,John
+C4257,Peter,Opportunity,High,Peter
+C7464,John,Motive,Financial Gain,Peter
+C5704,Peter,Weapon,Gun,Mary
+C3590,Mary,Opportunity,High,Mary
+C5810,John,Opportunity,Medium,Peter
+C4328,Alice,Weapon,Poison,Alice
+C1330,Mary,Opportunity,Low,Mary
+C5343,Alice,Motive,Jealousy,Alice
+C2302,Alice,Opportunity,Medium,Mary
+C3510,Mary,Motive,None,Mary
+C5610,John,Motive,Financial Gain,Peter
+C9731,John,Weapon,Knife,John
+C7132,Peter,Location,Living Room,Peter
+C5644,John,Opportunity,Medium,Peter
+C9407,Alice,Location,Living Room,Peter
+C4425,John,Motive,Jealousy,Peter
+C6758,John,Opportunity,Medium,Alice
+C2601,Mary,Weapon,Knife,John
+C8209,Peter,Motive,Revenge,John
+C3564,Mary,Weapon,Gun,John
+C8299,Mary,Motive,Financial Gain,Alice
+C8398,Mary,Location,Bedroom,John
+C5874,Peter,Weapon,Poison,Peter
+C2997,Peter,Weapon,Gun,Peter
+C7525,Alice,Opportunity,High,John
+C8185,John,Opportunity,Low,Mary
+C9388,Alice,Opportunity,Low,Peter
+C2374,Mary,Location,Kitchen,John
+C5045,John,Motive,Financial Gain,Mary
+C6219,John,Motive,Financial Gain,John
+C6468,Mary,Opportunity,Low,John
+C5629,Mary,Location,Living Room,Peter
+C4991,Mary,Location,Living Room,Mary
+C1202,Alice,Motive,Revenge,John
+C1332,Mary,Location,Kitchen,John
+C9092,Mary,Weapon,Poison,Alice
+C9037,Alice,Motive,Revenge,Alice
+C9766,Peter,Motive,Revenge,Mary
+C9814,John,Motive,Financial Gain,Alice
+C8348,Peter,Weapon,Knife,John
+C1104,Alice,Location,Bedroom,John
+C8560,Alice,Location,Bedroom,Alice
+C5881,John,Opportunity,Low,John
+C8650,Mary,Location,Garden,Alice
+C7636,John,Motive,None,Peter
+C8551,Mary,Weapon,Knife,Mary
+C9625,Mary,Location,Living Room,Mary
+C9061,Alice,Location,Garden,Mary
+C1045,Peter,Weapon,Knife,Mary
+C3097,Peter,Location,Living Room,Peter
+C3203,Peter,Weapon,Gun,Alice
+C3874,Mary,Location,Bedroom,Alice
+C6161,John,Location,Garden,John
+C6769,Mary,Opportunity,Low,Alice
+C8243,Peter,Opportunity,Medium,Mary
+C6314,John,Opportunity,Low,Mary
+C9220,Mary,Weapon,Poison,Alice
+C9999,Peter,Motive,Financial Gain,Mary
+C2654,Alice,Location,Kitchen,Peter
+C4556,John,Weapon,Gun,John
+C9744,Peter,Location,Garden,Mary
+C3144,Alice,Opportunity,Medium,John
+C8347,Alice,Location,Garden,John
+C9032,Alice,Weapon,Fists,John
+C2886,Alice,Motive,Revenge,Alice
+C1976,John,Motive,Financial Gain,John
+C3975,Peter,Location,Garden,Alice
+C9589,Alice,Motive,Jealousy,Mary
+C7645,Mary,Motive,None,Peter
+C8660,Alice,Opportunity,Low,Mary
+C5727,Peter,Location,Bedroom,Peter
+C5888,John,Opportunity,Low,Alice
+C8563,Peter,Motive,Financial Gain,John
+C9250,Peter,Opportunity,High,Alice
+C5995,Alice,Motive,None,John
+C4587,John,Weapon,Fists,John
+C8333,Alice,Location,Bedroom,Alice
+C8423,Peter,Location,Kitchen,John
+C1589,Mary,Location,Kitchen,John
+C2749,Peter,Motive,None,Peter
+C4834,John,Opportunity,High,Alice
+C9853,Mary,Weapon,Knife,Mary
+C3327,Mary,Weapon,Poison,Mary
+C8212,Peter,Opportunity,Medium,Mary
+C9983,Alice,Weapon,Fists,Alice
+C3979,Peter,Weapon,Knife,Peter
+C1940,Peter,Location,Living Room,Alice
+C4501,Alice,Weapon,Knife,Peter
+C6294,Peter,Motive,Financial Gain,John
+C6006,Alice,Motive,Jealousy,John
+C4506,John,Motive,Revenge,Peter
+C6909,John,Opportunity,High,Mary
+C9480,Alice,Location,Bedroom,Mary
+C2997,Mary,Motive,Jealousy,Mary
+C7411,Peter,Weapon,Fists,Peter
+C4150,Peter,Motive,None,Peter
+C1910,John,Motive,Jealousy,Alice
+C5540,Peter,Motive,Revenge,Peter
+C7915,John,Motive,Jealousy,Peter
+C8915,John,Location,Kitchen,Peter
+C6224,Alice,Location,Garden,Alice
+C2838,Mary,Weapon,Fists,John
+C7691,Peter,Opportunity,High,Peter
+C1278,John,Location,Living Room,John
+C1232,Peter,Opportunity,Low,John
+C7927,John,Weapon,Fists,Peter
+C6740,John,Motive,Financial Gain,Peter
+C4268,Alice,Weapon,Knife,John
+C8621,Mary,Opportunity,Low,John
+C1983,Alice,Opportunity,High,Peter
+C4071,Mary,Motive,Financial Gain,Peter
+C4826,Alice,Location,Kitchen,Alice
+C8893,Peter,Location,Kitchen,Peter
+C4461,Alice,Location,Bedroom,Peter
+C5557,Alice,Location,Garden,Peter
+C8248,Mary,Motive,None,John
+C5795,Alice,Weapon,Poison,Peter
+C5008,Mary,Opportunity,High,Mary
+C5897,Mary,Opportunity,High,Peter
+C3916,Mary,Location,Bedroom,John
+C5769,John,Weapon,Fists,John
+C2673,Alice,Location,Living Room,Peter
+C2246,Mary,Weapon,Knife,Alice
+C2944,Mary,Weapon,Fists,Alice
+C3780,Mary,Location,Bedroom,John
+C7181,Mary,Location,Garden,Alice
+C1925,Mary,Location,Bedroom,Peter
+C9013,John,Location,Kitchen,Alice
+C9263,John,Weapon,Poison,John
+C6512,Alice,Motive,None,Alice
+C8587,Mary,Location,Bedroom,Peter
+C3104,Mary,Weapon,Knife,Mary
+C5794,Mary,Location,Kitchen,Alice
+C6565,Alice,Motive,Financial Gain,John
+C9788,Alice,Opportunity,Low,Alice
+C4641,Mary,Weapon,Gun,Alice
+C2891,Peter,Motive,None,John
+C7471,Peter,Motive,Revenge,Alice
+C6063,Peter,Location,Kitchen,Peter
+C7240,John,Motive,Revenge,John
+C5950,Alice,Location,Living Room,John
+C8218,Alice,Weapon,Knife,Alice
+C9211,Alice,Weapon,Fists,John
+C6602,Alice,Opportunity,Low,Mary
+C8034,Alice,Motive,Financial Gain,Mary
+C1911,Mary,Motive,Financial Gain,John
+C2465,Mary,Weapon,Gun,Alice
+C5960,John,Weapon,Poison,John
+C6703,John,Opportunity,Low,Peter
+C4969,Peter,Opportunity,High,Alice
+C9292,John,Weapon,Gun,Mary
+C3406,John,Opportunity,High,Alice
+C3742,Alice,Motive,Jealousy,Peter
+C1530,Peter,Weapon,Knife,Mary
+C2933,Mary,Location,Living Room,Alice
+C4987,Peter,Motive,None,Mary
+C7387,John,Opportunity,Medium,Peter
+C5774,Mary,Location,Garden,Mary
+C5520,John,Location,Living Room,John
+C7750,John,Location,Living Room,Alice
+C4631,John,Opportunity,Low,Peter
+C8542,John,Motive,None,John
+C9516,Peter,Opportunity,Low,Alice
+C4810,John,Location,Living Room,Alice
+C7354,John,Location,Kitchen,Alice
+C6628,John,Weapon,Gun,Peter
+C4662,Peter,Motive,Financial Gain,John
+C6024,Alice,Location,Kitchen,Peter
+C4165,Mary,Weapon,Gun,Mary
+C5880,Alice,Location,Bedroom,Alice
+C9594,Alice,Opportunity,High,Alice
+C9939,Peter,Weapon,Gun,John
+C6622,Peter,Location,Bedroom,Mary
+C8949,Mary,Location,Living Room,Mary
+C8100,Alice,Opportunity,Low,Mary
+C9265,Mary,Opportunity,Low,John
+C7636,Mary,Opportunity,High,Mary
+C9032,Peter,Weapon,Poison,John
+C6848,Mary,Weapon,Fists,Mary
+C1568,Peter,Opportunity,Medium,Peter
+C7338,John,Weapon,Knife,Mary
+C2466,Alice,Motive,Financial Gain,Mary
+C7566,Alice,Opportunity,Medium,Alice
+C8833,Mary,Motive,None,Peter
+C5568,John,Motive,Financial Gain,John
+C2918,Mary,Opportunity,High,Alice
+C5291,Alice,Motive,Jealousy,Mary
+C5180,Alice,Location,Garden,Peter
+C3250,Peter,Opportunity,Medium,Peter
+C9814,Mary,Opportunity,Low,John
+C9184,John,Motive,None,Peter
+C7586,Peter,Opportunity,Medium,Peter
+C1592,Peter,Motive,Jealousy,John
+C6463,Alice,Motive,Revenge,Alice
+C9280,Mary,Location,Living Room,Peter
+C1252,Peter,Weapon,Knife,Mary
+C9531,Mary,Motive,Financial Gain,Mary
+C5498,Alice,Location,Garden,Peter
+C4661,Alice,Opportunity,Low,Alice
+C7909,Peter,Location,Kitchen,Alice
+C4975,Mary,Location,Bedroom,John
+C2544,Peter,Opportunity,Low,Mary
+C6773,John,Opportunity,Low,Alice
+C9088,Peter,Weapon,Poison,John
+C6263,John,Location,Living Room,Peter
+C5754,Mary,Location,Garden,Alice
+C4202,Alice,Weapon,Poison,John
+C5482,Peter,Opportunity,High,Mary
+C2747,Mary,Weapon,Knife,Peter
+C6509,Peter,Location,Kitchen,Peter
+C6627,John,Weapon,Gun,Alice
+C9479,Peter,Opportunity,Low,Peter
+C1051,Alice,Motive,Jealousy,Peter
+C7695,Alice,Opportunity,Medium,Peter
+C5187,Peter,Motive,Revenge,Peter
+C8789,Mary,Opportunity,High,Alice
+C8124,John,Motive,Jealousy,Peter
+C9978,Peter,Opportunity,Medium,Mary
+C9482,John,Motive,Financial Gain,John
+C4983,Mary,Location,Garden,Peter
+C6824,Peter,Weapon,Knife,Peter
+C2250,Mary,Opportunity,Low,Alice
+C8672,Alice,Motive,Financial Gain,John
+C2394,Alice,Opportunity,Medium,Alice
+C6997,Peter,Weapon,Gun,John
+C9191,Alice,Opportunity,Low,Peter
+C1608,Peter,Weapon,Gun,Mary
+C3748,John,Motive,None,Peter
+C8806,Peter,Weapon,Knife,Mary
+C3107,Alice,Opportunity,High,Peter
+C3268,Alice,Location,Kitchen,Alice
+C1264,Peter,Weapon,Gun,John
+C5934,Peter,Location,Garden,Alice
+C3400,John,Opportunity,Low,Mary
+C6815,Alice,Motive,Revenge,Peter
+C3070,John,Motive,Revenge,John
+C4391,Alice,Motive,Jealousy,Mary
+C1356,Peter,Motive,Revenge,Alice
+C4951,John,Weapon,Fists,John
+C6360,Mary,Location,Living Room,Alice
+C9372,Mary,Weapon,Gun,Peter
+C3979,John,Motive,Jealousy,Alice
+C6626,John,Opportunity,Low,John
+C7786,Mary,Location,Garden,Mary
+C4924,Peter,Opportunity,Medium,John
+C4674,Peter,Weapon,Knife,John
+C1086,Peter,Opportunity,High,Peter
+C4944,Alice,Opportunity,Medium,Peter
+C7683,John,Opportunity,Medium,Alice
+C4595,Peter,Opportunity,Medium,Alice
+C6325,Mary,Opportunity,Low,Alice
+C6164,Alice,Opportunity,Medium,Mary
+C3140,Mary,Location,Kitchen,Mary
+C5645,Alice,Location,Living Room,Peter
+C6427,Mary,Weapon,Poison,Peter
+C2938,Alice,Weapon,Poison,Mary
+C1294,Mary,Opportunity,Medium,Mary
+C2857,Mary,Location,Garden,Alice
+C5736,Mary,Location,Bedroom,Mary
+C4210,John,Motive,Financial Gain,Alice
+C4043,Mary,Motive,Revenge,Peter
+C3197,Alice,Location,Bedroom,Mary
+C5104,Peter,Location,Kitchen,Alice
+C7991,Alice,Opportunity,Medium,John
+C8431,Peter,Weapon,Fists,Mary
+C1077,Peter,Weapon,Gun,John
+C6604,Peter,Location,Living Room,John
+C8198,John,Weapon,Fists,Peter
+C3663,Alice,Weapon,Gun,John
+C9809,Mary,Location,Living Room,Alice
+C4493,Mary,Opportunity,Low,Peter
+C2812,Alice,Location,Kitchen,John
+C9666,John,Weapon,Poison,Peter
+C1018,Alice,Motive,Revenge,John
+C4129,Alice,Opportunity,High,Peter
+C6375,John,Opportunity,Medium,John
+C1511,John,Weapon,Gun,Alice
+C5679,John,Weapon,Poison,Mary
+C7450,John,Opportunity,Low,Alice
+C7486,John,Opportunity,Low,John
+C1436,Mary,Opportunity,Low,Mary
+C9162,Alice,Opportunity,High,Mary
+C3970,Mary,Motive,Revenge,Peter
+C6914,Mary,Motive,Financial Gain,Mary
+C1724,John,Location,Bedroom,Alice
+C8730,Alice,Weapon,Poison,Mary
+C4548,Peter,Location,Kitchen,Alice
+C8696,Alice,Weapon,Gun,Mary
+C3809,John,Location,Garden,Alice
+C9432,John,Weapon,Poison,John
+C4528,Alice,Weapon,Gun,Mary
+C1993,Peter,Motive,None,Mary
+C5884,Alice,Weapon,Poison,Mary
+C7098,Mary,Location,Bedroom,Alice
+C7730,Mary,Opportunity,Low,Mary
+C7108,John,Weapon,Gun,John
+C2056,Alice,Location,Kitchen,Peter
+C3807,John,Motive,Financial Gain,Peter
+C2866,John,Motive,Revenge,Mary
+C9874,Alice,Motive,None,Mary
+C1353,John,Weapon,Fists,Peter
+C4343,Peter,Location,Bedroom,John
+C7417,Mary,Location,Bedroom,Peter
+C5641,Mary,Motive,None,Peter
+C2401,Mary,Location,Kitchen,Mary
+C6698,John,Motive,None,John
+C7799,John,Motive,Financial Gain,Mary
+C3040,Alice,Motive,Revenge,John
+C5710,Alice,Location,Garden,John
+C3217,Peter,Motive,Jealousy,Mary
+C6659,Alice,Location,Garden,Mary
+C3075,Peter,Location,Garden,Alice
+C7135,Peter,Motive,Financial Gain,Peter
+C8459,Alice,Location,Kitchen,John
+C2861,Mary,Motive,Financial Gain,Mary
+C6776,John,Location,Kitchen,Alice
+C3140,Peter,Location,Living Room,Peter
+C7380,Peter,Weapon,Poison,Peter
+C5363,Peter,Opportunity,Low,John
+C6371,Mary,Motive,Jealousy,Peter
+C4377,Peter,Location,Garden,John
+C1793,Mary,Location,Kitchen,Mary
+C7461,Mary,Location,Living Room,Mary
+C3711,Alice,Opportunity,High,Alice
+C6557,Mary,Motive,Revenge,Peter
+C7540,Mary,Opportunity,Medium,Peter
+C5293,Mary,Opportunity,High,John
+C1574,Alice,Opportunity,Medium,Mary
+C4599,Alice,Opportunity,High,John
+C3816,John,Weapon,Fists,Peter
+C1572,Peter,Motive,Financial Gain,John
+C8959,Peter,Opportunity,High,Mary
+C6262,Mary,Location,Bedroom,Mary
+C9827,Mary,Location,Kitchen,Mary
+C3738,John,Location,Garden,Mary
+C9257,Alice,Weapon,Knife,Peter
+C3512,John,Location,Garden,John
+C2648,Mary,Motive,Revenge,Alice
+C5840,Alice,Motive,None,Alice
+C5795,Mary,Location,Bedroom,Alice
+C3871,Alice,Location,Garden,Peter
+C5956,Mary,Weapon,Fists,Peter
+C9307,John,Location,Garden,Alice
+C1995,Peter,Opportunity,Medium,Peter
+C2306,Mary,Weapon,Knife,Mary
+C9910,Mary,Weapon,Poison,Mary
+C8128,Mary,Opportunity,Medium,Peter
+C8829,Mary,Motive,Financial Gain,Mary
+C4962,Peter,Opportunity,Low,Mary
+C5419,Mary,Location,Kitchen,Alice
+C3517,Peter,Opportunity,High,Peter
+C7964,Alice,Opportunity,Low,Mary
+C7464,Mary,Weapon,Gun,Mary
+C9005,Mary,Motive,Jealousy,Alice
+C2067,Mary,Opportunity,Medium,Alice
+C3173,Peter,Weapon,Gun,Mary
+C5791,Mary,Opportunity,Medium,Mary
+C4500,Alice,Location,Garden,Peter
+C3787,Mary,Motive,Financial Gain,John
+C3161,John,Weapon,Gun,Alice
+C9583,Alice,Opportunity,Low,Mary
+C1353,Peter,Location,Living Room,Alice
+C9624,John,Motive,Revenge,Peter
+C5375,Alice,Location,Garden,Alice
+C2905,Alice,Weapon,Gun,Alice
+C6543,Alice,Location,Kitchen,John
+C9805,John,Opportunity,High,Alice
+C2159,Peter,Weapon,Fists,Alice
+C9012,Alice,Motive,Revenge,Peter
+C1135,Mary,Motive,Revenge,Peter
+C1982,Mary,Opportunity,High,Alice
+C4311,Mary,Location,Garden,Mary
+C3859,John,Opportunity,Low,Peter
+C2793,John,Motive,None,John
+C3367,Mary,Opportunity,Low,Alice
+C4583,Peter,Location,Garden,John
+C9641,Peter,Motive,None,Mary
+C2284,John,Opportunity,Medium,Alice
+C3403,Peter,Opportunity,Low,Peter
+C7550,Mary,Location,Garden,Peter
+C3071,John,Location,Living Room,Mary
+C8225,Peter,Motive,Jealousy,John
+C7372,Peter,Weapon,Gun,Peter
+C4729,John,Weapon,Knife,Peter
+C4600,John,Motive,Jealousy,Peter
+C9114,Alice,Weapon,Fists,Peter
+C3073,John,Motive,Jealousy,Peter
+C6949,Alice,Weapon,Knife,Peter
+C7160,Alice,Location,Bedroom,Mary
+C4135,John,Motive,Revenge,Peter
+C7162,Peter,Motive,Revenge,Mary
+C9311,Alice,Opportunity,Medium,Mary
+C1280,Mary,Opportunity,High,John
+C4529,John,Motive,Jealousy,Mary
+C8188,Peter,Location,Kitchen,John
+C7692,Peter,Motive,Jealousy,Alice
+C8297,Alice,Location,Garden,Peter
+C2688,Peter,Opportunity,High,Mary
+C2077,Mary,Location,Living Room,Peter
+C2393,Peter,Motive,None,Peter
+C6687,Alice,Weapon,Fists,Mary
+C2664,Alice,Motive,Jealousy,John
+C2402,John,Opportunity,Low,Peter
+C3809,John,Opportunity,High,Mary
+C6881,John,Weapon,Knife,John
+C2003,John,Weapon,Fists,John
+C3878,Alice,Motive,Financial Gain,Peter
+C1800,Alice,Motive,Jealousy,Mary
+C1941,John,Weapon,Knife,John
+C7085,John,Location,Living Room,John
+C7589,Alice,Opportunity,Low,John
+C8954,John,Motive,Jealousy,Mary
+C5367,Mary,Opportunity,Low,Alice
+C4043,Peter,Motive,Financial Gain,Peter
+C3285,Mary,Location,Bedroom,John
+C7680,Alice,Motive,Jealousy,Mary
+C2562,Peter,Motive,Financial Gain,Peter
+C9647,Alice,Opportunity,Medium,John
+C5862,John,Opportunity,High,John
+C8292,Mary,Location,Garden,Mary
+C1851,Mary,Weapon,Fists,Peter
+C3117,Peter,Weapon,Fists,John
+C5919,Peter,Weapon,Knife,Peter
+C4723,Alice,Weapon,Poison,Alice
+C2798,Mary,Location,Kitchen,Mary
+C8647,Peter,Motive,Financial Gain,John
+C1693,John,Weapon,Fists,Peter
+C4826,Alice,Opportunity,Low,Peter
+C5847,Peter,Location,Living Room,Peter
+C2487,John,Opportunity,High,Peter
+C4018,John,Opportunity,Medium,Alice
+C3185,Alice,Location,Living Room,Peter
+C7586,Mary,Motive,Jealousy,Peter
+C7185,Alice,Opportunity,High,Peter
+C8514,Alice,Opportunity,Low,Mary
+C9493,John,Weapon,Fists,Peter
+C9737,John,Weapon,Fists,Mary
+C3639,Mary,Weapon,Knife,Mary
+C2821,Peter,Opportunity,High,Mary
+C3810,John,Location,Living Room,Mary
+C6453,Peter,Opportunity,High,Mary
+C9175,Peter,Location,Living Room,Peter
+C3444,Alice,Motive,Jealousy,Alice
+C5797,Peter,Opportunity,Low,Mary
+C2368,John,Location,Kitchen,Peter
+C3850,Mary,Weapon,Knife,Mary
+C9713,John,Location,Living Room,Mary
+C7504,Alice,Motive,Financial Gain,Peter
+C7651,Alice,Location,Garden,Alice
+C2859,Mary,Opportunity,Medium,Mary
+C6254,John,Motive,Revenge,Peter
+C8789,Alice,Location,Bedroom,Mary
+C8785,Alice,Weapon,Gun,Peter
+C8969,Peter,Weapon,Knife,Peter
+C6721,John,Motive,Financial Gain,John
+C7408,John,Location,Garden,Mary
+C6154,Alice,Weapon,Gun,Peter
+C4007,Mary,Weapon,Gun,Mary
+C6616,John,Weapon,Fists,Mary
+C6766,Peter,Weapon,Knife,Peter
+C1220,Alice,Opportunity,High,John
+C4060,Peter,Opportunity,Medium,John
+C3031,Alice,Opportunity,Medium,John
+C3431,Mary,Location,Bedroom,Mary
+C6344,Mary,Motive,Financial Gain,Alice
+C6391,Alice,Weapon,Gun,Peter
+C2270,Peter,Opportunity,High,Alice
+C7748,Peter,Motive,None,Mary
+C7587,John,Location,Bedroom,John
+C4914,John,Weapon,Fists,Alice
+C4205,Mary,Motive,None,John
+C6889,John,Motive,Jealousy,Peter
+C6062,Mary,Location,Living Room,Peter
+C4645,Alice,Weapon,Poison,Mary
+C4069,Alice,Weapon,Poison,Alice
+C8770,Peter,Motive,Financial Gain,John
+C5783,Alice,Opportunity,Medium,Mary
+C5017,Alice,Motive,None,Peter
+C9782,Alice,Weapon,Gun,Mary
+C1177,Peter,Opportunity,Low,Alice
+C5372,Mary,Weapon,Knife,Peter
+C6957,Mary,Location,Garden,Peter
+C1155,Alice,Location,Kitchen,Mary
+C4351,John,Weapon,Knife,Mary
+C4615,John,Weapon,Fists,Alice
+C4977,Mary,Weapon,Knife,Peter
+C8442,Alice,Opportunity,Low,Alice
+C3616,Mary,Opportunity,High,Mary
+C8540,Alice,Weapon,Gun,Mary
+C7179,Peter,Motive,Revenge,Peter
+C3270,Mary,Motive,Revenge,John
+C1704,John,Location,Kitchen,Alice
+C3319,Peter,Motive,Revenge,Peter
+C7855,John,Motive,None,Alice
+C4029,John,Weapon,Poison,Peter
+C2205,Peter,Motive,Financial Gain,Peter
+C1104,John,Location,Garden,Mary
+C2911,Alice,Weapon,Knife,John
+C7620,John,Motive,None,Peter
+C5300,Peter,Location,Garden,Alice
+C2172,John,Motive,Financial Gain,Peter
+C2157,Mary,Location,Kitchen,Peter
+C9753,Alice,Opportunity,Medium,Mary
+C7106,John,Opportunity,High,Alice
+C9502,Alice,Motive,Revenge,Alice
+C9050,Mary,Motive,Revenge,John
+C6525,Mary,Opportunity,Medium,Peter
+C6244,Peter,Weapon,Gun,Mary
+C6083,Peter,Motive,None,Peter
+C9702,John,Weapon,Poison,Mary
+C8470,John,Opportunity,Low,John
+C8561,Mary,Motive,Financial Gain,John
+C8738,John,Motive,Revenge,Mary
+C5577,Peter,Location,Garden,Mary
+C2124,Peter,Weapon,Gun,Peter
+C5763,Peter,Location,Bedroom,Mary
+C1413,John,Motive,Revenge,Mary
+C6866,Peter,Opportunity,Low,Alice
+C7766,Peter,Opportunity,Low,John
+C8199,Alice,Location,Garden,Peter
+C7411,Peter,Weapon,Fists,Peter
+C6639,Alice,Location,Bedroom,John
+C4353,Alice,Location,Bedroom,Alice
+C4983,John,Weapon,Knife,John
+C3604,Alice,Weapon,Fists,Peter
+C7293,Peter,Location,Garden,Alice
+C3500,John,Weapon,Knife,Alice
+C8399,John,Weapon,Fists,Alice
+C9277,Peter,Weapon,Gun,John
+C4190,Peter,Motive,None,Mary
+C1976,Mary,Weapon,Knife,Alice
+C6742,John,Opportunity,Low,Peter
+C3829,Alice,Opportunity,Medium,Alice
+C7719,Peter,Opportunity,Medium,Alice
+C7005,Mary,Location,Garden,John
+C5170,Mary,Opportunity,Medium,John
+C4516,Alice,Weapon,Fists,Mary
+C8568,Peter,Location,Bedroom,Alice
+C7007,John,Location,Kitchen,Mary
+C5346,Peter,Location,Bedroom,Alice
+C5135,Mary,Opportunity,Medium,Peter
+C5964,Alice,Location,Bedroom,John
+C3875,John,Opportunity,Low,Peter
+C3770,Peter,Location,Garden,Mary
+C1945,Peter,Weapon,Knife,John
+C9606,John,Weapon,Knife,John
+C9450,John,Location,Garden,Peter
+C8067,John,Location,Bedroom,Mary
+C4835,John,Motive,None,Peter
+C4957,Alice,Opportunity,Low,Mary
+C9766,Mary,Motive,Financial Gain,Peter
+C6406,John,Opportunity,Medium,Peter
+C9382,Alice,Motive,None,John
+C1631,Alice,Weapon,Gun,Peter
+C1920,John,Motive,None,Mary
+C8717,Peter,Motive,Revenge,Mary
+C1012,Alice,Motive,Revenge,Peter
+C4831,Alice,Weapon,Fists,Alice
+C8557,Alice,Weapon,Fists,Alice
+C8039,Alice,Motive,Jealousy,Mary
+C3249,Peter,Location,Living Room,Peter
+C3657,Alice,Opportunity,Medium,Peter
+C2336,Peter,Opportunity,Medium,Alice
+C6421,John,Location,Kitchen,Alice
+C5590,Mary,Opportunity,Medium,Peter
+C5125,Alice,Location,Garden,Alice
+C9954,Mary,Motive,Jealousy,John
+C5935,Peter,Motive,Revenge,Peter
+C2063,Mary,Motive,None,Mary
+C4149,Alice,Location,Garden,Peter
+C4684,Mary,Motive,Revenge,John
+C8012,John,Opportunity,Medium,Peter
+C3740,Mary,Opportunity,Low,John
+C1367,Alice,Location,Garden,Alice
+C2234,John,Motive,Revenge,Alice
+C8144,Mary,Weapon,Fists,John
+C2846,Peter,Opportunity,Medium,Alice
+C1743,John,Location,Kitchen,John
+C2469,John,Weapon,Poison,Peter
+C8822,Alice,Opportunity,Low,Peter
+C2244,Peter,Location,Bedroom,Peter
+C2961,Peter,Location,Garden,Mary
+C6413,Peter,Motive,None,Peter
+C1797,Alice,Location,Bedroom,Mary
+C6134,John,Motive,Jealousy,John
+C8061,Mary,Weapon,Knife,Peter
+C5184,Peter,Opportunity,Low,Alice
+C3181,John,Opportunity,Low,Alice
+C4519,Peter,Opportunity,High,Alice
+C9397,Alice,Motive,None,Mary
+C6005,Peter,Location,Bedroom,Mary
+C8108,John,Motive,Jealousy,Mary
+C1478,Peter,Opportunity,Medium,Peter
+C8209,Peter,Location,Living Room,Mary
+C5259,John,Opportunity,Low,Alice
+C9452,Alice,Opportunity,Low,Mary
+C6765,Alice,Location,Living Room,Peter
+C8941,Alice,Weapon,Gun,John
+C2486,Mary,Location,Kitchen,Mary
+C3743,Alice,Location,Kitchen,John
+C2396,Mary,Weapon,Knife,John
+C6661,Mary,Opportunity,High,John
+C3599,John,Opportunity,High,Mary
+C8291,Mary,Opportunity,High,Mary
+C1929,John,Location,Garden,John
+C1015,Alice,Weapon,Fists,John
+C5770,Peter,Weapon,Fists,Mary
+C1176,John,Location,Living Room,Alice
+C7983,Peter,Opportunity,High,Peter
+C1772,Peter,Motive,Jealousy,Alice
+C4072,Peter,Motive,Revenge,Peter
+C8777,Mary,Location,Bedroom,Alice
+C2658,Peter,Motive,Jealousy,John
+C1736,John,Weapon,Knife,Peter
+C3777,Alice,Weapon,Poison,Mary
+C3526,Peter,Location,Kitchen,Peter
+C4297,Peter,Opportunity,High,John
+C1567,Peter,Weapon,Fists,Alice
+C7180,John,Motive,Financial Gain,John
+C4133,Peter,Motive,None,Mary
+C2292,John,Weapon,Poison,Peter
+C3073,Mary,Weapon,Fists,Peter
+C5215,Peter,Weapon,Poison,Mary
+C2043,Peter,Location,Garden,Alice
+C4634,John,Weapon,Fists,Peter
+C1556,Mary,Weapon,Knife,Mary
+C3870,Mary,Opportunity,Medium,John
+C1582,Alice,Motive,None,Alice
+C8037,Alice,Weapon,Poison,Peter
+C6711,Alice,Motive,Financial Gain,John
+C8885,John,Weapon,Knife,Peter
+C7047,Alice,Opportunity,High,Peter
+C8810,Peter,Opportunity,High,Mary
+C7849,John,Location,Kitchen,Alice
+C7309,Alice,Opportunity,High,John
+C9516,John,Opportunity,Low,Alice
+C4920,Alice,Motive,Financial Gain,Mary
+C6968,Peter,Motive,Jealousy,John
+C6362,John,Location,Kitchen,Mary
+C2435,Mary,Weapon,Poison,Peter
+C8281,Mary,Opportunity,Low,Alice
+C2070,John,Weapon,Knife,Peter
+C1688,Peter,Motive,Revenge,Mary
+C6217,Peter,Weapon,Fists,Alice
+C9897,John,Weapon,Fists,Alice
+C2493,Alice,Location,Garden,John
+C3986,Alice,Weapon,Poison,John
+C6957,Alice,Weapon,Knife,Alice
+C4029,Mary,Location,Garden,Alice
+C2173,Mary,Weapon,Knife,Mary
+C6667,Peter,Location,Living Room,Alice
+C5990,Mary,Motive,Revenge,Peter
+C8019,Peter,Weapon,Knife,Mary
+C3188,Peter,Motive,Jealousy,Peter
+C8268,Alice,Opportunity,Medium,Alice
+C9910,Alice,Opportunity,Medium,John
+C4165,Peter,Location,Kitchen,Alice
+C4623,Peter,Opportunity,High,Peter
+C3815,Peter,Motive,Financial Gain,Peter
+C1603,Alice,Location,Living Room,Alice
+C7543,Mary,Location,Bedroom,Mary
+C7426,Peter,Location,Kitchen,Alice
+C1745,Alice,Location,Bedroom,John
+C5671,Peter,Weapon,Gun,John
+C4254,Alice,Location,Garden,John
+C6608,Peter,Motive,Financial Gain,Alice
+C9707,Mary,Motive,Revenge,John
+C8591,Mary,Opportunity,Medium,Peter
+C5844,Alice,Motive,Jealousy,Peter
+C7772,Peter,Opportunity,Low,Alice
+C6590,Peter,Motive,None,John
+C3217,Peter,Location,Bedroom,Alice
+C5381,John,Weapon,Fists,Peter
+C1343,Mary,Weapon,Knife,Peter
+C4132,Mary,Weapon,Fists,Mary
+C3718,John,Motive,Financial Gain,Peter
+C6584,Alice,Opportunity,Low,John
+C3746,Peter,Opportunity,High,John
+C7048,Alice,Weapon,Gun,Mary
+C7489,Mary,Weapon,Poison,Mary
+C7969,Peter,Weapon,Gun,Peter
+C1662,Mary,Weapon,Gun,John
+C1022,Alice,Opportunity,Low,Alice
+C2482,John,Motive,None,Peter
+C4616,John,Opportunity,Low,Peter
+C3656,Alice,Weapon,Fists,Alice
+C6154,Alice,Motive,Jealousy,Alice
+C1541,John,Motive,None,Alice
+C8605,Alice,Opportunity,High,Alice
+C9971,John,Location,Garden,Alice
+C2511,Mary,Weapon,Poison,Alice
+C5445,John,Motive,None,Alice
+C4274,John,Location,Kitchen,John
+C8180,Mary,Location,Garden,Alice
+C6871,Alice,Weapon,Gun,Peter
+C8526,Peter,Motive,None,Mary
+C8489,Alice,Location,Garden,Alice
+C3503,Peter,Motive,None,Mary
+C7956,Mary,Opportunity,High,John
+C7968,Peter,Location,Kitchen,Mary
+C4269,Peter,Weapon,Gun,Peter
+C1474,Mary,Weapon,Gun,Alice
+C5300,John,Motive,Jealousy,John
+C2445,Mary,Motive,None,Alice
+C2602,Alice,Weapon,Poison,Mary
+C5381,John,Location,Bedroom,John
+C1746,John,Weapon,Knife,Peter
+C5363,Peter,Opportunity,High,John
+C5446,Alice,Opportunity,Medium,Alice
+C3686,Mary,Location,Living Room,Mary
+C7558,Alice,Opportunity,High,Mary
+C7425,Alice,Location,Garden,Peter
+C6077,Mary,Motive,Financial Gain,Mary
+C5489,Peter,Motive,None,Alice
+C7561,Mary,Opportunity,High,John
+C7977,Alice,Opportunity,Medium,John
+C8145,Mary,Opportunity,High,John
+C1556,Mary,Motive,None,Alice
+C1165,Mary,Motive,None,John
+C2494,Peter,Motive,None,Alice
+C6187,Peter,Location,Kitchen,Alice
+C1776,Alice,Location,Garden,Alice
+C1362,Peter,Location,Garden,John
+C3444,Peter,Opportunity,Medium,Mary
+C1416,Peter,Opportunity,Low,Peter
+C4184,Alice,Motive,Jealousy,John
+C2706,Alice,Opportunity,Low,Mary
+C9209,Alice,Opportunity,High,Mary
+C1983,Mary,Motive,Jealousy,Mary
+C1680,Peter,Location,Garden,Mary
+C1576,Mary,Opportunity,Medium,John
+C2979,John,Weapon,Poison,Alice
+C5124,John,Motive,Jealousy,John
