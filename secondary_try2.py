@@ -35,24 +35,35 @@ def create_dag(data):
   return G
 
 
-def create_cpts(data, network):
-  """
-  Creates conditional probability tables (CPTs) based on data and network structure
-  """
-  cpts = {}
-  for var in network.nodes:
-    parent_vars = list(network.predecessors(var))
-    cpts[var] = {}
-    if not parent_vars:  # Handle variables without parents (root nodes)
-      value_counts = data[var].value_counts(normalize=True)
-      cpts[var] = dict(value_counts)
-    else:
-      for parent_assignment in all_assignments(parent_vars):
-        # filtered_data = data.loc[(data[parent_vars[0]] == parent_assignment[0]) & (data[parent_vars[1]] == parent_assignment[1]) if len(parent_vars) > 1 else (data[parent_vars[0]] == parent_assignment[0])]
-        # value_counts = filtered_data[var].value_counts(normalize=True)
-        # cpts[var][parent_assignment] = dict(value_counts)
-        print(parent_assignment)
-  return cpts
+def create_conditional_probability_table(data, network):
+  '''this function creates a conditional probability table based on data and the network of the data'''
+  conditional_probability_table = {}
+  
+  for node in network.nodes:
+      parent_nodes = list(network.predecessors(node))
+      conditional_probability_table[node] = {}
+      print(node)
+      if not parent_nodes:
+          # Normalize value counts for nodes without parents
+          node_value_counts = data[node].value_counts(normalize=True)
+          conditional_probability_table[node] = dict(node_value_counts)
+      else:
+          # Iterate over all possible assignments of values to parent nodes
+          for parent_assignment in all_assignments(parent_nodes, data):
+              if len(parent_nodes) == 1:
+                  # Filter data for a single parent node
+                  filtered_data = data[data[parent_nodes[0]] == parent_assignment[0]]
+              else:
+                  # Generate conditions for filtering data based on parent assignments
+                  conditions = (data[parent_nodes[i]] == parent_assignment[i] for i in range(len(parent_nodes)))
+                  filtered_data = data[np.all(np.column_stack(conditions), axis=1)]
+              
+              # Normalize value counts for nodes with parents
+              node_value_counts = filtered_data[node].value_counts(normalize=True)
+              conditional_probability_table[node][tuple(parent_assignment)] = dict(node_value_counts)
+              print(parent_assignment)
+              
+  return conditional_probability_table
 
 
 def all_assignments(variables):
@@ -76,7 +87,7 @@ def main():
   network = create_dag(data)
 
   # Create Conditional Probability Tables (CPTs) from data
-  cpts = create_cpts(data.copy(), network)
+  cpts = create_conditional_probability_table(data.copy(), network)
 
   # Example to calculate posterior probability for a scenario (modify as needed)
   evidence = {
