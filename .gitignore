@@ -3,3 +3,4 @@ mystery_solver_final/
 try_mystery/
 .venv/
 linux_env/
+db.sqlite3
