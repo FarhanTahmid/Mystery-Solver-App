@@ -5,16 +5,26 @@ from django.http import JsonResponse
 # Create your views here.
 
 def welcome_view(request):
-    # returns the welcome view of the screen
-    return render(request,'index.html')
+    # returns the welcome view of the 
+    get_first_story=Stories.objects.filter().first()
+    context={
+        'first_story':get_first_story
+    }
+    return render(request,'index.html',context=context)
 
 def stories(request,story_pk):
     # shows the stories and calls functions to resolve the stories    
     get_story=Stories.objects.get(pk=story_pk)
+    next_story = Stories.objects.filter(pk__gt=get_story.pk).order_by('pk').first()
     
     context={
         'story':get_story,
     }
+    if(next_story):
+        context['next_story']=next_story
+    else:
+        get_first_story=Stories.objects.filter().first()
+        context['next_story']=get_first_story
     
     if request.method=="POST":
         
