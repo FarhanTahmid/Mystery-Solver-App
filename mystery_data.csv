@@ -1,1001 +1,1001 @@
-Case ID,Suspect,Variable,Value,Description,Solution
-C1041,Minhaz,Opportunity,Low,Opportunity used as Low,Minhaz
-C4806,Minhaz,Location,Bedroom,Location used as Bedroom,Fanna
-C8083,Hasib,Motive,None,Motive used as None,Farhan
-C4026,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C9536,Farhan,Opportunity,Low,Opportunity used as Low,Hasib
-C4711,Minhaz,Weapon,Gun,Weapon used as Gun,Farhan
-C3214,Farhan,Motive,None,Motive used as None,Fanna
-C2273,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C7820,Minhaz,Weapon,Fists,Weapon used as Fists,Fanna
-C6536,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C2268,Minhaz,Motive,Greed,Motive used as Greed,Fanna
-C5390,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C8656,Hasib,Weapon,Fists,Weapon used as Fists,Farhan
-C5273,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C8286,Hasib,Motive,Revenge,Motive used as Revenge,Farhan
-C7246,Minhaz,Weapon,Fists,Weapon used as Fists,Farhan
-C7380,Hasib,Opportunity,High,Opportunity used as High,Minhaz
-C1148,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C4136,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C9817,Fanna,Weapon,Fists,Weapon used as Fists,Hasib
-C9406,Farhan,Motive,Jealousy,Motive used as Jealousy,Hasib
-C7921,Farhan,Motive,None,Motive used as None,Farhan
-C8164,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C6957,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C8094,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C8429,Farhan,Weapon,Gun,Weapon used as Gun,Fanna
-C6232,Hasib,Weapon,Knife,Weapon used as Knife,Minhaz
-C7089,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C7681,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C2100,Fanna,Motive,Revenge,Motive used as Revenge,Minhaz
-C5483,Minhaz,Motive,Revenge,Motive used as Revenge,Hasib
-C4627,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C3035,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C4862,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C3750,Fanna,Motive,None,Motive used as None,Hasib
-C8852,Hasib,Weapon,Poison,Weapon used as Poison,Minhaz
-C9955,Minhaz,Motive,Jealousy,Motive used as Jealousy,Hasib
-C1981,Minhaz,Opportunity,Medium,Opportunity used as Medium,Fanna
-C3611,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C2984,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C1253,Fanna,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C3241,Farhan,Weapon,Knife,Weapon used as Knife,Hasib
-C9635,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C4883,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C8588,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C1046,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C6894,Hasib,Location,Living Room,Location used as Living Room,Minhaz
-C6537,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9666,Farhan,Weapon,Poison,Weapon used as Poison,Hasib
-C3607,Minhaz,Motive,Revenge,Motive used as Revenge,Minhaz
-C6388,Farhan,Motive,None,Motive used as None,Farhan
-C2390,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C8522,Fanna,Motive,Jealousy,Motive used as Jealousy,Farhan
-C7078,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C4948,Farhan,Location,Bedroom,Location used as Bedroom,Hasib
-C2580,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C2296,Farhan,Weapon,Knife,Weapon used as Knife,Farhan
-C3177,Hasib,Location,Kitchen,Location used as Kitchen,Minhaz
-C8101,Hasib,Motive,Revenge,Motive used as Revenge,Farhan
-C9775,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C9919,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C4819,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C4171,Minhaz,Motive,Jealousy,Motive used as Jealousy,Farhan
-C5080,Fanna,Motive,None,Motive used as None,Fanna
-C4865,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C1991,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C6179,Farhan,Opportunity,Medium,Opportunity used as Medium,Hasib
-C2874,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C1467,Farhan,Motive,Greed,Motive used as Greed,Minhaz
-C4891,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C2022,Fanna,Location,Living Room,Location used as Living Room,Farhan
-C8499,Minhaz,Motive,None,Motive used as None,Fanna
-C5061,Farhan,Opportunity,Low,Opportunity used as Low,Minhaz
-C5299,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C7388,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C4956,Farhan,Location,Garden,Location used as Garden,Fanna
-C2051,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C1329,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C7457,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C5405,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C1843,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C6357,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C9142,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9985,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C8180,Fanna,Motive,Revenge,Motive used as Revenge,Farhan
-C3778,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C2554,Hasib,Location,Living Room,Location used as Living Room,Fanna
-C3550,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C3021,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C2520,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C6125,Fanna,Motive,None,Motive used as None,Fanna
-C5878,Minhaz,Weapon,Fists,Weapon used as Fists,Fanna
-C5639,Minhaz,Opportunity,Medium,Opportunity used as Medium,Farhan
-C4305,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C5896,Farhan,Opportunity,High,Opportunity used as High,Hasib
-C5689,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C5117,Farhan,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7707,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C4639,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C3833,Fanna,Motive,Jealousy,Motive used as Jealousy,Farhan
-C1503,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C3290,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C7990,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C5250,Fanna,Opportunity,Low,Opportunity used as Low,Minhaz
-C6124,Minhaz,Opportunity,Low,Opportunity used as Low,Hasib
-C2123,Minhaz,Motive,None,Motive used as None,Minhaz
-C9087,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9749,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C2775,Hasib,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6520,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C8137,Hasib,Motive,None,Motive used as None,Farhan
-C1007,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C2771,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C5733,Hasib,Opportunity,High,Opportunity used as High,Farhan
-C8220,Hasib,Weapon,Knife,Weapon used as Knife,Fanna
-C5564,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C3248,Minhaz,Motive,None,Motive used as None,Minhaz
-C1675,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C2774,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3453,Minhaz,Motive,None,Motive used as None,Minhaz
-C8825,Farhan,Weapon,Knife,Weapon used as Knife,Fanna
-C1502,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C1928,Hasib,Opportunity,High,Opportunity used as High,Fanna
-C1411,Hasib,Location,Bedroom,Location used as Bedroom,Fanna
-C7815,Hasib,Location,Bedroom,Location used as Bedroom,Farhan
-C2850,Farhan,Location,Kitchen,Location used as Kitchen,Minhaz
-C9045,Fanna,Opportunity,Medium,Opportunity used as Medium,Hasib
-C2199,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C6125,Farhan,Location,Garden,Location used as Garden,Minhaz
-C7342,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C9683,Farhan,Motive,Jealousy,Motive used as Jealousy,Farhan
-C7545,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C6526,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C1370,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C2827,Farhan,Motive,Greed,Motive used as Greed,Hasib
-C2153,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C9072,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C2579,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C3514,Fanna,Motive,Revenge,Motive used as Revenge,Hasib
-C3786,Fanna,Weapon,Knife,Weapon used as Knife,Farhan
-C6041,Hasib,Weapon,Gun,Weapon used as Gun,Hasib
-C2608,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3891,Farhan,Opportunity,High,Opportunity used as High,Fanna
-C6605,Fanna,Location,Garden,Location used as Garden,Hasib
-C5038,Fanna,Weapon,Poison,Weapon used as Poison,Farhan
-C7612,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C8631,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C4588,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C3831,Fanna,Location,Kitchen,Location used as Kitchen,Minhaz
-C9612,Minhaz,Opportunity,Low,Opportunity used as Low,Farhan
-C4907,Minhaz,Opportunity,Medium,Opportunity used as Medium,Fanna
-C3924,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C4885,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C8008,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C4548,Hasib,Location,Garden,Location used as Garden,Hasib
-C2241,Minhaz,Weapon,Poison,Weapon used as Poison,Minhaz
-C5520,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C3275,Minhaz,Opportunity,Low,Opportunity used as Low,Hasib
-C8380,Minhaz,Motive,Revenge,Motive used as Revenge,Farhan
-C9728,Farhan,Motive,None,Motive used as None,Farhan
-C3905,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C9603,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C6252,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C3486,Fanna,Weapon,Fists,Weapon used as Fists,Farhan
-C9162,Minhaz,Motive,None,Motive used as None,Farhan
-C8611,Minhaz,Location,Bedroom,Location used as Bedroom,Hasib
-C3241,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C8625,Farhan,Weapon,Fists,Weapon used as Fists,Fanna
-C8980,Farhan,Location,Living Room,Location used as Living Room,Fanna
-C2210,Fanna,Location,Bedroom,Location used as Bedroom,Minhaz
-C5056,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C1785,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C6536,Minhaz,Weapon,Poison,Weapon used as Poison,Farhan
-C9619,Farhan,Weapon,Knife,Weapon used as Knife,Farhan
-C3926,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C7025,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C6283,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C7901,Farhan,Weapon,Knife,Weapon used as Knife,Farhan
-C2071,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C4470,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C7073,Minhaz,Location,Garden,Location used as Garden,Fanna
-C4058,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C6722,Hasib,Motive,Greed,Motive used as Greed,Farhan
-C5360,Minhaz,Motive,None,Motive used as None,Hasib
-C5468,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C9561,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C9133,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C9413,Fanna,Location,Bedroom,Location used as Bedroom,Minhaz
-C1641,Farhan,Location,Living Room,Location used as Living Room,Minhaz
-C4967,Fanna,Weapon,Fists,Weapon used as Fists,Minhaz
-C7568,Hasib,Motive,Greed,Motive used as Greed,Minhaz
-C2704,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C5764,Farhan,Motive,Revenge,Motive used as Revenge,Farhan
-C5157,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C6644,Fanna,Opportunity,High,Opportunity used as High,Minhaz
-C1950,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C1078,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C2312,Fanna,Motive,Revenge,Motive used as Revenge,Farhan
-C8960,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C2398,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C8090,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C5715,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C1521,Minhaz,Opportunity,Low,Opportunity used as Low,Hasib
-C8669,Fanna,Location,Garden,Location used as Garden,Hasib
-C5554,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C8200,Farhan,Location,Garden,Location used as Garden,Fanna
-C5357,Farhan,Motive,Revenge,Motive used as Revenge,Minhaz
-C3055,Minhaz,Location,Bedroom,Location used as Bedroom,Farhan
-C4971,Minhaz,Opportunity,High,Opportunity used as High,Hasib
-C9628,Hasib,Motive,None,Motive used as None,Farhan
-C2502,Hasib,Opportunity,High,Opportunity used as High,Minhaz
-C8715,Farhan,Location,Garden,Location used as Garden,Farhan
-C5134,Farhan,Weapon,Knife,Weapon used as Knife,Fanna
-C3234,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C2008,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C3809,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C9087,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C3801,Farhan,Location,Bedroom,Location used as Bedroom,Fanna
-C7234,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C8522,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C8805,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C6436,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C8754,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C2894,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C3014,Minhaz,Weapon,Poison,Weapon used as Poison,Farhan
-C9234,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C5223,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C6310,Minhaz,Motive,None,Motive used as None,Hasib
-C2872,Hasib,Weapon,Gun,Weapon used as Gun,Minhaz
-C5094,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C8640,Minhaz,Opportunity,Low,Opportunity used as Low,Fanna
-C7606,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C4097,Minhaz,Motive,Revenge,Motive used as Revenge,Minhaz
-C9261,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C8927,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C3644,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C6678,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C8762,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C4399,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C7492,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C7615,Farhan,Motive,None,Motive used as None,Minhaz
-C4145,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C9217,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C7973,Minhaz,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6037,Farhan,Location,Garden,Location used as Garden,Farhan
-C6014,Hasib,Motive,Jealousy,Motive used as Jealousy,Farhan
-C2624,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C6635,Fanna,Weapon,Knife,Weapon used as Knife,Minhaz
-C2538,Hasib,Location,Garden,Location used as Garden,Farhan
-C4218,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C1528,Minhaz,Opportunity,Medium,Opportunity used as Medium,Fanna
-C2187,Farhan,Motive,Revenge,Motive used as Revenge,Hasib
-C2703,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C5574,Minhaz,Weapon,Knife,Weapon used as Knife,Hasib
-C1739,Farhan,Location,Bedroom,Location used as Bedroom,Fanna
-C1426,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C3109,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C5751,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C3627,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C2531,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C3507,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6353,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C6285,Farhan,Location,Bedroom,Location used as Bedroom,Hasib
-C4298,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C6404,Minhaz,Location,Living Room,Location used as Living Room,Farhan
-C8893,Fanna,Motive,Jealousy,Motive used as Jealousy,Farhan
-C8853,Minhaz,Weapon,Fists,Weapon used as Fists,Hasib
-C9876,Farhan,Weapon,Poison,Weapon used as Poison,Fanna
-C1093,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C9084,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C2243,Farhan,Location,Garden,Location used as Garden,Fanna
-C5449,Minhaz,Location,Garden,Location used as Garden,Farhan
-C1573,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C9075,Farhan,Opportunity,High,Opportunity used as High,Fanna
-C1140,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C9480,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C8249,Fanna,Motive,None,Motive used as None,Fanna
-C5747,Farhan,Weapon,Fists,Weapon used as Fists,Fanna
-C2987,Farhan,Opportunity,High,Opportunity used as High,Minhaz
-C5382,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C7732,Farhan,Motive,None,Motive used as None,Hasib
-C2709,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C2327,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C1174,Minhaz,Location,Garden,Location used as Garden,Fanna
-C1105,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C5335,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C9345,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C8016,Farhan,Motive,Greed,Motive used as Greed,Minhaz
-C1266,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C5624,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C6232,Farhan,Weapon,Poison,Weapon used as Poison,Minhaz
-C7039,Farhan,Motive,Greed,Motive used as Greed,Hasib
-C1668,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C9472,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3995,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C5611,Farhan,Opportunity,Medium,Opportunity used as Medium,Hasib
-C8159,Fanna,Location,Living Room,Location used as Living Room,Fanna
-C6737,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C6088,Fanna,Motive,Greed,Motive used as Greed,Farhan
-C3430,Farhan,Motive,None,Motive used as None,Farhan
-C6239,Minhaz,Location,Living Room,Location used as Living Room,Farhan
-C4127,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C1656,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C8425,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C9934,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C8565,Hasib,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6613,Farhan,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C7291,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C1473,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C3657,Fanna,Weapon,Knife,Weapon used as Knife,Minhaz
-C3193,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C7001,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C5276,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C9150,Hasib,Location,Bedroom,Location used as Bedroom,Farhan
-C2980,Minhaz,Weapon,Fists,Weapon used as Fists,Fanna
-C5204,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C4254,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C3301,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C3547,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C7711,Farhan,Opportunity,Low,Opportunity used as Low,Fanna
-C5615,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C3277,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C1700,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C2729,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C3550,Hasib,Motive,None,Motive used as None,Minhaz
-C7871,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C3574,Fanna,Motive,Revenge,Motive used as Revenge,Minhaz
-C2971,Minhaz,Motive,None,Motive used as None,Hasib
-C8181,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C3817,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C4950,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C5166,Fanna,Location,Living Room,Location used as Living Room,Fanna
-C1672,Minhaz,Location,Bedroom,Location used as Bedroom,Farhan
-C6926,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9356,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C8154,Minhaz,Weapon,Knife,Weapon used as Knife,Hasib
-C5994,Minhaz,Opportunity,Low,Opportunity used as Low,Hasib
-C6019,Minhaz,Location,Garden,Location used as Garden,Farhan
-C2927,Farhan,Motive,Jealousy,Motive used as Jealousy,Hasib
-C3682,Farhan,Location,Garden,Location used as Garden,Farhan
-C3442,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C2043,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C2066,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C2742,Hasib,Location,Kitchen,Location used as Kitchen,Fanna
-C2453,Minhaz,Motive,None,Motive used as None,Minhaz
-C3812,Farhan,Motive,None,Motive used as None,Hasib
-C4123,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C8120,Hasib,Location,Bedroom,Location used as Bedroom,Farhan
-C7712,Farhan,Weapon,Fists,Weapon used as Fists,Fanna
-C7996,Hasib,Opportunity,Low,Opportunity used as Low,Fanna
-C3482,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7042,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C4586,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C8612,Hasib,Location,Kitchen,Location used as Kitchen,Farhan
-C9574,Fanna,Weapon,Poison,Weapon used as Poison,Hasib
-C7895,Minhaz,Weapon,Poison,Weapon used as Poison,Minhaz
-C2732,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C3842,Farhan,Opportunity,Low,Opportunity used as Low,Hasib
-C5232,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C2129,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C7598,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C6813,Farhan,Location,Living Room,Location used as Living Room,Hasib
-C9231,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C5922,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C3752,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C6983,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C3380,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C8290,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C8413,Farhan,Weapon,Knife,Weapon used as Knife,Hasib
-C1347,Minhaz,Opportunity,Medium,Opportunity used as Medium,Fanna
-C8248,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C9643,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C5183,Minhaz,Opportunity,Low,Opportunity used as Low,Hasib
-C4290,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C1215,Minhaz,Opportunity,High,Opportunity used as High,Hasib
-C3246,Minhaz,Location,Bedroom,Location used as Bedroom,Fanna
-C9027,Minhaz,Location,Kitchen,Location used as Kitchen,Farhan
-C5951,Minhaz,Motive,Greed,Motive used as Greed,Hasib
-C7817,Fanna,Weapon,Fists,Weapon used as Fists,Hasib
-C4201,Hasib,Location,Garden,Location used as Garden,Farhan
-C3250,Hasib,Motive,Revenge,Motive used as Revenge,Minhaz
-C4450,Minhaz,Motive,Revenge,Motive used as Revenge,Fanna
-C3377,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C6354,Fanna,Location,Kitchen,Location used as Kitchen,Minhaz
-C2214,Fanna,Location,Living Room,Location used as Living Room,Fanna
-C4144,Hasib,Weapon,Poison,Weapon used as Poison,Fanna
-C5606,Hasib,Weapon,Knife,Weapon used as Knife,Farhan
-C3422,Farhan,Weapon,Fists,Weapon used as Fists,Hasib
-C2270,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C5125,Hasib,Weapon,Gun,Weapon used as Gun,Hasib
-C5207,Farhan,Opportunity,High,Opportunity used as High,Fanna
-C2173,Farhan,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3404,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C7493,Minhaz,Motive,None,Motive used as None,Minhaz
-C4104,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C4543,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C6273,Fanna,Opportunity,High,Opportunity used as High,Farhan
-C3555,Fanna,Opportunity,Low,Opportunity used as Low,Farhan
-C9170,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C4515,Hasib,Motive,Jealousy,Motive used as Jealousy,Fanna
-C1897,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C3702,Hasib,Location,Kitchen,Location used as Kitchen,Farhan
-C1481,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C4306,Fanna,Opportunity,Medium,Opportunity used as Medium,Hasib
-C6326,Hasib,Weapon,Gun,Weapon used as Gun,Hasib
-C2255,Hasib,Motive,None,Motive used as None,Hasib
-C2252,Hasib,Location,Garden,Location used as Garden,Minhaz
-C2320,Farhan,Weapon,Gun,Weapon used as Gun,Hasib
-C1719,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C1189,Farhan,Location,Garden,Location used as Garden,Farhan
-C4528,Farhan,Motive,Revenge,Motive used as Revenge,Farhan
-C8147,Farhan,Location,Kitchen,Location used as Kitchen,Minhaz
-C4914,Farhan,Weapon,Gun,Weapon used as Gun,Hasib
-C2660,Fanna,Location,Living Room,Location used as Living Room,Farhan
-C1547,Hasib,Location,Living Room,Location used as Living Room,Fanna
-C2028,Hasib,Location,Garden,Location used as Garden,Hasib
-C9565,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C2010,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C8499,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C3537,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C9554,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C3148,Minhaz,Weapon,Poison,Weapon used as Poison,Minhaz
-C3510,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6730,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C5095,Farhan,Motive,Jealousy,Motive used as Jealousy,Farhan
-C2127,Minhaz,Weapon,Gun,Weapon used as Gun,Farhan
-C7205,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C3471,Minhaz,Motive,Greed,Motive used as Greed,Hasib
-C8302,Hasib,Opportunity,High,Opportunity used as High,Fanna
-C4457,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C4897,Minhaz,Motive,Greed,Motive used as Greed,Hasib
-C6466,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C5809,Fanna,Location,Kitchen,Location used as Kitchen,Hasib
-C4876,Hasib,Location,Garden,Location used as Garden,Hasib
-C2992,Farhan,Weapon,Knife,Weapon used as Knife,Farhan
-C7642,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C6022,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C1584,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C6094,Farhan,Motive,Revenge,Motive used as Revenge,Minhaz
-C8671,Fanna,Location,Living Room,Location used as Living Room,Fanna
-C1641,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C3139,Farhan,Opportunity,High,Opportunity used as High,Hasib
-C6800,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C5277,Minhaz,Motive,Greed,Motive used as Greed,Hasib
-C3948,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C5032,Farhan,Motive,Revenge,Motive used as Revenge,Farhan
-C2936,Farhan,Weapon,Gun,Weapon used as Gun,Hasib
-C2125,Minhaz,Motive,Greed,Motive used as Greed,Farhan
-C8235,Fanna,Weapon,Fists,Weapon used as Fists,Minhaz
-C2344,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C6748,Hasib,Motive,Greed,Motive used as Greed,Minhaz
-C5629,Fanna,Opportunity,High,Opportunity used as High,Minhaz
-C9340,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C6833,Farhan,Location,Kitchen,Location used as Kitchen,Minhaz
-C9016,Fanna,Motive,Greed,Motive used as Greed,Hasib
-C2199,Minhaz,Motive,Jealousy,Motive used as Jealousy,Farhan
-C6975,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C9381,Farhan,Motive,None,Motive used as None,Farhan
-C7579,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C5668,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C2959,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C2068,Minhaz,Motive,None,Motive used as None,Minhaz
-C8248,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C1835,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C4298,Minhaz,Opportunity,Low,Opportunity used as Low,Fanna
-C3993,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C5850,Farhan,Weapon,Poison,Weapon used as Poison,Fanna
-C2039,Hasib,Opportunity,High,Opportunity used as High,Farhan
-C4026,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C6708,Farhan,Motive,None,Motive used as None,Farhan
-C4763,Fanna,Location,Garden,Location used as Garden,Fanna
-C1095,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C9870,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C2125,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C9328,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C2996,Farhan,Opportunity,High,Opportunity used as High,Minhaz
-C2295,Minhaz,Motive,Greed,Motive used as Greed,Farhan
-C4347,Farhan,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3899,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C6665,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C1672,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C8692,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C4664,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C5128,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C9962,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C2708,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C5801,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7994,Fanna,Location,Garden,Location used as Garden,Fanna
-C3067,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C3163,Fanna,Opportunity,Low,Opportunity used as Low,Farhan
-C5030,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C7561,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C5480,Fanna,Motive,Revenge,Motive used as Revenge,Hasib
-C9965,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C2384,Minhaz,Location,Kitchen,Location used as Kitchen,Farhan
-C5726,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C9210,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C3689,Fanna,Location,Bedroom,Location used as Bedroom,Minhaz
-C6234,Farhan,Location,Kitchen,Location used as Kitchen,Hasib
-C9423,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C9374,Farhan,Motive,None,Motive used as None,Farhan
-C3400,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C4187,Fanna,Location,Living Room,Location used as Living Room,Minhaz
-C7830,Hasib,Location,Garden,Location used as Garden,Hasib
-C7090,Hasib,Opportunity,High,Opportunity used as High,Farhan
-C7525,Hasib,Motive,Greed,Motive used as Greed,Minhaz
-C6142,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C3142,Fanna,Motive,Revenge,Motive used as Revenge,Minhaz
-C9552,Hasib,Motive,None,Motive used as None,Hasib
-C7562,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C1060,Fanna,Motive,Revenge,Motive used as Revenge,Hasib
-C6385,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C9991,Hasib,Motive,None,Motive used as None,Farhan
-C5179,Farhan,Opportunity,Low,Opportunity used as Low,Fanna
-C7211,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C9710,Hasib,Weapon,Knife,Weapon used as Knife,Farhan
-C7650,Minhaz,Motive,Revenge,Motive used as Revenge,Farhan
-C2757,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C9153,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C7945,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C2876,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C1818,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C1946,Farhan,Motive,None,Motive used as None,Hasib
-C6218,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C2471,Fanna,Weapon,Knife,Weapon used as Knife,Minhaz
-C4015,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C1343,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C8374,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C3547,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C2673,Farhan,Location,Garden,Location used as Garden,Fanna
-C3491,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C7895,Minhaz,Motive,None,Motive used as None,Minhaz
-C7507,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C7221,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C6472,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C7210,Fanna,Weapon,Gun,Weapon used as Gun,Hasib
-C8158,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C4452,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C2536,Minhaz,Opportunity,Low,Opportunity used as Low,Fanna
-C3430,Fanna,Opportunity,Low,Opportunity used as Low,Farhan
-C6819,Fanna,Motive,None,Motive used as None,Farhan
-C5380,Minhaz,Opportunity,Medium,Opportunity used as Medium,Farhan
-C4827,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C6742,Minhaz,Location,Garden,Location used as Garden,Hasib
-C4183,Farhan,Weapon,Poison,Weapon used as Poison,Hasib
-C8329,Farhan,Opportunity,Low,Opportunity used as Low,Minhaz
-C4597,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C7318,Fanna,Motive,None,Motive used as None,Minhaz
-C2096,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
-C5240,Minhaz,Motive,Greed,Motive used as Greed,Hasib
-C9803,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C6103,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C4455,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C3023,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C1669,Hasib,Motive,None,Motive used as None,Minhaz
-C1523,Fanna,Location,Kitchen,Location used as Kitchen,Farhan
-C8337,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C3743,Farhan,Weapon,Fists,Weapon used as Fists,Hasib
-C3656,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C6504,Hasib,Motive,Jealousy,Motive used as Jealousy,Farhan
-C4486,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C4006,Hasib,Weapon,Poison,Weapon used as Poison,Farhan
-C8808,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C7478,Minhaz,Weapon,Knife,Weapon used as Knife,Fanna
-C2996,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C6153,Fanna,Opportunity,High,Opportunity used as High,Farhan
-C2581,Hasib,Weapon,Gun,Weapon used as Gun,Fanna
-C8794,Hasib,Location,Garden,Location used as Garden,Farhan
-C5779,Farhan,Motive,None,Motive used as None,Farhan
-C6901,Fanna,Opportunity,Low,Opportunity used as Low,Minhaz
-C3262,Minhaz,Motive,Revenge,Motive used as Revenge,Minhaz
-C6063,Minhaz,Motive,None,Motive used as None,Hasib
-C9775,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C1345,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C3794,Fanna,Motive,Jealousy,Motive used as Jealousy,Farhan
-C1345,Fanna,Weapon,Gun,Weapon used as Gun,Hasib
-C4457,Minhaz,Motive,Revenge,Motive used as Revenge,Farhan
-C2962,Farhan,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7411,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C1950,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C1447,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C8006,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C5379,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C1227,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C3348,Minhaz,Weapon,Knife,Weapon used as Knife,Farhan
-C2010,Hasib,Location,Kitchen,Location used as Kitchen,Farhan
-C6141,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C1592,Fanna,Weapon,Gun,Weapon used as Gun,Farhan
-C6045,Minhaz,Weapon,Knife,Weapon used as Knife,Fanna
-C8931,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C5178,Hasib,Opportunity,High,Opportunity used as High,Fanna
-C7408,Fanna,Weapon,Gun,Weapon used as Gun,Minhaz
-C7164,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C9256,Hasib,Location,Garden,Location used as Garden,Fanna
-C4221,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C7435,Minhaz,Motive,Revenge,Motive used as Revenge,Farhan
-C6825,Hasib,Weapon,Gun,Weapon used as Gun,Fanna
-C2956,Hasib,Weapon,Gun,Weapon used as Gun,Farhan
-C5348,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C5600,Farhan,Motive,Greed,Motive used as Greed,Minhaz
-C8022,Hasib,Motive,None,Motive used as None,Farhan
-C9558,Fanna,Weapon,Poison,Weapon used as Poison,Minhaz
-C4048,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C9120,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C1401,Hasib,Location,Living Room,Location used as Living Room,Fanna
-C5379,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C9655,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C8801,Fanna,Weapon,Knife,Weapon used as Knife,Hasib
-C6867,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C7881,Fanna,Motive,None,Motive used as None,Fanna
-C1198,Farhan,Motive,Revenge,Motive used as Revenge,Farhan
-C3012,Fanna,Motive,None,Motive used as None,Minhaz
-C6033,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C6196,Farhan,Motive,None,Motive used as None,Fanna
-C6928,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C3879,Minhaz,Opportunity,High,Opportunity used as High,Hasib
-C6629,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C5492,Fanna,Motive,None,Motive used as None,Farhan
-C9024,Fanna,Location,Kitchen,Location used as Kitchen,Hasib
-C9535,Hasib,Opportunity,High,Opportunity used as High,Fanna
-C9474,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C9640,Farhan,Location,Garden,Location used as Garden,Farhan
-C9900,Fanna,Location,Living Room,Location used as Living Room,Hasib
-C3646,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C1045,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C1973,Minhaz,Location,Garden,Location used as Garden,Farhan
-C9296,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C8139,Minhaz,Weapon,Poison,Weapon used as Poison,Fanna
-C2278,Hasib,Motive,Revenge,Motive used as Revenge,Minhaz
-C1976,Farhan,Location,Garden,Location used as Garden,Minhaz
-C9459,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C6209,Hasib,Motive,Greed,Motive used as Greed,Fanna
-C5786,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C5678,Fanna,Motive,Jealousy,Motive used as Jealousy,Hasib
-C1740,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C9503,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C8087,Minhaz,Opportunity,Low,Opportunity used as Low,Minhaz
-C8660,Minhaz,Weapon,Poison,Weapon used as Poison,Minhaz
-C5983,Minhaz,Weapon,Gun,Weapon used as Gun,Fanna
-C9505,Minhaz,Location,Bedroom,Location used as Bedroom,Hasib
-C8353,Fanna,Location,Kitchen,Location used as Kitchen,Hasib
-C7188,Fanna,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C5066,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C6127,Fanna,Motive,Revenge,Motive used as Revenge,Minhaz
-C6364,Farhan,Weapon,Knife,Weapon used as Knife,Hasib
-C5501,Fanna,Motive,Greed,Motive used as Greed,Hasib
-C3957,Hasib,Weapon,Poison,Weapon used as Poison,Minhaz
-C9728,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C3353,Hasib,Weapon,Poison,Weapon used as Poison,Fanna
-C4770,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C7269,Fanna,Motive,Revenge,Motive used as Revenge,Farhan
-C3271,Hasib,Weapon,Gun,Weapon used as Gun,Hasib
-C8572,Minhaz,Weapon,Fists,Weapon used as Fists,Farhan
-C7995,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
-C5070,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C8071,Hasib,Location,Bedroom,Location used as Bedroom,Fanna
-C1716,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C4667,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C6749,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C1743,Hasib,Location,Kitchen,Location used as Kitchen,Minhaz
-C7889,Minhaz,Motive,None,Motive used as None,Minhaz
-C6968,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C1389,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C8231,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C7806,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C1734,Farhan,Location,Living Room,Location used as Living Room,Hasib
-C8959,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C2564,Fanna,Location,Bedroom,Location used as Bedroom,Fanna
-C9401,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C9333,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C8482,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C6496,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C3656,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C1840,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C4238,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C8332,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C7537,Hasib,Weapon,Knife,Weapon used as Knife,Farhan
-C5359,Farhan,Motive,None,Motive used as None,Farhan
-C9269,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C7697,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C3031,Farhan,Location,Bedroom,Location used as Bedroom,Minhaz
-C6021,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
-C1569,Minhaz,Weapon,Fists,Weapon used as Fists,Hasib
-C8189,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C4835,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C2513,Minhaz,Motive,None,Motive used as None,Fanna
-C7847,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C7668,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C7174,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C2840,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C2501,Fanna,Opportunity,High,Opportunity used as High,Farhan
-C4231,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C9198,Farhan,Location,Bedroom,Location used as Bedroom,Farhan
-C7112,Hasib,Weapon,Fists,Weapon used as Fists,Farhan
-C3372,Fanna,Motive,Greed,Motive used as Greed,Minhaz
-C6381,Minhaz,Opportunity,Low,Opportunity used as Low,Farhan
-C9609,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C2523,Farhan,Location,Garden,Location used as Garden,Farhan
-C3094,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C1087,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C4933,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C1742,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C1180,Fanna,Opportunity,Medium,Opportunity used as Medium,Farhan
-C1426,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C8925,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C9692,Minhaz,Weapon,Knife,Weapon used as Knife,Hasib
-C2585,Farhan,Location,Garden,Location used as Garden,Farhan
-C7216,Farhan,Opportunity,High,Opportunity used as High,Minhaz
-C5338,Fanna,Weapon,Poison,Weapon used as Poison,Hasib
-C7113,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C9156,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C1948,Farhan,Location,Living Room,Location used as Living Room,Fanna
-C7434,Minhaz,Location,Kitchen,Location used as Kitchen,Fanna
-C9064,Hasib,Location,Kitchen,Location used as Kitchen,Farhan
-C2526,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C1573,Minhaz,Opportunity,Low,Opportunity used as Low,Fanna
-C9671,Hasib,Location,Living Room,Location used as Living Room,Minhaz
-C2314,Minhaz,Motive,Jealousy,Motive used as Jealousy,Farhan
-C9099,Farhan,Location,Kitchen,Location used as Kitchen,Hasib
-C2303,Minhaz,Location,Garden,Location used as Garden,Hasib
-C3187,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C6525,Minhaz,Opportunity,Low,Opportunity used as Low,Fanna
-C5385,Hasib,Opportunity,High,Opportunity used as High,Minhaz
-C8852,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C9564,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C9536,Minhaz,Weapon,Poison,Weapon used as Poison,Farhan
-C8864,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C2982,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C9451,Minhaz,Weapon,Poison,Weapon used as Poison,Farhan
-C6705,Farhan,Location,Kitchen,Location used as Kitchen,Fanna
-C7517,Minhaz,Weapon,Knife,Weapon used as Knife,Fanna
-C1007,Fanna,Location,Living Room,Location used as Living Room,Fanna
-C9453,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C3352,Farhan,Motive,Greed,Motive used as Greed,Fanna
-C1075,Hasib,Motive,Jealousy,Motive used as Jealousy,Fanna
-C6488,Minhaz,Location,Kitchen,Location used as Kitchen,Fanna
-C9450,Farhan,Location,Garden,Location used as Garden,Farhan
-C2542,Farhan,Opportunity,High,Opportunity used as High,Minhaz
-C3180,Fanna,Location,Garden,Location used as Garden,Fanna
-C3473,Hasib,Weapon,Knife,Weapon used as Knife,Hasib
-C5886,Farhan,Opportunity,Low,Opportunity used as Low,Hasib
-C8796,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C5361,Fanna,Motive,Greed,Motive used as Greed,Minhaz
-C8740,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C1323,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C1575,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C5133,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C6331,Hasib,Weapon,Knife,Weapon used as Knife,Fanna
-C7555,Fanna,Weapon,Knife,Weapon used as Knife,Fanna
-C3955,Fanna,Motive,None,Motive used as None,Fanna
-C9105,Farhan,Location,Garden,Location used as Garden,Farhan
-C7623,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C5798,Farhan,Opportunity,Low,Opportunity used as Low,Fanna
-C7125,Fanna,Location,Bedroom,Location used as Bedroom,Farhan
-C8761,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C6607,Farhan,Motive,None,Motive used as None,Farhan
-C8197,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C3217,Hasib,Motive,None,Motive used as None,Minhaz
-C6913,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C2309,Hasib,Weapon,Knife,Weapon used as Knife,Fanna
-C9807,Hasib,Weapon,Knife,Weapon used as Knife,Minhaz
-C7729,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C8046,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C4327,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C5122,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C4667,Fanna,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C1455,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C5514,Farhan,Weapon,Fists,Weapon used as Fists,Hasib
-C9746,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C2757,Fanna,Location,Garden,Location used as Garden,Farhan
-C9165,Hasib,Weapon,Poison,Weapon used as Poison,Fanna
-C6171,Farhan,Motive,Jealousy,Motive used as Jealousy,Farhan
-C3936,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C3604,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C8442,Minhaz,Location,Living Room,Location used as Living Room,Fanna
-C5428,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C8147,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C8822,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C5389,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C3210,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C6650,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C2817,Hasib,Motive,None,Motive used as None,Minhaz
-C4528,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C3996,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C5132,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C3354,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C4642,Fanna,Opportunity,High,Opportunity used as High,Farhan
-C4988,Hasib,Location,Garden,Location used as Garden,Farhan
-C9125,Fanna,Opportunity,High,Opportunity used as High,Farhan
-C9331,Hasib,Weapon,Fists,Weapon used as Fists,Hasib
-C4851,Fanna,Opportunity,Medium,Opportunity used as Medium,Fanna
-C8364,Farhan,Motive,None,Motive used as None,Hasib
-C9722,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C5101,Minhaz,Opportunity,Low,Opportunity used as Low,Minhaz
-C6484,Minhaz,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C1176,Hasib,Motive,Jealousy,Motive used as Jealousy,Farhan
-C1328,Hasib,Weapon,Fists,Weapon used as Fists,Fanna
-C9016,Farhan,Motive,Revenge,Motive used as Revenge,Hasib
-C7986,Fanna,Motive,None,Motive used as None,Minhaz
-C3990,Farhan,Motive,Greed,Motive used as Greed,Hasib
-C4589,Hasib,Motive,Revenge,Motive used as Revenge,Hasib
-C2966,Farhan,Motive,None,Motive used as None,Farhan
-C6219,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C2188,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C2625,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C8800,Minhaz,Opportunity,Medium,Opportunity used as Medium,Farhan
-C9472,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C6403,Farhan,Location,Kitchen,Location used as Kitchen,Fanna
-C3111,Farhan,Weapon,Knife,Weapon used as Knife,Farhan
-C7080,Fanna,Motive,None,Motive used as None,Fanna
-C5121,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C6394,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C2699,Minhaz,Motive,None,Motive used as None,Minhaz
-C6051,Fanna,Opportunity,Low,Opportunity used as Low,Minhaz
-C3029,Fanna,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7514,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C6939,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9121,Minhaz,Motive,Greed,Motive used as Greed,Minhaz
-C4770,Minhaz,Location,Garden,Location used as Garden,Fanna
-C7877,Fanna,Weapon,Fists,Weapon used as Fists,Minhaz
-C6363,Farhan,Motive,Revenge,Motive used as Revenge,Fanna
-C4999,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C9957,Fanna,Motive,None,Motive used as None,Fanna
-C2923,Farhan,Weapon,Gun,Weapon used as Gun,Farhan
-C6301,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C7621,Farhan,Weapon,Gun,Weapon used as Gun,Hasib
-C5621,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
-C7312,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C2158,Minhaz,Location,Bedroom,Location used as Bedroom,Hasib
-C2977,Minhaz,Motive,Jealousy,Motive used as Jealousy,Farhan
-C6556,Hasib,Opportunity,Low,Opportunity used as Low,Fanna
-C2593,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C6165,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C5803,Hasib,Weapon,Gun,Weapon used as Gun,Hasib
-C4864,Hasib,Location,Garden,Location used as Garden,Hasib
-C9636,Hasib,Weapon,Poison,Weapon used as Poison,Farhan
-C7100,Farhan,Motive,Revenge,Motive used as Revenge,Fanna
-C5560,Minhaz,Motive,None,Motive used as None,Farhan
-C4529,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C6146,Hasib,Motive,Jealousy,Motive used as Jealousy,Farhan
-C4327,Hasib,Opportunity,Medium,Opportunity used as Medium,Fanna
-C9114,Fanna,Opportunity,Low,Opportunity used as Low,Hasib
-C3411,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C9058,Farhan,Opportunity,High,Opportunity used as High,Hasib
-C6863,Farhan,Opportunity,Low,Opportunity used as Low,Minhaz
-C5340,Fanna,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C2698,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C7701,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C7122,Fanna,Weapon,Knife,Weapon used as Knife,Hasib
-C2096,Minhaz,Opportunity,Medium,Opportunity used as Medium,Farhan
-C7239,Fanna,Motive,Greed,Motive used as Greed,Minhaz
-C2796,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C5022,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
-C2672,Farhan,Opportunity,High,Opportunity used as High,Fanna
-C8883,Fanna,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C6667,Fanna,Motive,Jealousy,Motive used as Jealousy,Hasib
-C3814,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C5890,Farhan,Motive,None,Motive used as None,Farhan
-C1543,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C4911,Farhan,Location,Bedroom,Location used as Bedroom,Hasib
-C5787,Farhan,Weapon,Poison,Weapon used as Poison,Fanna
-C3410,Minhaz,Motive,Revenge,Motive used as Revenge,Minhaz
-C2996,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C8060,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C8918,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C8496,Fanna,Motive,Greed,Motive used as Greed,Fanna
-C1280,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C2859,Farhan,Motive,None,Motive used as None,Farhan
-C7631,Fanna,Weapon,Knife,Weapon used as Knife,Farhan
-C2185,Minhaz,Opportunity,Low,Opportunity used as Low,Minhaz
-C5773,Farhan,Opportunity,Medium,Opportunity used as Medium,Farhan
-C9613,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C1437,Minhaz,Weapon,Gun,Weapon used as Gun,Fanna
-C8196,Minhaz,Weapon,Gun,Weapon used as Gun,Farhan
-C7128,Hasib,Weapon,Gun,Weapon used as Gun,Fanna
-C8063,Fanna,Location,Kitchen,Location used as Kitchen,Farhan
-C4545,Fanna,Opportunity,Low,Opportunity used as Low,Farhan
-C2603,Farhan,Location,Living Room,Location used as Living Room,Hasib
-C5474,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C6780,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C7378,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C8015,Hasib,Motive,Greed,Motive used as Greed,Minhaz
-C9975,Fanna,Opportunity,High,Opportunity used as High,Minhaz
-C2448,Farhan,Motive,Greed,Motive used as Greed,Farhan
-C8362,Minhaz,Motive,Revenge,Motive used as Revenge,Fanna
-C4782,Hasib,Motive,Jealousy,Motive used as Jealousy,Fanna
-C9374,Farhan,Opportunity,High,Opportunity used as High,Farhan
-C4029,Fanna,Motive,Greed,Motive used as Greed,Minhaz
-C8060,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C7182,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C8023,Hasib,Opportunity,Low,Opportunity used as Low,Minhaz
-C2480,Hasib,Weapon,Knife,Weapon used as Knife,Farhan
-C7834,Fanna,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C1445,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C1887,Minhaz,Weapon,Fists,Weapon used as Fists,Fanna
-C5640,Minhaz,Location,Living Room,Location used as Living Room,Minhaz
-C3706,Farhan,Opportunity,High,Opportunity used as High,Minhaz
-C4105,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C7013,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C1291,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C5321,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C4022,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C1221,Minhaz,Motive,Jealousy,Motive used as Jealousy,Minhaz
-C7162,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C1739,Hasib,Weapon,Fists,Weapon used as Fists,Minhaz
-C9176,Fanna,Motive,None,Motive used as None,Fanna
-C3363,Farhan,Weapon,Fists,Weapon used as Fists,Hasib
-C8334,Minhaz,Location,Garden,Location used as Garden,Minhaz
-C8165,Hasib,Motive,None,Motive used as None,Farhan
-C9196,Hasib,Opportunity,Medium,Opportunity used as Medium,Fanna
-C7311,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C9755,Farhan,Location,Bedroom,Location used as Bedroom,Hasib
-C1655,Hasib,Motive,Greed,Motive used as Greed,Hasib
-C6641,Hasib,Opportunity,Medium,Opportunity used as Medium,Farhan
-C6263,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C9862,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C2465,Hasib,Weapon,Gun,Weapon used as Gun,Fanna
-C6262,Fanna,Weapon,Fists,Weapon used as Fists,Fanna
-C5540,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C3773,Farhan,Location,Garden,Location used as Garden,Hasib
-C6721,Minhaz,Weapon,Knife,Weapon used as Knife,Minhaz
-C9851,Fanna,Opportunity,Low,Opportunity used as Low,Hasib
-C7861,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C3220,Hasib,Motive,Jealousy,Motive used as Jealousy,Fanna
-C9350,Hasib,Motive,Revenge,Motive used as Revenge,Fanna
-C2704,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C9475,Hasib,Weapon,Knife,Weapon used as Knife,Minhaz
-C1684,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C6398,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C7501,Fanna,Opportunity,Low,Opportunity used as Low,Minhaz
-C1403,Hasib,Opportunity,Low,Opportunity used as Low,Fanna
-C9088,Hasib,Location,Living Room,Location used as Living Room,Hasib
-C7511,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C1692,Farhan,Weapon,Fists,Weapon used as Fists,Hasib
-C5468,Minhaz,Weapon,Gun,Weapon used as Gun,Minhaz
-C4492,Fanna,Motive,Revenge,Motive used as Revenge,Fanna
-C4412,Hasib,Weapon,Knife,Weapon used as Knife,Minhaz
-C6229,Minhaz,Location,Kitchen,Location used as Kitchen,Fanna
-C1818,Fanna,Weapon,Gun,Weapon used as Gun,Fanna
-C6994,Minhaz,Opportunity,Medium,Opportunity used as Medium,Hasib
-C7494,Hasib,Location,Garden,Location used as Garden,Hasib
-C2981,Minhaz,Weapon,Knife,Weapon used as Knife,Farhan
-C3435,Hasib,Opportunity,Low,Opportunity used as Low,Farhan
-C8562,Hasib,Weapon,Poison,Weapon used as Poison,Hasib
-C7556,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C4277,Minhaz,Motive,Jealousy,Motive used as Jealousy,Hasib
-C4473,Farhan,Location,Kitchen,Location used as Kitchen,Farhan
-C2425,Minhaz,Location,Kitchen,Location used as Kitchen,Minhaz
-C7496,Farhan,Opportunity,Low,Opportunity used as Low,Fanna
-C5535,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C5208,Fanna,Location,Bedroom,Location used as Bedroom,Minhaz
-C8442,Hasib,Opportunity,High,Opportunity used as High,Hasib
-C5555,Fanna,Opportunity,High,Opportunity used as High,Minhaz
-C5333,Farhan,Motive,None,Motive used as None,Farhan
-C5923,Farhan,Weapon,Poison,Weapon used as Poison,Farhan
-C8940,Hasib,Opportunity,Medium,Opportunity used as Medium,Minhaz
-C1009,Farhan,Weapon,Fists,Weapon used as Fists,Fanna
-C4624,Farhan,Weapon,Fists,Weapon used as Fists,Farhan
-C4366,Fanna,Opportunity,High,Opportunity used as High,Fanna
-C8667,Minhaz,Opportunity,High,Opportunity used as High,Minhaz
-C1427,Hasib,Weapon,Knife,Weapon used as Knife,Farhan
-C1744,Fanna,Weapon,Poison,Weapon used as Poison,Fanna
-C4936,Fanna,Location,Kitchen,Location used as Kitchen,Fanna
-C8029,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C1759,Fanna,Motive,Jealousy,Motive used as Jealousy,Hasib
-C1614,Farhan,Motive,Greed,Motive used as Greed,Fanna
-C7908,Farhan,Opportunity,Low,Opportunity used as Low,Farhan
-C3062,Hasib,Weapon,Gun,Weapon used as Gun,Fanna
-C3857,Minhaz,Location,Bedroom,Location used as Bedroom,Minhaz
-C9306,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C4680,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C6588,Fanna,Location,Garden,Location used as Garden,Fanna
-C1973,Minhaz,Opportunity,High,Opportunity used as High,Fanna
-C1953,Minhaz,Location,Living Room,Location used as Living Room,Farhan
-C9697,Hasib,Opportunity,Medium,Opportunity used as Medium,Hasib
-C5215,Farhan,Location,Living Room,Location used as Living Room,Farhan
-C1157,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C7197,Minhaz,Motive,Jealousy,Motive used as Jealousy,Fanna
-C1539,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C9499,Hasib,Location,Bedroom,Location used as Bedroom,Hasib
-C6624,Farhan,Motive,Revenge,Motive used as Revenge,Farhan
-C2078,Minhaz,Opportunity,High,Opportunity used as High,Farhan
-C3538,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C5363,Fanna,Motive,Jealousy,Motive used as Jealousy,Fanna
-C3226,Minhaz,Location,Living Room,Location used as Living Room,Hasib
-C6882,Hasib,Opportunity,Low,Opportunity used as Low,Hasib
-C2717,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C3927,Hasib,Motive,Jealousy,Motive used as Jealousy,Hasib
-C2840,Minhaz,Weapon,Fists,Weapon used as Fists,Minhaz
-C5065,Farhan,Opportunity,Medium,Opportunity used as Medium,Fanna
-C6550,Farhan,Location,Bedroom,Location used as Bedroom,Fanna
-C2564,Farhan,Motive,Revenge,Motive used as Revenge,Hasib
-C8904,Minhaz,Opportunity,Medium,Opportunity used as Medium,Farhan
-C4366,Fanna,Location,Garden,Location used as Garden,Hasib
-C6545,Fanna,Opportunity,High,Opportunity used as High,Hasib
-C4956,Fanna,Opportunity,Low,Opportunity used as Low,Fanna
-C5901,Hasib,Location,Kitchen,Location used as Kitchen,Hasib
-C5450,Hasib,Location,Living Room,Location used as Living Room,Minhaz
-C7930,Minhaz,Weapon,Poison,Weapon used as Poison,Minhaz
-C2499,Minhaz,Location,Kitchen,Location used as Kitchen,Hasib
+Case ID,Suspect,Variable,Value,Solution
+C4272,John,Motive,Jealousy,Alice
+C4794,Mary,Motive,Revenge,Peter
+C1177,Alice,Opportunity,High,Mary
+C5349,John,Opportunity,Low,John
+C9981,Mary,Opportunity,Low,Peter
+C5612,Peter,Location,Garden,Alice
+C5050,Mary,Weapon,Knife,John
+C7014,Mary,Weapon,Poison,John
+C7662,John,Location,Kitchen,Mary
+C2787,John,Location,Living Room,Alice
+C8115,Mary,Opportunity,Low,Alice
+C9336,Alice,Weapon,Fists,Mary
+C1797,Alice,Location,Kitchen,Peter
+C7195,Alice,Opportunity,Low,John
+C7960,Peter,Location,Living Room,Peter
+C5140,John,Weapon,Gun,Peter
+C2781,Alice,Location,Garden,Alice
+C2948,Peter,Opportunity,Medium,Mary
+C8533,Alice,Weapon,Gun,Alice
+C9408,Alice,Motive,Financial Gain,Peter
+C9915,John,Opportunity,Low,Alice
+C5621,Mary,Weapon,Poison,John
+C9754,Mary,Opportunity,High,Peter
+C7404,Peter,Motive,None,Alice
+C8923,John,Weapon,Fists,Peter
+C8786,John,Opportunity,Medium,Mary
+C5719,Mary,Weapon,Knife,Mary
+C8781,John,Location,Living Room,Peter
+C8119,John,Weapon,Knife,John
+C5344,Peter,Weapon,Knife,John
+C7892,Mary,Motive,Jealousy,Alice
+C3303,Peter,Location,Bedroom,John
+C2459,Peter,Opportunity,Low,Peter
+C1379,Alice,Opportunity,Medium,Peter
+C9350,Mary,Motive,None,Alice
+C4573,John,Weapon,Poison,John
+C9011,Mary,Weapon,Knife,John
+C7395,Peter,Opportunity,Medium,John
+C6525,Mary,Opportunity,High,Mary
+C5935,Mary,Opportunity,Low,John
+C6096,Peter,Location,Garden,John
+C3016,Peter,Weapon,Poison,Alice
+C9380,Peter,Motive,Financial Gain,John
+C3029,Mary,Opportunity,High,Alice
+C1268,Peter,Weapon,Poison,Mary
+C9629,Peter,Location,Bedroom,Peter
+C5316,Peter,Opportunity,High,Alice
+C4387,John,Motive,Jealousy,John
+C4071,Mary,Opportunity,Low,Alice
+C7347,Mary,Opportunity,Low,Alice
+C6275,Mary,Weapon,Poison,John
+C9803,Alice,Opportunity,Medium,Alice
+C9031,John,Location,Kitchen,Mary
+C5641,Peter,Location,Kitchen,Alice
+C8764,Alice,Opportunity,Low,Alice
+C1957,Mary,Opportunity,Medium,Alice
+C3380,Alice,Opportunity,High,Alice
+C7041,Alice,Opportunity,Medium,Alice
+C5283,John,Location,Living Room,Mary
+C5212,Peter,Motive,Jealousy,John
+C3613,John,Weapon,Knife,Peter
+C4135,Peter,Opportunity,Low,Mary
+C4584,Peter,Location,Bedroom,Alice
+C9158,Mary,Weapon,Fists,Peter
+C4235,John,Location,Kitchen,John
+C2798,John,Weapon,Knife,John
+C9208,Alice,Opportunity,Low,Peter
+C4666,John,Location,Garden,Peter
+C7526,Peter,Location,Garden,Peter
+C1134,Alice,Weapon,Fists,Peter
+C3625,John,Opportunity,Medium,John
+C4515,Peter,Motive,None,John
+C6120,John,Motive,Jealousy,John
+C5813,Alice,Motive,Financial Gain,Alice
+C2339,Alice,Location,Bedroom,John
+C7094,John,Motive,Revenge,Peter
+C1899,Mary,Opportunity,Medium,Peter
+C7740,John,Location,Bedroom,John
+C3000,John,Weapon,Poison,Mary
+C8075,Alice,Opportunity,Medium,Peter
+C4106,Alice,Motive,Financial Gain,John
+C5836,Mary,Location,Bedroom,Alice
+C8505,Alice,Motive,None,Peter
+C9008,Alice,Motive,Revenge,Peter
+C8673,Peter,Weapon,Poison,John
+C7872,Mary,Opportunity,High,Alice
+C6674,Peter,Location,Kitchen,John
+C2455,Alice,Weapon,Fists,Peter
+C3966,Alice,Weapon,Fists,Mary
+C1802,Mary,Opportunity,High,Mary
+C9799,Alice,Location,Garden,Mary
+C1865,Alice,Motive,Financial Gain,Mary
+C5907,Peter,Motive,None,Mary
+C2729,Alice,Opportunity,Low,John
+C9231,Alice,Opportunity,Low,Peter
+C5550,John,Location,Living Room,John
+C5740,Alice,Opportunity,High,Mary
+C9248,Alice,Location,Living Room,Peter
+C6431,Peter,Weapon,Knife,John
+C6275,Alice,Motive,Revenge,Peter
+C3266,Mary,Opportunity,High,Peter
+C6926,John,Location,Kitchen,Mary
+C4085,Peter,Opportunity,Low,Mary
+C5334,Peter,Location,Garden,Peter
+C9353,Alice,Location,Garden,John
+C2962,John,Opportunity,Low,Alice
+C5354,Alice,Location,Bedroom,Peter
+C1554,Alice,Motive,Revenge,Alice
+C3781,John,Location,Kitchen,John
+C2703,Alice,Location,Bedroom,Peter
+C3396,Peter,Motive,Jealousy,Alice
+C7352,Peter,Location,Garden,Mary
+C5635,Peter,Opportunity,High,John
+C3271,John,Weapon,Gun,Alice
+C7771,John,Motive,None,Mary
+C2718,Mary,Motive,None,John
+C8797,John,Location,Bedroom,Peter
+C3169,John,Opportunity,Low,Peter
+C2407,Alice,Weapon,Poison,Peter
+C8403,John,Weapon,Fists,Mary
+C9186,Peter,Opportunity,Medium,Alice
+C9459,Alice,Weapon,Poison,Alice
+C2354,John,Weapon,Knife,Mary
+C2711,Alice,Opportunity,High,Alice
+C7572,Mary,Location,Bedroom,Alice
+C8927,Mary,Motive,Jealousy,Mary
+C1453,Alice,Weapon,Knife,Peter
+C9027,John,Location,Garden,Peter
+C4963,Alice,Location,Bedroom,Peter
+C3562,John,Opportunity,Medium,Mary
+C1989,John,Weapon,Fists,Mary
+C1625,Mary,Weapon,Knife,Peter
+C5189,John,Motive,Jealousy,Mary
+C1528,Peter,Location,Bedroom,John
+C8885,Peter,Opportunity,Medium,Peter
+C3835,John,Location,Garden,John
+C5870,John,Weapon,Poison,Peter
+C7240,Peter,Opportunity,High,Alice
+C2204,Mary,Weapon,Poison,Alice
+C1457,John,Opportunity,High,Mary
+C2420,Peter,Motive,Jealousy,Mary
+C8963,Peter,Motive,Revenge,John
+C9283,Mary,Motive,Revenge,John
+C3338,Alice,Motive,None,Peter
+C4760,Peter,Opportunity,High,John
+C3848,Mary,Weapon,Gun,John
+C9642,John,Opportunity,High,Alice
+C5897,Mary,Location,Garden,John
+C7855,Mary,Weapon,Poison,Alice
+C9888,Peter,Location,Living Room,Alice
+C2280,Mary,Location,Kitchen,Peter
+C6136,Mary,Weapon,Knife,Alice
+C2038,John,Weapon,Knife,Alice
+C5707,Mary,Weapon,Gun,Mary
+C8419,Mary,Opportunity,Low,John
+C5433,Mary,Opportunity,Low,Alice
+C9276,Alice,Opportunity,Low,Alice
+C7757,John,Motive,Financial Gain,Peter
+C8135,Alice,Opportunity,High,Mary
+C9271,John,Location,Living Room,Alice
+C4483,John,Motive,Jealousy,John
+C4285,Mary,Location,Bedroom,Peter
+C6824,Alice,Opportunity,Low,Alice
+C3475,Peter,Location,Kitchen,Alice
+C6405,Peter,Motive,Financial Gain,Mary
+C9724,John,Location,Garden,Mary
+C3578,Mary,Weapon,Poison,Mary
+C2217,Peter,Opportunity,High,John
+C5668,Peter,Weapon,Knife,John
+C2950,John,Location,Garden,John
+C2409,Peter,Opportunity,High,Mary
+C6936,John,Motive,Revenge,Alice
+C9653,Alice,Weapon,Fists,Mary
+C3862,Mary,Opportunity,Medium,Alice
+C8089,Peter,Opportunity,High,John
+C5238,Alice,Motive,None,John
+C7704,John,Weapon,Fists,Alice
+C1750,John,Motive,Revenge,John
+C5430,Mary,Location,Garden,Peter
+C9605,Alice,Opportunity,Medium,Mary
+C8946,Alice,Motive,Financial Gain,Mary
+C6422,Mary,Weapon,Fists,Mary
+C5413,Peter,Location,Garden,John
+C8717,Alice,Location,Garden,Alice
+C6387,John,Motive,None,Alice
+C3731,Peter,Opportunity,Low,Peter
+C3249,John,Motive,Revenge,Mary
+C8599,Alice,Weapon,Gun,John
+C9090,John,Motive,Revenge,Peter
+C7240,Alice,Motive,None,Mary
+C7500,John,Opportunity,Medium,Mary
+C2701,Alice,Motive,None,Peter
+C7857,Alice,Location,Living Room,Alice
+C1540,Mary,Location,Kitchen,Mary
+C3244,Mary,Weapon,Gun,John
+C8352,John,Opportunity,Low,Alice
+C2436,Mary,Weapon,Gun,John
+C9291,Mary,Motive,None,John
+C1547,Mary,Weapon,Poison,Alice
+C6319,John,Location,Kitchen,Peter
+C2699,Alice,Motive,None,Mary
+C9658,Mary,Location,Kitchen,Mary
+C3451,Peter,Motive,Jealousy,Mary
+C8889,John,Motive,Financial Gain,Alice
+C6344,Alice,Location,Living Room,John
+C4032,John,Opportunity,High,Mary
+C3931,John,Weapon,Knife,John
+C9055,Alice,Opportunity,Medium,Mary
+C9283,Alice,Opportunity,Medium,Peter
+C4276,Alice,Motive,Financial Gain,John
+C9289,John,Weapon,Knife,Alice
+C1821,John,Motive,Jealousy,Peter
+C4219,Mary,Opportunity,Low,Mary
+C8378,Mary,Weapon,Knife,Alice
+C4430,John,Location,Garden,John
+C8360,Mary,Motive,Jealousy,Mary
+C2726,Peter,Location,Kitchen,Peter
+C6148,Mary,Location,Kitchen,Mary
+C7477,Alice,Opportunity,High,John
+C1948,Peter,Weapon,Gun,John
+C3940,John,Weapon,Knife,Alice
+C6902,Alice,Motive,Revenge,John
+C2053,Mary,Motive,Revenge,Mary
+C1633,Mary,Motive,Financial Gain,John
+C4340,John,Weapon,Fists,John
+C6290,Alice,Opportunity,Medium,Alice
+C2663,Alice,Location,Garden,Mary
+C8570,Alice,Opportunity,Medium,Mary
+C5843,John,Opportunity,Low,John
+C3224,Peter,Location,Kitchen,Alice
+C1210,Peter,Location,Bedroom,Peter
+C6816,Peter,Location,Kitchen,Alice
+C3053,Alice,Location,Bedroom,John
+C1239,Alice,Opportunity,Medium,Alice
+C9782,Alice,Opportunity,Medium,Mary
+C8168,Mary,Location,Living Room,Mary
+C3481,John,Opportunity,Low,John
+C6321,John,Location,Kitchen,John
+C3091,Mary,Opportunity,Medium,John
+C6099,John,Location,Bedroom,John
+C1441,Mary,Weapon,Knife,Alice
+C6674,John,Motive,Jealousy,Peter
+C5192,Mary,Location,Kitchen,Alice
+C3805,John,Opportunity,Low,Alice
+C7905,Alice,Motive,Revenge,Mary
+C7817,Mary,Weapon,Poison,Mary
+C7521,Peter,Motive,None,Peter
+C5632,Mary,Opportunity,High,Mary
+C2507,John,Motive,None,John
+C6431,John,Motive,Financial Gain,John
+C6126,Alice,Opportunity,Low,Alice
+C7600,Mary,Motive,Financial Gain,Alice
+C4739,Mary,Location,Living Room,John
+C7944,John,Location,Living Room,Peter
+C1981,John,Weapon,Poison,Peter
+C1497,Mary,Location,Bedroom,Mary
+C9536,Mary,Location,Garden,Alice
+C2132,Mary,Motive,Financial Gain,John
+C6154,Peter,Weapon,Gun,John
+C1469,Mary,Opportunity,Low,Alice
+C8789,Peter,Motive,None,Peter
+C4084,Alice,Location,Bedroom,Alice
+C6291,Peter,Opportunity,Low,Alice
+C8934,John,Opportunity,Low,John
+C5182,Alice,Location,Bedroom,Peter
+C2674,Alice,Opportunity,Medium,Peter
+C3931,Mary,Weapon,Gun,John
+C9429,Peter,Opportunity,High,Alice
+C9547,John,Motive,None,Alice
+C2993,Mary,Location,Bedroom,Peter
+C8867,John,Opportunity,Low,Mary
+C1981,Mary,Motive,Financial Gain,John
+C2818,John,Location,Garden,Peter
+C9345,Alice,Opportunity,Low,John
+C8105,John,Opportunity,High,John
+C2808,Mary,Location,Bedroom,John
+C8648,Mary,Weapon,Knife,John
+C3227,Peter,Location,Garden,Mary
+C7036,Peter,Weapon,Gun,John
+C8802,Alice,Motive,Jealousy,Alice
+C2831,Mary,Location,Kitchen,Alice
+C3474,Alice,Motive,Revenge,Mary
+C6282,John,Opportunity,Medium,Mary
+C2144,John,Motive,Financial Gain,Alice
+C2496,Mary,Motive,Revenge,Alice
+C1612,Peter,Motive,None,Alice
+C9009,Peter,Weapon,Poison,Peter
+C8117,Mary,Weapon,Knife,John
+C7252,Mary,Weapon,Knife,Mary
+C9353,Mary,Weapon,Gun,Alice
+C8136,Alice,Location,Bedroom,John
+C8134,Mary,Motive,Jealousy,Peter
+C6140,Mary,Motive,Revenge,Mary
+C5343,Mary,Opportunity,Low,John
+C9171,Mary,Location,Garden,Alice
+C2458,John,Opportunity,High,Mary
+C4123,Alice,Opportunity,High,Peter
+C6564,Peter,Opportunity,Low,Peter
+C9769,Peter,Weapon,Gun,John
+C4653,Mary,Motive,Jealousy,Alice
+C2383,Peter,Motive,Jealousy,John
+C2489,Mary,Motive,Financial Gain,Mary
+C8900,John,Opportunity,High,Alice
+C8566,Mary,Motive,Financial Gain,Alice
+C1731,Peter,Opportunity,High,Mary
+C7868,John,Weapon,Fists,Mary
+C6313,Peter,Motive,Jealousy,Alice
+C1058,John,Weapon,Knife,Alice
+C8059,Mary,Motive,None,Mary
+C5414,Peter,Motive,Financial Gain,Peter
+C3997,Peter,Motive,Financial Gain,Peter
+C3142,Mary,Opportunity,Medium,Mary
+C2184,Peter,Location,Garden,Peter
+C1604,Mary,Motive,Financial Gain,Mary
+C4866,Mary,Location,Living Room,Peter
+C5816,Peter,Weapon,Poison,Peter
+C8744,John,Location,Bedroom,Alice
+C1803,Peter,Opportunity,High,Peter
+C9611,Mary,Motive,None,John
+C8028,Mary,Opportunity,Low,John
+C3430,Alice,Motive,Revenge,Mary
+C5008,Peter,Motive,Revenge,John
+C5628,Peter,Location,Bedroom,John
+C5871,Mary,Location,Bedroom,John
+C3308,Mary,Motive,Financial Gain,Peter
+C2918,Peter,Opportunity,High,Alice
+C6124,Mary,Opportunity,Low,Alice
+C6737,Mary,Motive,None,Mary
+C6999,John,Location,Garden,Alice
+C6308,Alice,Opportunity,High,Alice
+C1383,Peter,Location,Kitchen,Alice
+C6276,Alice,Weapon,Fists,John
+C8285,Peter,Opportunity,High,Peter
+C7368,Alice,Weapon,Gun,Peter
+C2548,Peter,Motive,Revenge,Mary
+C5719,John,Motive,None,Mary
+C9345,Peter,Location,Garden,Alice
+C2584,Peter,Weapon,Poison,John
+C9545,Peter,Opportunity,Low,John
+C2916,Alice,Opportunity,High,John
+C4808,Alice,Motive,Jealousy,Mary
+C9703,Peter,Opportunity,Medium,Alice
+C6856,Alice,Motive,None,Peter
+C4953,Mary,Location,Living Room,Alice
+C4145,Alice,Motive,None,Mary
+C3519,Mary,Opportunity,Medium,Peter
+C8424,John,Location,Kitchen,Alice
+C2216,Alice,Weapon,Fists,Peter
+C1215,Mary,Location,Garden,Alice
+C2839,Peter,Location,Garden,Alice
+C6869,Peter,Opportunity,Low,Peter
+C5263,John,Location,Bedroom,John
+C3721,Alice,Weapon,Gun,Peter
+C6446,John,Weapon,Knife,John
+C6907,John,Weapon,Poison,Mary
+C3784,Mary,Weapon,Poison,John
+C9768,Mary,Motive,Financial Gain,Peter
+C3228,John,Location,Bedroom,John
+C7309,Mary,Location,Garden,John
+C3852,Peter,Weapon,Knife,Mary
+C4975,Peter,Location,Kitchen,John
+C5754,Alice,Motive,Financial Gain,Alice
+C6805,John,Location,Kitchen,John
+C6970,Peter,Motive,Jealousy,Alice
+C5559,Alice,Motive,Revenge,Alice
+C2052,Alice,Motive,Revenge,John
+C2089,Alice,Location,Bedroom,Alice
+C8444,Alice,Motive,None,Mary
+C9541,John,Location,Kitchen,Alice
+C3407,John,Motive,Revenge,John
+C8024,Mary,Motive,Jealousy,Peter
+C1087,Alice,Weapon,Knife,Mary
+C5856,Alice,Location,Bedroom,John
+C3974,Alice,Location,Living Room,Peter
+C2999,John,Weapon,Poison,Peter
+C2395,John,Location,Bedroom,Alice
+C6335,Peter,Motive,Revenge,Mary
+C9633,Peter,Opportunity,High,Mary
+C6304,John,Weapon,Gun,Alice
+C2649,John,Opportunity,High,Mary
+C5770,Mary,Location,Bedroom,Alice
+C8778,Peter,Location,Bedroom,Mary
+C7655,Mary,Opportunity,Medium,Mary
+C9569,Peter,Weapon,Gun,Mary
+C6987,Peter,Weapon,Knife,Alice
+C1356,John,Motive,Jealousy,Mary
+C9177,John,Opportunity,Medium,Mary
+C4989,Peter,Opportunity,Medium,Peter
+C4516,Alice,Location,Kitchen,Alice
+C7915,Mary,Motive,Financial Gain,John
+C8271,John,Opportunity,Low,Alice
+C1552,John,Motive,Jealousy,John
+C9016,Mary,Motive,Financial Gain,Alice
+C7053,Mary,Weapon,Knife,Alice
+C4740,Alice,Motive,Financial Gain,Alice
+C4415,Alice,Location,Living Room,Alice
+C2896,Peter,Location,Living Room,John
+C7686,Mary,Opportunity,Low,John
+C3480,Alice,Motive,Jealousy,John
+C7761,Peter,Opportunity,Medium,John
+C6546,Alice,Motive,Jealousy,Peter
+C7089,Peter,Location,Bedroom,Mary
+C2256,John,Location,Garden,Mary
+C7125,Alice,Location,Bedroom,John
+C7983,John,Location,Bedroom,John
+C1506,John,Motive,None,John
+C6868,Alice,Motive,Jealousy,Peter
+C4635,Alice,Opportunity,Low,Alice
+C1805,Mary,Opportunity,Medium,John
+C5445,John,Location,Kitchen,John
+C3961,John,Location,Garden,Mary
+C1229,John,Location,Bedroom,John
+C6058,Mary,Motive,None,Peter
+C4695,Mary,Opportunity,Medium,Mary
+C6721,Alice,Motive,None,Mary
+C1775,Peter,Opportunity,High,Peter
+C3883,John,Location,Kitchen,John
+C2254,Mary,Opportunity,High,Peter
+C8070,Alice,Weapon,Fists,Alice
+C5108,John,Weapon,Knife,Alice
+C5941,John,Motive,Financial Gain,John
+C8184,Peter,Weapon,Fists,Mary
+C4042,Peter,Opportunity,High,Peter
+C8581,Peter,Location,Living Room,Alice
+C3959,Mary,Motive,Jealousy,John
+C7918,Alice,Weapon,Knife,John
+C5745,John,Location,Living Room,John
+C7163,Alice,Location,Garden,Peter
+C9674,Alice,Opportunity,Medium,Alice
+C4685,Peter,Location,Kitchen,Peter
+C6646,Peter,Location,Garden,Peter
+C8918,Alice,Weapon,Gun,Alice
+C2858,Alice,Location,Bedroom,Mary
+C3993,Alice,Weapon,Knife,Peter
+C1888,Mary,Motive,Financial Gain,Peter
+C7404,John,Motive,Jealousy,John
+C6915,Alice,Weapon,Gun,Peter
+C4853,Peter,Weapon,Fists,Peter
+C4819,John,Weapon,Fists,Peter
+C8569,Peter,Location,Bedroom,John
+C8246,John,Motive,Financial Gain,John
+C8735,Mary,Location,Bedroom,Mary
+C6474,Mary,Motive,Jealousy,John
+C7635,Mary,Opportunity,Low,Mary
+C6596,Mary,Opportunity,High,Alice
+C8672,John,Opportunity,High,Mary
+C1690,Mary,Location,Bedroom,John
+C1403,Peter,Opportunity,Medium,Peter
+C9763,John,Opportunity,Low,Peter
+C4054,Mary,Weapon,Gun,Mary
+C6440,Mary,Motive,Financial Gain,Peter
+C3474,Alice,Motive,Revenge,Alice
+C3542,Mary,Location,Garden,Alice
+C4506,Mary,Opportunity,Low,Peter
+C7759,Alice,Weapon,Fists,Mary
+C2605,Mary,Weapon,Fists,Peter
+C1779,Peter,Opportunity,Medium,Peter
+C7214,John,Weapon,Fists,Mary
+C6762,Alice,Weapon,Gun,Peter
+C2401,Mary,Motive,Financial Gain,John
+C2365,Peter,Weapon,Knife,Alice
+C5357,John,Opportunity,Medium,John
+C6410,Mary,Motive,Financial Gain,Peter
+C9476,Mary,Motive,None,John
+C3257,Alice,Location,Kitchen,Peter
+C7503,Alice,Motive,Financial Gain,Peter
+C6267,John,Motive,None,Peter
+C9396,John,Opportunity,Medium,Peter
+C2010,John,Weapon,Gun,Peter
+C6288,Peter,Opportunity,Medium,Peter
+C8195,John,Motive,Jealousy,Mary
+C8501,John,Weapon,Poison,John
+C7632,Mary,Weapon,Knife,Peter
+C3837,Mary,Motive,Financial Gain,Alice
+C8910,Peter,Motive,Jealousy,Mary
+C4262,John,Motive,Jealousy,Mary
+C1971,Alice,Motive,None,Peter
+C8225,Mary,Motive,None,Alice
+C4311,Alice,Location,Bedroom,Peter
+C8221,John,Weapon,Gun,Alice
+C4775,Alice,Weapon,Fists,Peter
+C1620,Peter,Weapon,Knife,Peter
+C3569,Peter,Weapon,Poison,Alice
+C2184,Alice,Weapon,Knife,Peter
+C1331,John,Opportunity,Medium,Peter
+C7849,Mary,Weapon,Poison,Mary
+C9316,Peter,Motive,Jealousy,John
+C9894,John,Weapon,Gun,John
+C2022,Alice,Opportunity,High,Peter
+C2419,John,Location,Garden,John
+C8553,John,Motive,None,Mary
+C9959,Alice,Opportunity,High,Alice
+C5957,Mary,Opportunity,Medium,Mary
+C1469,Mary,Weapon,Gun,Alice
+C1016,John,Opportunity,High,Alice
+C4373,John,Opportunity,High,Mary
+C4830,Peter,Weapon,Gun,John
+C3948,Peter,Motive,None,John
+C1569,John,Motive,Financial Gain,Mary
+C3590,John,Motive,Financial Gain,Mary
+C2273,Alice,Motive,Jealousy,Mary
+C7896,John,Opportunity,Medium,Mary
+C1598,Alice,Opportunity,Low,Peter
+C7396,Alice,Weapon,Fists,Alice
+C4967,Peter,Location,Bedroom,Alice
+C6727,Peter,Weapon,Gun,Peter
+C3454,Peter,Weapon,Gun,Alice
+C9787,Peter,Opportunity,High,Alice
+C6162,Alice,Location,Living Room,Mary
+C9628,John,Opportunity,Medium,Mary
+C2261,Mary,Opportunity,High,Alice
+C2514,Alice,Opportunity,Low,Alice
+C5973,Mary,Weapon,Fists,Alice
+C6160,Mary,Opportunity,High,Alice
+C5801,Peter,Location,Kitchen,John
+C3389,Mary,Weapon,Knife,Alice
+C5040,John,Location,Bedroom,John
+C4231,Alice,Location,Kitchen,Peter
+C1988,John,Location,Garden,Peter
+C8125,Alice,Motive,None,Peter
+C6038,Alice,Location,Garden,John
+C1954,John,Opportunity,Low,Mary
+C5038,Peter,Motive,None,Peter
+C5174,Peter,Weapon,Knife,John
+C3634,Alice,Opportunity,High,Peter
+C4933,John,Opportunity,Medium,Peter
+C2722,Alice,Weapon,Gun,Alice
+C5908,John,Weapon,Poison,Mary
+C3237,Mary,Opportunity,Medium,Alice
+C8168,John,Opportunity,High,Mary
+C4011,John,Motive,Revenge,Mary
+C5504,John,Motive,Revenge,Mary
+C3186,Alice,Motive,Financial Gain,John
+C7851,John,Opportunity,High,Mary
+C3670,Mary,Motive,Revenge,John
+C8720,John,Motive,Financial Gain,Mary
+C4695,Alice,Weapon,Poison,John
+C3020,Peter,Location,Living Room,Peter
+C5108,Mary,Motive,None,John
+C8551,Alice,Location,Living Room,Mary
+C7420,John,Location,Kitchen,Peter
+C3861,Mary,Motive,Jealousy,John
+C7723,Peter,Weapon,Fists,Peter
+C9457,Mary,Weapon,Knife,Mary
+C3853,Alice,Motive,Jealousy,Alice
+C4014,Peter,Opportunity,Medium,Alice
+C8234,Peter,Weapon,Fists,John
+C4158,Peter,Location,Kitchen,Peter
+C7393,Mary,Motive,Jealousy,Mary
+C7568,Peter,Opportunity,Low,Mary
+C6189,John,Weapon,Gun,Mary
+C8814,Alice,Location,Living Room,Mary
+C6327,Peter,Opportunity,High,Mary
+C2355,Peter,Opportunity,Low,Mary
+C2420,Mary,Weapon,Fists,Peter
+C3335,John,Location,Kitchen,Peter
+C8983,John,Opportunity,Medium,Peter
+C5771,Peter,Motive,Revenge,Mary
+C2505,Alice,Weapon,Fists,Alice
+C6306,Alice,Weapon,Gun,Alice
+C2679,Alice,Motive,Financial Gain,John
+C4957,John,Location,Kitchen,John
+C9294,John,Weapon,Gun,John
+C9166,Mary,Weapon,Gun,Mary
+C4647,Alice,Weapon,Gun,Mary
+C6629,Alice,Motive,Revenge,Alice
+C3872,John,Weapon,Knife,Alice
+C3456,John,Opportunity,Medium,John
+C3565,Mary,Opportunity,Low,Peter
+C6542,Peter,Motive,Financial Gain,Peter
+C9588,Peter,Motive,Jealousy,Mary
+C9554,Peter,Motive,Jealousy,John
+C3074,Mary,Weapon,Poison,John
+C6582,Peter,Weapon,Knife,John
+C6511,John,Opportunity,Medium,Mary
+C6131,Mary,Weapon,Fists,John
+C1586,Alice,Location,Bedroom,Peter
+C9853,Mary,Motive,None,Peter
+C7862,Alice,Location,Kitchen,Alice
+C9653,John,Location,Bedroom,Mary
+C5652,Alice,Opportunity,Medium,Mary
+C3828,John,Opportunity,Medium,John
+C4057,Alice,Motive,None,Mary
+C5951,Alice,Location,Kitchen,John
+C8107,John,Location,Bedroom,John
+C6773,John,Location,Kitchen,Alice
+C5831,John,Opportunity,Medium,Alice
+C9472,John,Location,Garden,Alice
+C5222,Alice,Motive,Jealousy,Alice
+C6951,Mary,Location,Bedroom,Alice
+C4612,John,Weapon,Fists,Mary
+C1647,John,Location,Living Room,John
+C8370,Peter,Location,Garden,John
+C9121,John,Weapon,Gun,Alice
+C6720,Peter,Weapon,Poison,Alice
+C3420,Mary,Opportunity,Medium,Alice
+C4565,Alice,Weapon,Poison,Alice
+C4843,Alice,Opportunity,Medium,Mary
+C9057,Peter,Weapon,Fists,Peter
+C8549,Alice,Location,Kitchen,Peter
+C1798,John,Motive,None,Alice
+C2657,Alice,Weapon,Fists,Peter
+C9620,John,Opportunity,High,Alice
+C8022,Mary,Motive,None,Peter
+C9899,Peter,Motive,Financial Gain,Mary
+C9214,Alice,Weapon,Fists,Peter
+C5779,John,Location,Garden,John
+C1077,Mary,Location,Bedroom,Peter
+C1909,Mary,Motive,Jealousy,Mary
+C8420,John,Location,Garden,Mary
+C2403,John,Weapon,Knife,Alice
+C7261,Peter,Weapon,Poison,Mary
+C5334,Mary,Opportunity,Low,Mary
+C8126,John,Location,Garden,Alice
+C6217,Peter,Weapon,Gun,Mary
+C3204,Mary,Motive,Jealousy,John
+C9825,Peter,Opportunity,Medium,Alice
+C5398,Peter,Location,Living Room,John
+C4646,John,Motive,None,Peter
+C7453,Mary,Location,Garden,Mary
+C1944,Mary,Location,Living Room,Peter
+C3111,Mary,Location,Kitchen,Peter
+C5312,Alice,Opportunity,Low,John
+C3633,Mary,Opportunity,Medium,Mary
+C7723,Peter,Motive,Jealousy,Mary
+C7791,John,Opportunity,Low,Mary
+C4474,Peter,Location,Bedroom,Peter
+C9661,Mary,Location,Bedroom,John
+C4219,Peter,Motive,Jealousy,Alice
+C6654,John,Location,Bedroom,Alice
+C6904,Alice,Opportunity,Medium,Mary
+C3426,Mary,Motive,None,Mary
+C7888,Mary,Location,Garden,John
+C2175,Mary,Opportunity,Medium,Alice
+C3023,Mary,Motive,Revenge,Mary
+C6126,Mary,Weapon,Fists,Mary
+C3900,Peter,Weapon,Poison,Alice
+C4240,John,Motive,Jealousy,Alice
+C4183,Mary,Location,Garden,John
+C6125,Mary,Opportunity,Low,Mary
+C4175,John,Weapon,Fists,Mary
+C8393,Mary,Weapon,Gun,Alice
+C1766,Mary,Location,Living Room,Peter
+C4880,John,Location,Living Room,Peter
+C6612,John,Location,Garden,Peter
+C1109,Peter,Weapon,Fists,Mary
+C8515,Alice,Location,Bedroom,John
+C5823,John,Weapon,Knife,Mary
+C4607,Peter,Weapon,Poison,Mary
+C2803,John,Opportunity,High,Peter
+C9329,Peter,Weapon,Poison,Peter
+C7007,Peter,Location,Living Room,John
+C8319,Mary,Weapon,Poison,Mary
+C5154,John,Location,Kitchen,Mary
+C8207,Alice,Motive,None,John
+C1314,Mary,Motive,None,Alice
+C3682,Mary,Weapon,Poison,Mary
+C3890,Mary,Motive,Jealousy,John
+C7413,Alice,Weapon,Poison,Peter
+C5308,John,Weapon,Fists,John
+C9880,John,Weapon,Gun,Alice
+C7238,Mary,Location,Kitchen,John
+C9384,Peter,Motive,Financial Gain,John
+C5632,Alice,Location,Bedroom,Peter
+C7798,Peter,Location,Kitchen,Alice
+C4949,Peter,Weapon,Gun,John
+C9442,John,Motive,Financial Gain,John
+C4461,Alice,Opportunity,Low,John
+C3303,John,Opportunity,High,Mary
+C2866,Alice,Motive,None,John
+C9360,Peter,Weapon,Gun,Mary
+C2785,Mary,Motive,Revenge,Mary
+C8641,John,Motive,Revenge,Peter
+C7936,Peter,Opportunity,Medium,Mary
+C5582,Peter,Location,Garden,Peter
+C7099,Peter,Location,Bedroom,John
+C3126,Alice,Location,Kitchen,Peter
+C4477,John,Weapon,Poison,John
+C5486,Peter,Opportunity,High,John
+C1865,John,Opportunity,Low,John
+C8399,Peter,Motive,Financial Gain,John
+C6350,Alice,Weapon,Fists,Mary
+C2612,John,Weapon,Poison,Peter
+C3176,Alice,Location,Living Room,Alice
+C4664,Alice,Motive,None,Mary
+C7303,John,Weapon,Poison,Alice
+C4455,Mary,Weapon,Poison,Peter
+C8414,Mary,Location,Garden,Mary
+C3945,Peter,Weapon,Knife,John
+C1785,Alice,Opportunity,Low,Alice
+C4461,Peter,Weapon,Poison,Peter
+C4736,John,Opportunity,Low,Alice
+C7726,Alice,Motive,Jealousy,Peter
+C7264,Mary,Opportunity,High,Alice
+C5615,John,Location,Kitchen,John
+C5051,Alice,Location,Garden,Mary
+C9968,Alice,Weapon,Gun,Alice
+C4960,John,Location,Bedroom,John
+C3289,Mary,Opportunity,Medium,John
+C6746,Peter,Opportunity,Medium,Peter
+C3976,Alice,Motive,Financial Gain,John
+C1039,Mary,Location,Garden,Mary
+C4756,John,Motive,Financial Gain,Mary
+C3526,Mary,Opportunity,Low,Mary
+C4396,Alice,Location,Kitchen,Peter
+C8889,Alice,Weapon,Poison,John
+C5325,John,Motive,Financial Gain,John
+C5651,Peter,Opportunity,Low,Alice
+C6837,Peter,Motive,None,Peter
+C8104,Mary,Location,Garden,Alice
+C6554,Mary,Weapon,Fists,Mary
+C1236,Alice,Opportunity,High,John
+C3772,John,Location,Bedroom,Mary
+C9985,Mary,Motive,Jealousy,Peter
+C3358,John,Weapon,Gun,Peter
+C2406,Alice,Opportunity,High,Peter
+C4385,Alice,Weapon,Poison,John
+C6221,Mary,Motive,Revenge,Mary
+C8790,Mary,Opportunity,Low,Mary
+C8604,Peter,Opportunity,High,Peter
+C2736,Peter,Location,Bedroom,John
+C5730,Mary,Motive,Jealousy,John
+C5622,Peter,Location,Garden,Peter
+C1692,John,Weapon,Fists,John
+C1704,Peter,Motive,Revenge,Alice
+C9626,Mary,Location,Living Room,John
+C3042,Peter,Weapon,Knife,John
+C2936,John,Motive,Financial Gain,John
+C7577,John,Motive,None,Mary
+C1598,Alice,Location,Living Room,Alice
+C2319,Alice,Motive,Financial Gain,Alice
+C1719,Peter,Motive,Revenge,Alice
+C4408,Mary,Motive,Financial Gain,Alice
+C4439,Mary,Opportunity,Low,Mary
+C1872,Mary,Opportunity,High,Peter
+C2497,Peter,Opportunity,Medium,John
+C1021,Mary,Motive,None,Alice
+C8295,John,Location,Living Room,John
+C2573,Mary,Weapon,Knife,Mary
+C4122,Mary,Weapon,Poison,John
+C4412,John,Opportunity,Low,Mary
+C5933,Mary,Motive,Revenge,Alice
+C7049,Alice,Weapon,Gun,Mary
+C5131,Alice,Location,Kitchen,Mary
+C3940,Alice,Weapon,Poison,John
+C2354,John,Weapon,Gun,Alice
+C8220,Peter,Location,Garden,Peter
+C4061,John,Weapon,Gun,Mary
+C8579,Mary,Location,Bedroom,Mary
+C8230,Peter,Opportunity,High,Alice
+C5798,Peter,Weapon,Fists,Peter
+C4997,John,Weapon,Gun,Mary
+C4092,Alice,Opportunity,Medium,Mary
+C6841,Mary,Motive,Financial Gain,Mary
+C3139,Mary,Opportunity,High,John
+C5512,Mary,Motive,Financial Gain,Alice
+C3437,Mary,Weapon,Knife,Mary
+C6578,Mary,Weapon,Poison,Mary
+C4894,Peter,Weapon,Gun,Peter
+C2711,Alice,Weapon,Fists,Alice
+C1455,Peter,Weapon,Gun,Mary
+C3341,Peter,Location,Living Room,Peter
+C8015,John,Location,Living Room,John
+C1240,John,Opportunity,Medium,Mary
+C7719,Mary,Location,Bedroom,Peter
+C4463,Mary,Opportunity,Low,Peter
+C4276,John,Opportunity,Medium,Mary
+C7301,Mary,Weapon,Knife,Peter
+C3331,Peter,Motive,Jealousy,Peter
+C6633,Mary,Opportunity,Low,Alice
+C3950,Peter,Motive,Jealousy,Alice
+C1861,Peter,Motive,Financial Gain,Mary
+C8999,Alice,Motive,None,John
+C3509,Mary,Motive,Financial Gain,Peter
+C3785,Peter,Location,Bedroom,Peter
+C5361,Alice,Opportunity,Medium,Mary
+C6904,Mary,Weapon,Poison,Peter
+C2377,Mary,Weapon,Poison,John
+C5891,John,Weapon,Fists,Mary
+C9185,Alice,Weapon,Poison,Mary
+C7581,John,Motive,None,Peter
+C6822,John,Location,Garden,Mary
+C1131,Alice,Location,Garden,Mary
+C4326,Mary,Location,Kitchen,John
+C6814,John,Opportunity,Medium,John
+C6101,Mary,Motive,Financial Gain,Mary
+C6211,Alice,Opportunity,Low,Peter
+C2598,Mary,Weapon,Gun,Mary
+C1323,Alice,Opportunity,Medium,Peter
+C3625,Mary,Opportunity,Medium,Alice
+C9126,Alice,Opportunity,Medium,Alice
+C1104,Alice,Location,Kitchen,Peter
+C9885,Peter,Weapon,Gun,John
+C6934,Peter,Location,Bedroom,Peter
+C9983,Peter,Motive,None,Alice
+C4802,Mary,Opportunity,Low,Alice
+C9338,Peter,Weapon,Knife,Peter
+C8694,John,Weapon,Poison,Mary
+C3401,Peter,Weapon,Gun,Alice
+C7467,John,Weapon,Fists,Alice
+C1076,Mary,Location,Bedroom,Alice
+C6377,John,Motive,Financial Gain,Peter
+C1019,Alice,Weapon,Knife,Alice
+C3799,Mary,Motive,Revenge,John
+C7224,Peter,Motive,Jealousy,Alice
+C8764,John,Opportunity,Medium,Peter
+C7732,Peter,Weapon,Poison,Peter
+C4002,Mary,Motive,Financial Gain,Alice
+C2542,Alice,Motive,Financial Gain,Alice
+C5796,Peter,Opportunity,High,Mary
+C2594,Mary,Location,Kitchen,Peter
+C4382,Mary,Location,Living Room,Alice
+C4561,Peter,Location,Bedroom,Mary
+C5427,Alice,Motive,Revenge,Alice
+C3981,Peter,Motive,Jealousy,Alice
+C5979,Alice,Motive,None,John
+C9615,Alice,Location,Garden,Mary
+C3429,John,Location,Garden,Alice
+C7700,Mary,Motive,None,John
+C7355,Mary,Opportunity,Medium,John
+C7012,Mary,Opportunity,High,John
+C6596,Peter,Opportunity,High,Mary
+C1644,Mary,Motive,Financial Gain,John
+C4866,Peter,Motive,Jealousy,Mary
+C1445,Peter,Location,Garden,Peter
+C9223,Mary,Weapon,Poison,John
+C8767,Alice,Weapon,Knife,Peter
+C1700,Alice,Location,Kitchen,Mary
+C8060,Peter,Location,Bedroom,Alice
+C9402,Mary,Location,Garden,Alice
+C8223,Peter,Motive,Jealousy,Alice
+C7394,Alice,Opportunity,Low,Alice
+C1538,Alice,Motive,Jealousy,Peter
+C1539,Alice,Location,Garden,Alice
+C2639,Mary,Opportunity,Low,Peter
+C3161,Alice,Location,Bedroom,Mary
+C2018,Mary,Motive,Financial Gain,Mary
+C2075,Alice,Weapon,Knife,Mary
+C7102,John,Opportunity,Low,Alice
+C8797,John,Motive,Financial Gain,Mary
+C3051,John,Weapon,Gun,Alice
+C2850,John,Opportunity,Medium,Mary
+C7716,Peter,Motive,Financial Gain,Mary
+C9510,Alice,Motive,Jealousy,John
+C1034,Alice,Opportunity,Low,John
+C2157,John,Opportunity,Medium,Alice
+C9817,Mary,Motive,None,Peter
+C5621,Mary,Location,Kitchen,Alice
+C1123,Peter,Opportunity,High,Peter
+C3481,Alice,Location,Kitchen,Alice
+C4210,Mary,Opportunity,Low,Mary
+C4391,John,Opportunity,Low,Alice
+C1229,Mary,Motive,Financial Gain,Alice
+C7210,Mary,Motive,Financial Gain,Mary
+C4389,Mary,Motive,Financial Gain,Mary
+C8471,John,Location,Living Room,Peter
+C4333,Mary,Opportunity,High,Alice
+C7664,Alice,Weapon,Gun,Mary
+C9924,Mary,Weapon,Gun,Peter
+C1245,Peter,Opportunity,High,Alice
+C6100,John,Motive,Jealousy,Alice
+C6995,John,Opportunity,Medium,Mary
+C6508,Mary,Location,Garden,Peter
+C6125,Peter,Weapon,Gun,John
+C1370,John,Opportunity,High,John
+C9206,Alice,Opportunity,Low,Peter
+C6686,Peter,Weapon,Poison,Mary
+C8319,Mary,Opportunity,Low,John
+C5820,John,Weapon,Fists,Mary
+C9366,John,Opportunity,Low,Mary
+C1580,Alice,Motive,Jealousy,Peter
+C6846,John,Weapon,Fists,Alice
+C4189,Alice,Motive,Revenge,John
+C5103,Mary,Location,Kitchen,John
+C9519,Mary,Opportunity,Medium,Mary
+C9971,Mary,Motive,Revenge,Peter
+C4865,John,Opportunity,High,Alice
+C7093,John,Weapon,Gun,Peter
+C9457,Mary,Motive,None,Alice
+C4103,John,Opportunity,Medium,Alice
+C1614,Peter,Location,Living Room,Mary
+C1287,Mary,Weapon,Poison,Mary
+C5617,Alice,Weapon,Poison,John
+C7565,John,Weapon,Knife,John
+C5405,Mary,Location,Bedroom,Alice
+C6738,John,Opportunity,High,John
+C9734,Peter,Weapon,Knife,Mary
+C1350,Alice,Weapon,Poison,Mary
+C2101,John,Weapon,Fists,Alice
+C4616,Mary,Motive,Financial Gain,Alice
+C1435,Peter,Location,Kitchen,Peter
+C3725,John,Motive,None,Peter
+C4990,John,Motive,Revenge,John
+C5883,John,Motive,None,Peter
+C8490,John,Opportunity,Low,Peter
+C9329,Mary,Motive,Jealousy,Alice
+C9106,Peter,Opportunity,Medium,Peter
+C6272,Alice,Weapon,Poison,John
+C9283,Mary,Weapon,Fists,Peter
+C6880,Peter,Weapon,Knife,Mary
+C2626,Mary,Location,Bedroom,Alice
+C8688,Mary,Motive,Jealousy,John
+C7687,Peter,Weapon,Fists,Alice
+C7795,Alice,Opportunity,High,Peter
+C7206,John,Weapon,Gun,John
+C4990,Peter,Location,Bedroom,John
+C8569,Peter,Opportunity,Medium,Mary
+C7244,Mary,Motive,Financial Gain,John
+C8754,Alice,Motive,Financial Gain,John
+C6350,Peter,Motive,Financial Gain,Alice
+C7803,Peter,Location,Bedroom,John
+C7995,Mary,Opportunity,Medium,Peter
+C9923,Peter,Motive,None,John
+C7947,Alice,Weapon,Poison,Peter
+C4525,Alice,Weapon,Poison,Mary
+C3451,John,Opportunity,Low,Mary
+C3905,Peter,Opportunity,High,John
+C8690,Alice,Opportunity,Medium,Alice
+C1026,Peter,Location,Kitchen,John
+C4601,Peter,Motive,Jealousy,John
+C3393,Peter,Motive,Revenge,Alice
+C1485,Peter,Opportunity,Medium,Alice
+C3093,Alice,Location,Kitchen,Mary
+C3880,John,Weapon,Poison,Mary
+C1658,John,Motive,None,Peter
+C6840,Peter,Opportunity,Medium,Peter
+C6213,Alice,Location,Bedroom,Mary
+C1835,Alice,Weapon,Gun,Alice
+C7740,Mary,Weapon,Knife,John
+C5162,Alice,Weapon,Knife,Alice
+C1358,Mary,Motive,None,Mary
+C2687,Mary,Weapon,Poison,Peter
+C3048,Alice,Motive,Financial Gain,Peter
+C3000,Mary,Weapon,Poison,John
+C1548,Peter,Weapon,Fists,John
+C2904,Mary,Opportunity,Low,Alice
+C1322,Mary,Location,Garden,Alice
+C5283,Mary,Opportunity,High,John
+C3696,John,Weapon,Fists,John
+C3234,Mary,Weapon,Knife,Peter
+C9538,Peter,Opportunity,High,John
+C6034,Peter,Motive,None,Peter
+C1495,Alice,Weapon,Poison,John
+C7211,Mary,Opportunity,Low,Mary
+C4339,Peter,Opportunity,Medium,Alice
+C2604,Mary,Location,Living Room,Alice
+C7645,John,Weapon,Poison,Mary
+C8212,Alice,Opportunity,Medium,Mary
+C5423,John,Location,Living Room,Alice
+C4334,Alice,Weapon,Poison,Peter
+C7888,John,Motive,Revenge,Peter
+C3698,Mary,Weapon,Poison,Mary
+C9699,John,Motive,None,Alice
+C4050,Peter,Motive,Financial Gain,Alice
+C5541,John,Weapon,Gun,Peter
+C8854,John,Weapon,Poison,Mary
+C2785,Peter,Motive,None,Peter
+C1581,Peter,Motive,Financial Gain,John
+C9362,Alice,Motive,Revenge,Alice
+C6779,John,Weapon,Knife,Mary
+C7058,Alice,Opportunity,Low,John
+C4647,Mary,Weapon,Knife,John
+C6297,Peter,Motive,None,Mary
+C7076,Mary,Location,Living Room,Mary
+C1566,John,Opportunity,High,Alice
+C3316,Alice,Location,Living Room,Alice
+C2667,Alice,Motive,Financial Gain,John
+C2886,John,Motive,Revenge,Mary
+C3574,Alice,Motive,Jealousy,Mary
+C2722,Peter,Motive,None,John
+C9600,Mary,Weapon,Fists,Mary
+C1001,Peter,Opportunity,High,John
+C7856,Peter,Opportunity,High,John
+C8043,Alice,Location,Kitchen,Peter
+C2183,Mary,Location,Kitchen,Peter
+C9210,Peter,Motive,None,Peter
+C4895,John,Motive,Revenge,John
+C5212,Mary,Opportunity,High,Mary
+C4473,Mary,Motive,Financial Gain,Peter
+C8023,Alice,Opportunity,Low,Mary
+C6952,Mary,Location,Living Room,Peter
+C3331,Alice,Weapon,Poison,Peter
+C2671,Alice,Motive,None,Peter
+C8516,Alice,Location,Bedroom,Alice
+C8056,Mary,Motive,None,Peter
+C2927,Peter,Location,Bedroom,Peter
+C9753,Peter,Motive,None,Alice
+C2093,Alice,Location,Bedroom,John
+C6538,John,Opportunity,Low,Mary
+C6121,Alice,Motive,Revenge,Mary
+C9834,John,Location,Living Room,John
+C9638,John,Location,Bedroom,Peter
+C5233,Mary,Opportunity,High,Peter
+C9213,Peter,Opportunity,Medium,Mary
+C8422,Mary,Motive,Revenge,Mary
+C7380,John,Weapon,Gun,Peter
+C1505,Mary,Opportunity,High,Alice
+C6773,Peter,Weapon,Knife,Alice
+C9524,John,Opportunity,Low,John
+C3807,Mary,Opportunity,Low,Peter

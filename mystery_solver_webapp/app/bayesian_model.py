@@ -1,7 +1,7 @@
 import joblib
 from pgmpy.inference import VariableElimination
 
-model=joblib.load('bayesian_model.joblib')
+model=joblib.load('G:\OneDrive - northsouth.edu\CODES\PROJECTS\PROJECT-MYSTERY SOLVER\Bayesian_model.joblib')
 
 class BayesianModel:
 

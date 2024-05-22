@@ -49,42 +49,47 @@
     <div class="container col-xxl-8 px-4 py-5">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div class="col-10 col-sm-8 col-lg-6">
-                <form id="mysteryForm">
+                <form id="mysteryForm" method="post" action="{% url 'app:story' story.pk %}">
+                    {% csrf_token %}
                     <div class="input-group mb-3">
-                        <label class="input-group-text" for="inputGroupSelect01">Options</label>
-                        <select class="form-select" id="inputGroupSelect01" required>
+                        <label class="input-group-text" for="inputGroupSelect01">Murder Weapon</label>
+                        <select class="form-select" id="inputGroupSelect01" name="weapon" required>
                             <option selected value="" disabled>Choose...</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
+                            <option value="Knife">Knife</option>
+                            <option value="Gun">Gun</option>
+                            <option value="Poison">Poison</option>
+                            <option value="Fists">Fists</option>
+
                         </select>
                     </div>
 
                     <div class="input-group mb-3">
-                        <label class="input-group-text" for="inputGroupSelect02">Options</label>
-                        <select class="form-select" id="inputGroupSelect02" required>
+                        <label class="input-group-text" for="inputGroupSelect02">Murder Location</label>
+                        <select class="form-select" id="inputGroupSelect02" name="location" required>
                             <option selected value="" disabled>Choose...</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
+                            <option value="Living Room">Living Room</option>
+                            <option value="Kitchen">Kitchen</option>
+                            <option value="Bedroom">Bedroom</option>
+                            <option value="Garden">Garden</option>
                         </select>
                     </div>
                     <div class="input-group mb-3">
-                        <label class="input-group-text" for="inputGroupSelect03">Options</label>
-                        <select class="form-select" id="inputGroupSelect03" required>
+                        <label class="input-group-text" for="inputGroupSelect03">Murder Motive</label>
+                        <select class="form-select" id="inputGroupSelect03" name="motive" required>
                             <option selected value="" disabled>Choose...</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
+                            <option value="Jealousy">Jealousy</option>
+                            <option value="Revenge">Revenge</option>
+                            <option value="Greed">Greed</option>
+                            <option value="None">None</option>
                         </select>
                     </div>
                     <div class="input-group mb-3">
-                        <label class="input-group-text" for="inputGroupSelect04">Options</label>
-                        <select class="form-select" id="inputGroupSelect04" required>
+                        <label class="input-group-text" for="inputGroupSelect04">Murder Opportunity</label>
+                        <select class="form-select" id="inputGroupSelect04" name="opportunity" required>
                             <option selected value="" disabled>Choose...</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
+                            <option value="High">High</option>
+                            <option value="Medium">Meidum</option>
+                            <option value="Low">Low</option>
                         </select>
                     </div>
 
@@ -92,15 +97,17 @@
                         Small shadow
                     </div>
                     <button type="submit" id="predictButton" class="btn btn-success">Predict</button>
-
                 </form>
 
             </div>
             <div class="col-lg-6">
-                <p class="lead">Quickly design and customize responsive mobile-first sites with
-                    Bootstrap, the world’s
-                    most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid
-                    system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+                <h3>Mystery {{story.pk}} Plot:</h3>
+                <p class="lead">{{story.plot_of_the_murder | safe}}</p>
+                <br>
+                <h3>Whereabouts of Suspects:</h3>
+                <p class="lead">{{story.whereabouts | safe}}</p>
+                <h3>Evidence found:</h3>
+                <p class="lead">{{story.evidence | safe}}</p>
                 <button type="button" id="solveButton" class="btn btn-success">Solve</button>
             </div>
         </div>
@@ -118,14 +125,53 @@
         document.getElementById('mysteryForm').addEventListener('submit', function (event) {
             event.preventDefault(); // Prevent the form from submitting the traditional way
 
-            // Simulate an asynchronous operation
-            setTimeout(function () {
-                document.getElementById('shadowDiv').style.display = 'block';
-                document.getElementById('predictButton').innerText = 'Again';
+            const formData = new FormData(this);
+
+            fetch('{% url 'app:story' story.pk %}', {
+                method: 'POST',
+                headers: {
+                    'X-CSRFToken': formData.get('csrfmiddlewaretoken')
+                },
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Assuming 'data.message' contains the context text from your Django 
+                const predictionsDiv = document.getElementById('shadowDiv');                
+                // Clear any existing content
+                predictionsDiv.innerHTML = '';
+                predictionsDiv.innerHTML=`<h3>Bayesian Inference Results:</h3><br>
+                                        <h6>Potential Guilty Suspect is: <b>${data.potential_suspect}</b></h6>`
+                if (typeof data.predictions === 'object') {
+                    for (let person in data.predictions) {
+                        if (data.predictions.hasOwnProperty(person)) {
+                            const personPredictions = data.predictions[person];
+                            const personDiv = document.createElement('div');
+                            personDiv.innerHTML = `<strong>${person}:</strong><br>`;
+                            
+                            for (let verdict in personPredictions) {
+                                const percentage = personPredictions[verdict] * 100;
+                                const verdictText = verdict === "0" ? "Not Guilty" : "Guilty";
+                                const p = document.createElement('p');
+                                p.textContent = `${verdictText} - ${percentage.toFixed(2)}%`;
+                                personDiv.appendChild(p);
+                            }
+                            
+                            predictionsDiv.appendChild(personDiv);
+                        }
+                    }
+                } else {
+                    // If it's already a string or another type, set it directly
+                    predictionsDiv.innerText = data.predictions;
+                }
+                predictionsDiv.style.display = 'block';
+
+                document.getElementById('predictButton').innerText = 'Solve another';
                 document.getElementById('predictButton').addEventListener('click', function () {
                     location.reload(); // Reload the page
                 });
-            }, 500); // Simulate a delay of 500ms
+            })
+            .catch(error => console.error('Error:', error));
         });
     </script>
 </body>
