@@ -3,13 +3,12 @@ mystery_solver_final/
 try_mystery/
 .venv/
 linux_env/
-
 # Django #
 *.log
 *.pot
 *.pyc
 __pycache__
-
+db.sqlite3
 media
 
 # Backup files # 
