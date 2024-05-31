@@ -30,11 +30,12 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
-All the dependencies will now be installed. Do not close the terminal or command prompt for future usage.
+All the dependencies will now be installed. Please don't close the terminal or command prompt for future usage.
 
 6) To run the model file, open the code directory in VSCode. Open the bayesian_model_final.ipynb file. Select the virtual environment you created to run the file with. Install the Jupyter Notebook extension in VSCode if you don't have it installed.
+   ![Screenshot (2312)](https://github.com/FarhanTahmid/Mystery-Solver-App/assets/62169118/fef2ed4c-a772-4a92-bef6-f600546e28e5)
 
-7) To run the Web app, go to the terminal or command prompt where the virtual environment is active. Change the directory now to mystery_solver_webapp
+8) To run the Web app, go to the terminal or command prompt where the virtual environment is active. Change the directory now to mystery_solver_webapp
 ```bash
 cd mystery_solver_webapp
 ```
@@ -45,3 +46,8 @@ python manage.py runserver
 ```
 
 9) When the server starts, you will see a link in the terminal or command prompt of this type: "http://127.0.0.1:8000.". Copy and paste that into your browser to see the web app running.
+
+Interface will look like this:
+    ![Screenshot (2310)](https://github.com/FarhanTahmid/Mystery-Solver-App/assets/62169118/869da522-44ef-4599-bdf3-b6560c40767b)
+    ![Screenshot (2311)](https://github.com/FarhanTahmid/Mystery-Solver-App/assets/62169118/5ab031c3-5148-4267-a27a-5504b55a72e2)
+
